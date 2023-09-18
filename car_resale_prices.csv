@@ -1,0 +1,1000 @@
+,full_name,resale_price,registered_year,engine_capacity,insurance,transmission_type,kms_driven,owner_type,fuel_type,max_power,seats,mileage,body_type,city
+0,2017 Maruti Baleno 1.2 Alpha,₹ 5.45 Lakh,2017,1197 cc,Third Party insurance,Manual,"40,000 Kms",First Owner,Petrol,83.1bhp,5,21.4 kmpl,Hatchback,Agra
+1,2018 Tata Hexa XTA,₹ 10 Lakh,2018,2179 cc,Third Party insurance,Automatic,"70,000 Kms",First Owner,Diesel,153.86bhp,7,17.6 kmpl,MUV,Agra
+2,2015 Maruti Swift Dzire VXI,₹ 4.50 Lakh,2015,1197 cc,Third Party insurance,Manual,"70,000 Kms",Second Owner,Petrol,83.14bhp,5,20.85 kmpl,Sedan,Agra
+3,2015 Maruti Swift Dzire VXI,₹ 4.50 Lakh,2015,1197 cc,Third Party insurance,Manual,"70,000 Kms",Second Owner,Petrol,83.14bhp,5,20.85 kmpl,Sedan,Agra
+4,2009 Hyundai i10 Magna 1.1,₹ 1.60 Lakh,2009,1086 cc,Third Party insurance,Manual,"80,000 Kms",First Owner,Petrol,68.05bhp,5,19.81 kmpl,Hatchback,Agra
+5,2015 Hyundai i20 Active 1.2,₹ 4.70 Lakh,2015,1197 cc,Third Party insurance,Manual,"70,000 Kms",First Owner,Petrol,81.86bhp,5,17.19 kmpl,Hatchback,Agra
+6,2017 Tata Tiago 1.05 Revotorq XZ,₹ 3.60 Lakh,2017,1047 cc,Third Party insurance,Manual,"1,20,000 Kms",First Owner,Diesel,69bhp,5,27.28 kmpl,Hatchback,Agra
+7,2010 Hyundai i10 Magna 1.1,₹ 2 Lakh,2010,1086 cc,Third Party insurance,Manual,"60,000 Kms",Second Owner,Petrol,68.05bhp,5,19.81 kmpl,Hatchback,Agra
+8,2016 Maruti Eeco 7 Seater Standard BSIV,₹ 3.70 Lakh,2016,1196 cc,Third Party insurance,Manual,"20,000 Kms",First Owner,Petrol,73bhp,7,15.37 kmpl,Minivans,Agra
+9,2009 Hyundai Santro Xing GL,₹ 1.20 Lakh,2009,1086 cc,Third Party insurance,Manual,"30,000 Kms",First Owner,Petrol,62bhp,5,,Hatchback,Agra
+10,2014 Honda Amaze E i-Vtech,₹ 3.30 Lakh,2014,1198 cc,Third Party insurance,Manual,"70,000 Kms",First Owner,Petrol,86.7bhp,5,18 kmpl,Sedan,Agra
+11,2018 Hyundai Xcent 1.2 VTVT SX,₹ 4.75 Lakh,2018,1197 cc,Third Party insurance,Manual,"60,000 Kms",Second Owner,Petrol,81.86bhp,5,20.14 kmpl,Sedan,Agra
+12,2020 Maruti Ciaz Sigma BSIV,₹ 6.86 Lakh,2020,1462 cc,Third Party insurance,Manual,"50,000 Kms",Third Owner,Petrol,103.25bhp,5,21.56 kmpl,Sedan,Agra
+13,2021 Hyundai Venue SX Opt Executive Diesel,₹ 12.50 Lakh,2021,1493 cc,Third Party insurance,Manual,"60,000 Kms",First Owner,Diesel,98.6bhp,5,23.7 kmpl,SUV,Agra
+14,2021 Hyundai Venue SX Dual Tone Diesel BSIV,₹ 11 Lakh,2021,1396 cc,Third Party insurance,Manual,"60,000 Kms",First Owner,Diesel,89bhp,5,23.7 kmpl,SUV,Agra
+15,2019 Maruti Alto K10 VXI AGS Optional,₹ 3.95 Lakh,2019,998 cc,Third Party insurance,Automatic,"20,000 Kms",First Owner,Petrol,67.1bhp,5,23.95 kmpl,Hatchback,Agra
+16,2016 Maruti Wagon R LXI CNG,₹ 3.50 Lakh,2016,998 cc,Third Party insurance,Manual,"40,000 Kms",First Owner,CNG,58.16bhp,5,26.6 kmpl,Hatchback,Agra
+17,2011 Toyota Etios VX,₹ 2.89 Lakh,2011,1496 cc,Third Party insurance,Manual,"50,000 Kms",Second Owner,Petrol,88.7bhp,5,17.6 kmpl,Sedan,Agra
+18,2011 Toyota Corolla Altis Diesel D4DGL,₹ 2.82 Lakh,2011,1364 cc,Third Party insurance,Manual,"1,50,000 Kms",First Owner,Diesel,87.2bhp,5,21.43 kmpl,Sedan,Agra
+19,2021 Kia Sonet HTX Plus Turbo iMT BSVI,₹ 10 Lakh,2021,998 cc,Third Party insurance,Manual,"10,000 Kms",First Owner,Petrol,118.36bhp,5,18.2 kmpl,SUV,Agra
+20,2020 Maruti Ciaz Alpha BSVI,₹ 7.85 Lakh,2020,1462 cc,Third Party insurance,Manual,"30,000 Kms",Second Owner,Petrol,103.25bhp,5,20.65 kmpl,Sedan,Agra
+21,2014 Ford Ecosport 1.5 DV5 MT Ambiente,₹ 3 Lakh,2014,1498 cc,Third Party insurance,Manual,"1,50,000 Kms",Third Owner,Diesel,89.84bhp,5,22.7 kmpl,SUV,Agra
+22,2011 Mitsubishi Outlander 2.4,₹ 3.97 Lakh,2011,2360 cc,Third Party insurance,Automatic,"80,000 Kms",Second Owner,Petrol,170PS,5,11.3 kmpl,SUV,Agra
+23,2015 Maruti Swift Dzire VDI,₹ 3.75 Lakh,2015,1248 cc,Third Party insurance,Manual,"20,000 Kms",First Owner,Diesel,74bhp,5,26.59 kmpl,Sedan,Agra
+24,2011 Maruti Alto K10 LXI,₹ 1 Lakh,2011,998 cc,Third Party insurance,Manual,"1,20,000 Kms",Third Owner,Petrol,67.1bhp,5,20.92 kmpl,Hatchback,Agra
+25,2011 Mitsubishi Outlander 2.4,₹ 3.97 Lakh,2011,2360 cc,Third Party insurance,Automatic,"80,000 Kms",Second Owner,Petrol,170PS,5,11.3 kmpl,SUV,Agra
+26,2021 Maruti Baleno Zeta,₹ 6.75 Lakh,2021,1197 cc,Third Party insurance,Manual,"40,000 Kms",First Owner,Petrol,81.80bhp,5,21.01 kmpl,Hatchback,Agra
+27,2018 Hyundai Xcent 1.2 VTVT SX,₹ 4.65 Lakh,2018,1197 cc,Third Party insurance,Manual,"60,000 Kms",Second Owner,Petrol,81.86bhp,5,20.14 kmpl,Sedan,Agra
+28,2015 Maruti Swift Dzire VXI,₹ 4.80 Lakh,2015,1197 cc,Third Party insurance,Manual,"80,000 Kms",Second Owner,Petrol,83.14bhp,5,20.85 kmpl,Sedan,Agra
+29,2014 Maruti Alto 800 LXI,₹ 2.25 Lakh,2014,796 cc,Third Party insurance,Manual,"1,00,000 Kms",First Owner,Petrol,47.3bhp,5,22.74 kmpl,Hatchback,Agra
+30,2016 Maruti Wagon R VXI Optional,₹ 3.20 Lakh,2016,998 cc,Third Party insurance,Manual,"70,000 Kms",Second Owner,Petrol,67.04bhp,5,20.51 kmpl,Hatchback,Agra
+31,2015 Hyundai Grand i10 Sportz,₹ 4.15 Lakh,2015,1197 cc,Third Party insurance,Manual,"30,000 Kms",First Owner,Petrol,82bhp,5,18.9 kmpl,Hatchback,Agra
+32,2012 Maruti Swift VDI,₹ 2.40 Lakh,2012,1248 cc,Third Party insurance,Manual,"1,20,000 Kms",Third Owner,Diesel,74bhp,5,22.9 kmpl,Hatchback,Agra
+33,2013 Mahindra XUV500 W6 2WD,₹ 3.50 Lakh,2013,2179 cc,Third Party insurance,Manual,"1,00,000 Kms",Third Owner,Diesel,140bhp,7,15.1 kmpl,SUV,Agra
+34,2013 Mahindra XUV500 W6 2WD,₹ 3.50 Lakh,2013,2179 cc,Third Party insurance,Manual,"1,00,000 Kms",Third Owner,Diesel,140bhp,7,15.1 kmpl,SUV,Agra
+35,2013 Tata New Safari DICOR 2.2 EX 4x2,₹ 2.96 Lakh,2013,2179 cc,Third Party insurance,Manual,"90,000 Kms",Second Owner,Diesel,138.1bhp,7,11.57 kmpl,SUV,Agra
+36,2013 Tata New Safari DICOR 2.2 EX 4x2,₹ 2.96 Lakh,2013,2179 cc,Third Party insurance,Manual,"90,000 Kms",Second Owner,Diesel,138.1bhp,7,11.57 kmpl,SUV,Agra
+37,2018 Tata Tiago 1.2 Revotron XE,₹ 3.16 Lakh,2018,1199 cc,Third Party insurance,Manual,"1,00,000 Kms",First Owner,Petrol,84bhp,5,23.84 kmpl,Hatchback,Agra
+38,2017 Maruti Vitara Brezza ZDi Plus Dual Tone,₹ 7.50 Lakh,2017,1248 cc,Third Party insurance,Manual,"1,00,000 Kms",Second Owner,Diesel,88.5bhp,5,24.3 kmpl,SUV,Agra
+39,2019 Maruti Ertiga VDI,₹ 9 Lakh,2019,1248 cc,Third Party insurance,Manual,"1,20,000 Kms",First Owner,Diesel,88.50bhp,7,25.47 kmpl,MUV,Agra
+40,2022 Maruti Celerio VXI BSVI,₹ 5.60 Lakh,2022,998 cc,Third Party insurance,Manual,"10,000 Kms",First Owner,Petrol,65.71bhp,5,25.24 kmpl,Hatchback,Agra
+41,2017 Maruti Vitara Brezza ZDi Plus,₹ 8 Lakh,2017,1248 cc,Third Party insurance,Manual,"1,50,000 Kms",First Owner,Diesel,88.5bhp,5,24.3 kmpl,SUV,Agra
+42,2017 Hyundai Creta 1.4 E Plus,₹ 9 Lakh,2017,1396 cc,Third Party insurance,Manual,"1,20,000 Kms",Second Owner,Diesel,88.7bhp,5,22.1 kmpl,SUV,Agra
+43,2019 Maruti Alto 800 LXI,₹ 2.80 Lakh,2019,796 cc,Third Party insurance,Manual,"80,000 Kms",First Owner,Petrol,47.33bhp,5,22.05 kmpl,Hatchback,Agra
+44,2013 Toyota Innova 2.5 E Diesel MS 7-seater,₹ 5.50 Lakh,2013,2494 cc,Third Party insurance,Manual,"90,000 Kms",Second Owner,Diesel,100.6bhp,7,11.4 kmpl,Toyota,Agra
+45,2009 Toyota Innova 2.5 G (Diesel) 7 Seater BS III,₹ 2.50 Lakh,2009,2494 cc,Third Party insurance,Manual,"1,50,000 Kms",First Owner,Diesel,102,8,12.8 kmpl,MUV,Agra
+46,2011 Tata Manza Aqua Quadrajet,₹ 1.50 Lakh,2011,1248 cc,Third Party insurance,Manual,"1,50,000 Kms",First Owner,Diesel,90 PS,5,18.8 kmpl,Sedan,Agra
+47,2011 Tata Manza Aqua Quadrajet,₹ 1.50 Lakh,2011,1248 cc,Third Party insurance,Manual,"1,50,000 Kms",First Owner,Diesel,90 PS,5,18.8 kmpl,Sedan,Agra
+48,2017 Hyundai Grand i10 1.2 CRDi Sportz Option,₹ 4.80 Lakh,2017,1186 cc,Third Party insurance,Manual,"20,000 Kms",First Owner,Diesel,73.97bhp,5,24 kmpl,Hatchback,Agra
+49,2017 Maruti Eeco CNG 5 Seater AC BSIV,₹ 3 Lakh,2017,1196 cc,Third Party insurance,Manual,"1,50,000 Kms",First Owner,CNG,61.7bhp,5,21.94 km/kg,Minivans,Agra
+50,2017 Maruti Eeco CNG 5 Seater AC BSIV,₹ 3 Lakh,2017,1196 cc,Third Party insurance,Manual,"1,50,000 Kms",First Owner,CNG,61.7bhp,5,21.94 km/kg,Minivans,Agra
+51,2017 Maruti Eeco CNG 5 Seater AC BSIV,₹ 3 Lakh,2017,1196 cc,Third Party insurance,Manual,"1,50,000 Kms",First Owner,CNG,61.7bhp,5,21.94 km/kg,Minivans,Agra
+52,2014 Audi A4 2.0 TDI,₹ 12 Lakh,2014,1968 cc,Third Party insurance,Automatic,"30,000 Kms",Second Owner,Diesel,147.51bhp,5,16.55 kmpl,Sedan,Agra
+53,2022 Hyundai i20 Sportz BSVI,₹ 8 Lakh,2022,1197 cc,Third Party insurance,Manual,"10,000 Kms",First Owner,Petrol,81.80bhp,5,21 kmpl,Hatchback,Agra
+54,2012 Volkswagen Polo Diesel Trendline 1.2L,₹ 2 Lakh,2012,1199 cc,Third Party insurance,Manual,"80,000 Kms",Fifth Owner,Diesel,73.9bhp,5,22.07 kmpl,Hatchback,Agra
+55,2019 Maruti Vitara Brezza VDi,₹ 7.40 Lakh,2019,1248 cc,Third Party insurance,Manual,"80,000 Kms",Second Owner,Diesel,88.5bhp,5,24.3 kmpl,SUV,Agra
+56,2009 Hyundai Santro Xing GLS,₹ 1.50 Lakh,2009,1086 cc,Third Party insurance,Manual,"30,000 Kms",First Owner,Petrol,62.1bhp,5,17.92 kmpl,Hatchback,Agra
+57,2016 Maruti Swift Dzire VDI,₹ 5.20 Lakh,2016,1248 cc,Third Party insurance,Manual,"30,000 Kms",First Owner,Diesel,74bhp,5,26.59 kmpl,Sedan,Agra
+58,2010 Hyundai i10 Sportz 1.2,₹ 1.70 Lakh,2010,1197 cc,Third Party insurance,Manual,"80,000 Kms",Third Owner,Petrol,78.9bhp,5,20.36 kmpl,Hatchback,Agra
+59,2021 Hyundai Venue S BSIV,₹ 7.10 Lakh,2021,1197 cc,Third Party insurance,Manual,"30,000 Kms",First Owner,Petrol,81.86bhp,5,17.52 kmpl,SUV,Agra
+60,2021 Skoda Rapid 1.0 TSI Onyx,₹ 9.50 Lakh,2021,999 cc,Third Party insurance,Manual,"20,000 Kms",First Owner,Petrol,108.62bhp,5,18.97 kmpl,Sedan,Agra
+61,2013 Ford Figo Diesel ZXI,₹ 2.40 Lakh,2013,1399 cc,Third Party insurance,Manual,"70,000 Kms",First Owner,Diesel,68.05bhp,5,20 kmpl,Hatchback,Agra
+62,2021 Skoda Rapid 1.0 TSI Onyx,₹ 9.30 Lakh,2021,999 cc,Third Party insurance,Manual,"20,000 Kms",First Owner,Petrol,108.62bhp,5,18.97 kmpl,Sedan,Agra
+63,2022 MG Hector Plus Select Diesel MT 7 STR,₹ 19.22 Lakh,2022,1956 cc,Third Party insurance,Manual,"20,000 Kms",First Owner,Diesel,167.67bhp,7,16.56 kmpl,SUV,Agra
+64,2013 Hyundai EON D Lite,₹ 1.50 Lakh,2013,814 cc,Third Party insurance,Manual,"50,000 Kms",Second Owner,Petrol,55.2bhp,5,21.1 kmpl,Hatchback,Agra
+65,2015 Hyundai Grand i10 Magna,₹ 3.80 Lakh,2015,1197 cc,Third Party insurance,Manual,"30,000 Kms",First Owner,Petrol,82bhp,5,18.9 kmpl,Hatchback,Agra
+66,2021 Tata Punch Adventure BSVI,₹ 5.90 Lakh,2021,1199 cc,Third Party insurance,Manual,"30,000 Kms",First Owner,Petrol,86.63bhp,5,20.09 kmpl,SUV,Agra
+67,2016 Volkswagen Polo 1.5 TDI Comfortline,₹ 4 Lakh,2016,1498 cc,Third Party insurance,Manual,"1,50,000 Kms",First Owner,Diesel,88bhp,5,20.14 kmpl,Hatchback,Agra
+68,2013 Toyota Etios Liva GD,₹ 3 Lakh,2013,1364 cc,Third Party insurance,Manual,"40,000 Kms",First Owner,Diesel,67.06bhp,5,23.59 kmpl,Hatchback,Agra
+69,2017 Renault Duster 85PS Diesel RxE,₹ 5 Lakh,2017,1461 cc,Third Party insurance,Manual,"1,20,000 Kms",First Owner,Diesel,83.8bhp,5,19.87 kmpl,SUV,Agra
+70,2015 Maruti Alto 800 LXI,₹ 2.10 Lakh,2015,796 cc,Third Party insurance,Manual,"20,000 Kms",First Owner,Petrol,47.3bhp,5,22.74 kmpl,Hatchback,Agra
+71,2009 Maruti Wagon R LX Minor,₹ 1 Lakh,2009,998 cc,Third Party insurance,Manual,"90,000 Kms",Second Owner,Petrol,67.1bhp,5,18.9 kmpl,Hatchback,Agra
+72,2015 Mahindra XUV500 W10 2WD,₹ 9 Lakh,2015,2179 cc,Third Party insurance,Manual,"50,000 Kms",First Owner,Diesel,140bhp,7,16 kmpl,SUV,Agra
+73,2020 Kia Seltos HTX Diesel,₹ 13.49 Lakh,2020,1493 cc,Third Party insurance,Manual,"70,000 Kms",First Owner,Diesel,113.43bhp,5,20.8 kmpl,SUV,Agra
+74,2019 Maruti Swift Dzire VDI,₹ 6.50 Lakh,2019,1248 cc,Third Party insurance,Manual,"50,000 Kms",First Owner,Diesel,74.02bhp,5,28.4 kmpl,Sedan,Agra
+75,2019 Maruti Wagon R LXI,₹ 4.75 Lakh,2019,998 cc,Third Party insurance,Manual,"20,000 Kms",First Owner,Petrol,67.05bhp,5,21.79 kmpl,Hatchback,Agra
+76,2014 Nissan Terrano XE 85 PS,₹ 3.20 Lakh,2014,1461 cc,Third Party insurance,Manual,"90,000 Kms",Second Owner,Diesel,83.8bhp,5,20.45 kmpl,SUV,Agra
+77,2019 Maruti Swift Dzire VDI,₹ 6.50 Lakh,2019,1248 cc,Third Party insurance,Manual,"50,000 Kms",First Owner,Diesel,74.02bhp,5,28.4 kmpl,Sedan,Agra
+78,2015 Hyundai Grand i10 Sportz,₹ 3.70 Lakh,2015,1197 cc,Third Party insurance,Manual,"60,000 Kms",Second Owner,Petrol,82bhp,5,18.9 kmpl,Hatchback,Agra
+79,2009 Maruti Wagon R LXI Minor,₹ 1.10 Lakh,2009,1061 cc,Third Party insurance,Manual,"90,000 Kms",Second Owner,Petrol,67bhp,5,18.9 kmpl,Hatchback,Agra
+80,2009 Chevrolet Spark 1.0 LT Option Pack,"₹ 50,000",2009,995 cc,Third Party insurance,Manual,"60,000 Kms",Second Owner,Petrol,"63PS at 5,400 rpm",5,16 kmpl,Hatchback,Agra
+81,2020 Ford Figo Titanium Diesel,₹ 5.50 Lakh,2020,1499 cc,Third Party insurance,Manual,"60,000 Kms",Second Owner,Diesel,98.96bhp,5,24.4 kmpl,Hatchback,Agra
+82,2015 Honda Jazz 1.5 E i DTEC,₹ 3.90 Lakh,2015,1498 cc,Third Party insurance,Manual,"90,000 Kms",Second Owner,Diesel,98.6bhp,5,27.3 kmpl,Hatchback,Agra
+83,2017 Hyundai i10 Magna 1.1L,₹ 2.50 Lakh,2017,1086 cc,Third Party insurance,Manual,"20,000 Kms",Second Owner,Petrol,68.05bhp,5,19.81 kmpl,Hatchback,Agra
+84,2013 Maruti Alto 800 VXI,₹ 2 Lakh,2013,796 cc,Third Party insurance,Manual,"80,000 Kms",First Owner,Petrol,47.3bhp,5,22.74 kmpl,Hatchback,Agra
+85,2022 Maruti Swift Dzire VXI BSVI,₹ 7.25 Lakh,2022,1197 cc,Third Party insurance,Manual,"10,000 Kms",First Owner,Petrol,88.50bhp,5,22.41 kmpl,Sedan,Agra
+86,2017 Honda Jazz 1.5 V i DTEC,₹ 4.50 Lakh,2017,1498 cc,Third Party insurance,Manual,"1,10,000 Kms",First Owner,Diesel,98.6bhp,5,27.3 kmpl,Hatchback,Agra
+87,2017 Honda City i-DTEC ZX,₹ 7.50 Lakh,2017,1498 cc,Third Party insurance,Manual,"1,20,000 Kms",First Owner,Diesel,97.9bhp,5,25.6 kmpl,Sedan,Agra
+88,2011 Toyota Etios Liva GD,₹ 2.15 Lakh,2011,1364 cc,Third Party insurance,Manual,"70,000 Kms",Third Owner,Diesel,,5,23.59 kmpl,Hatchback,Agra
+89,2013 Maruti Alto 800 VXI,₹ 2.06 Lakh,2013,796 cc,Third Party insurance,Manual,"80,000 Kms",First Owner,Petrol,47.3bhp,5,22.74 kmpl,Hatchback,Agra
+90,2015 Mahindra XUV500 W8 2WD,₹ 5.50 Lakh,2015,2179 cc,Third Party insurance,Manual,"1,20,000 Kms",First Owner,Diesel,140bhp,7,16 kmpl,SUV,Agra
+91,2012 Maruti Wagon R LXI CNG,₹ 2.50 Lakh,2012,998 cc,Third Party insurance,Manual,"1,50,000 Kms",First Owner,CNG,58.2bhp,5,26.2 kmpl,Hatchback,Agra
+92,2013 Maruti Alto 800 VXI,₹ 2.10 Lakh,2013,796 cc,Third Party insurance,Manual,"80,000 Kms",First Owner,Petrol,47.3bhp,5,22.74 kmpl,Hatchback,Agra
+93,2011 Toyota Etios V,₹ 2.50 Lakh,2011,1496 cc,Third Party insurance,Manual,"70,000 Kms",Second Owner,Petrol,,5,17.6 kmpl,Sedan,Agra
+94,2016 Renault KWID RXL,₹ 1.85 Lakh,2016,799 cc,Third Party insurance,Manual,"60,000 Kms",Second Owner,Petrol,53.3bhp,5,25.17 kmpl,Hatchback,Agra
+95,2014 Hyundai Grand i10 Sportz,₹ 3 Lakh,2014,1197 cc,Third Party insurance,Manual,"70,000 Kms",Third Owner,Petrol,82bhp,5,18.9 kmpl,Hatchback,Agra
+96,2009 Chevrolet Spark 1.0 LT,"₹ 50,000",2009,995 cc,Third Party insurance,Manual,"60,000 Kms",Third Owner,Petrol,62bhp,5,18 kmpl,Hatchback,Agra
+97,2009 Chevrolet Spark 1.0 LT,"₹ 50,000",2009,995 cc,Third Party insurance,Manual,"60,000 Kms",Second Owner,Petrol,62bhp,5,18 kmpl,Hatchback,Agra
+98,2013 Hyundai Grand i10 CRDi Sportz,₹ 2.50 Lakh,2013,1120 cc,Third Party insurance,Manual,"1,00,000 Kms",Second Owner,Diesel,70bhp,5,24 kmpl,Hatchback,Agra
+99,2012 Maruti SX4 ZXI MT BSIV,₹ 1.90 Lakh,2012,1586 cc,Third Party insurance,Manual,"1,20,000 Kms",Second Owner,Petrol,103.3bhp,5,15.5 kmpl,Sedan,Agra
+100,2019 Maruti Swift Dzire VXI 1.2,₹ 6.50 Lakh,2019,1197 cc,Third Party insurance,Manual,"40,000 Kms",First Owner,Petrol,81.80bhp,5,21.21 kmpl,Sedan,Agra
+101,2013 Mahindra Scorpio VLX SE BSIV,₹ 5 Lakh,2013,2179 cc,Third Party insurance,Manual,"80,000 Kms",First Owner,Diesel,120bhp (86.7kw),8,15.4 kmpl,SUV,Agra
+102,2013 Honda Amaze E i-Dtech,₹ 1.90 Lakh,2013,1498 cc,Third Party insurance,Manual,"1,20,000 Kms",First Owner,Diesel,98.6bhp,5,25.8 kmpl,Sedan,Agra
+103,2019 Maruti Baleno 1.2 Zeta,₹ 5.70 Lakh,2019,1197 cc,Third Party insurance,Manual,"80,000 Kms",Second Owner,Petrol,83.1bhp,5,21.4 kmpl,Hatchback,Agra
+104,2014 Maruti Swift Dzire ZDI,₹ 3.50 Lakh,2014,1248 cc,Third Party insurance,Manual,"80,000 Kms",Second Owner,Diesel,74bhp,5,23.4 kmpl,Sedan,Agra
+105,2014 Honda City i DTEC S,₹ 3.80 Lakh,2014,1498 cc,Third Party insurance,Manual,"1,20,000 Kms",Fourth Owner,Diesel,98.6bhp,5,26 kmpl,Sedan,Agra
+106,2019 Maruti Vitara Brezza VDi,₹ 7.80 Lakh,2019,1248 cc,Third Party insurance,Manual,"1,00,000 Kms",First Owner,Diesel,88.5bhp,5,24.3 kmpl,SUV,Agra
+107,2018 Renault KWID STD,₹ 2.40 Lakh,2018,799 cc,Third Party insurance,Manual,"20,000 Kms",First Owner,Petrol,53.3bhp,5,25.17 kmpl,Hatchback,Agra
+108,2021 Tata Nexon XM BSVI,₹ 8.40 Lakh,2021,1199 cc,Third Party insurance,Manual,"10,000 Kms",First Owner,Petrol,118.35bhp,5,17.33 kmpl,SUV,Agra
+109,2013 Ford Ecosport 1.5 DV5 MT Trend,₹ 2.50 Lakh,2013,1498 cc,Third Party insurance,Manual,"1,00,000 Kms",Second Owner,Diesel,89.84bhp,5,22.7 kmpl,SUV,Agra
+110,2014 Maruti Swift VDI BSIV,₹ 4 Lakh,2014,1248 cc,Third Party insurance,Manual,"1,00,000 Kms",Second Owner,Diesel,74bhp,5,25.2 kmpl,Hatchback,Agra
+111,2009 Maruti Wagon R LXI Minor,₹ 1.50 Lakh,2009,1061 cc,Third Party insurance,Manual,"80,000 Kms",First Owner,Petrol,67bhp,5,18.9 kmpl,Hatchback,Agra
+112,2009 Tata Indica Aqua 1.3 Quadrajet,₹ 1 Lakh,2009,1248 cc,Third Party insurance,Manual,"70,000 Kms",Second Owner,Diesel,75 PS at 4000 rpm,5,18 kmpl,Hatchback,Agra
+113,2020 Mahindra XUV500 W7,₹ 12.75 Lakh,2020,2179 cc,Third Party insurance,Manual,"50,000 Kms",First Owner,Diesel,152.87bhp,7,15.1 kmpl,SUV,Agra
+114,2015 Datsun GO Plus T BSIV,₹ 2.70 Lakh,2015,1198 cc,Third Party insurance,Manual,"30,000 Kms",Second Owner,Petrol,67bhp,7,19.44 kmpl,MUV,Agra
+115,2020 Mahindra XUV500 W7,₹ 12.75 Lakh,2020,2179 cc,Third Party insurance,Manual,"50,000 Kms",First Owner,Diesel,152.87bhp,7,15.1 kmpl,SUV,Agra
+116,2012 Chevrolet Beat Diesel,₹ 2.20 Lakh,2012,936 cc,Third Party insurance,Manual,"70,000 Kms",Second Owner,Diesel,57.6bhp,5,25.44 kmpl,Hatchback,Agra
+117,2017 Ford Aspire 1.5 TDCi Titanium,₹ 6 Lakh,2017,1498 cc,Third Party insurance,Manual,"50,000 Kms",First Owner,Diesel,99bhp,5,25.83 kmpl,Sedan,Agra
+118,2016 Mahindra XUV500 W4,₹ 9 Lakh,2016,2179 cc,Third Party insurance,Manual,"50,000 Kms",First Owner,Diesel,140bhp,7,16 kmpl,SUV,Agra
+119,2019 Maruti Wagon R ZXI 1.2,₹ 4.95 Lakh,2019,1197 cc,Third Party insurance,Manual,"20,000 Kms",First Owner,Petrol,81.80bhp,5,20.52 kmpl,Hatchback,Agra
+120,2022 Mahindra XUV300 W8 Option AMT BSVI,₹ 9.80 Lakh,2022,1197 cc,Third Party insurance,Automatic,"60,000 Kms",First Owner,Petrol,108.62bhp,5,16.5 kmpl,SUV,Agra
+121,2019 Kia Seltos GTX DCT,₹ 13.75 Lakh,2019,1353 cc,Third Party insurance,Automatic,"20,000 Kms",First Owner,Petrol,138bhp,5,16.2 kmpl,SUV,Agra
+122,2015 Maruti Wagon R VXI BS IV,₹ 3.40 Lakh,2015,998 cc,Third Party insurance,Manual,"40,000 Kms",First Owner,Petrol,67.04bhp,5,20.51 kmpl,Hatchback,Agra
+123,2020 MG Hector Sharp DCT,₹ 13 Lakh,2020,1451 cc,Third Party insurance,Automatic,"40,000 Kms",Second Owner,Petrol,141bhp,5,13.96 kmpl,SUV,Agra
+124,2019 Tata Nexon 1.2 Revotron XT,₹ 6 Lakh,2019,1198 cc,Third Party insurance,Manual,"70,000 Kms",First Owner,Petrol,108.5bhp,5,17 kmpl,SUV,Agra
+125,2012 Honda Brio V MT,₹ 3 Lakh,2012,1198 cc,Third Party insurance,Manual,"60,000 Kms",First Owner,Petrol,86.8bhp,5,19.4 kmpl,Hatchback,Agra
+126,2013 Renault Fluence Diesel E4,₹ 5 Lakh,2013,1461 cc,Third Party insurance,Manual,"1,50,000 Kms",Second Owner,Diesel,78 kW,5,21.8 kmpl,Sedan,Agra
+127,2020 Toyota Yaris G Optional,₹ 10.99 Lakh,2020,1496 cc,Third Party insurance,Manual,"40,000 Kms",First Owner,Petrol,105.94bhp,5,17.1 kmpl,Sedan,Agra
+128,2011 Honda City 1.5 V MT,₹ 3.50 Lakh,2011,1497 cc,Third Party insurance,Manual,"90,000 Kms",Second Owner,Petrol,"118PS at 6,600 rpm",5,17 kmpl,Sedan,Agra
+129,2019 Renault Triber RXL BSIV,₹ 4.35 Lakh,2019,999 cc,Third Party insurance,Manual,"20,000 Kms",First Owner,Petrol,72bhp,7,20 kmpl,MUV,Agra
+130,2012 Maruti Wagon R LXI BS IV,₹ 1.86 Lakh,2012,998 cc,Third Party insurance,Manual,"1,00,000 Kms",Second Owner,Petrol,67.1bhp,5,18.9 kmpl,Hatchback,Agra
+131,2022 Maruti Eeco CNG 5 Seater AC,₹ 6.25 Lakh,2022,1196 cc,Third Party insurance,Manual,"20,000 Kms",First Owner,CNG,61.68bhp,5,20.88 km/kg,Minivans,Agra
+132,2022 Maruti Eeco CNG 5 Seater AC,₹ 6.25 Lakh,2022,1196 cc,Third Party insurance,Manual,"20,000 Kms",First Owner,CNG,61.68bhp,5,20.88 km/kg,Minivans,Agra
+133,2012 Renault Duster 110PS Diesel RxZ,₹ 4.50 Lakh,2012,1461 cc,Third Party insurance,Manual,"1,20,000 Kms",Second Owner,Diesel,108.45bhp,5,19.01 kmpl,SUV,Agra
+134,2017 Hyundai i20 1.4 Asta,₹ 6.50 Lakh,2017,1396 cc,Third Party insurance,Manual,"80,000 Kms",First Owner,Diesel,88.73bhp,5,22.54 kmpl,Hatchback,Agra
+135,2018 Maruti Wagon R LXI CNG,₹ 3.50 Lakh,2018,998 cc,Third Party insurance,Manual,"1,50,000 Kms",First Owner,CNG,58.16bhp,5,26.6 kmpl,Hatchback,Agra
+136,2009 Hyundai i10 Magna 1.2,₹ 1.30 Lakh,2009,1197 cc,Third Party insurance,Manual,"50,000 Kms",First Owner,Petrol,78.9bhp,5,20.36 kmpl,Hatchback,Agra
+137,2017 Maruti Swift VDI BSIV,₹ 5 Lakh,2017,1248 cc,Third Party insurance,Manual,"70,000 Kms",First Owner,Diesel,74bhp,5,25.2 kmpl,Hatchback,Agra
+138,2021 Mahindra Bolero B6 Opt BSVI,₹ 9.50 Lakh,2021,1493 cc,Third Party insurance,Manual,"10,000 Kms",First Owner,Diesel,74.96bhp,7,16 kmpl,SUV,Agra
+139,2017 Hyundai Creta 1.6 CRDi SX,₹ 7 Lakh,2017,1582 cc,Third Party insurance,Manual,"1,20,000 Kms",Third Owner,Diesel,126.2bhp,5,19.67 kmpl,SUV,Agra
+140,2009 Ford Fiesta 1.4 ZXi TDCi ABS,₹ 1.40 Lakh,2009,1399 cc,Third Party insurance,Manual,"1,20,000 Kms",Third Owner,Diesel,68,5,17.8 kmpl,Sedan,Agra
+141,2010 Tata New Safari DICOR 2.2 LX 4x2,₹ 2 Lakh,2010,2179 cc,Third Party insurance,Manual,"1,20,000 Kms",First Owner,Diesel,138.1bhp,7,11.57 kmpl,SUV,Agra
+142,2018 Renault KWID Climber 1.0 AMT,₹ 3.20 Lakh,2018,999 cc,Third Party insurance,Automatic,"20,000 Kms",First Owner,Petrol,67bhp,5,24.04 kmpl,Hatchback,Agra
+143,2011 Hyundai i10 Magna,₹ 2 Lakh,2011,1197 cc,Third Party insurance,Manual,"40,000 Kms",First Owner,Petrol,78.9bhp,5,20.36 kmpl,Hatchback,Agra
+144,2015 Hyundai i20 Magna 1.2,₹ 4.10 Lakh,2015,1197 cc,Third Party insurance,Manual,"90,000 Kms",Second Owner,Petrol,81.83bhp,5,18.6 kmpl,Hatchback,Agra
+145,2016 Maruti Swift VXI,₹ 4.40 Lakh,2016,1197 cc,Third Party insurance,Manual,"30,000 Kms",Second Owner,Petrol,81.80bhp,5,21.21 kmpl,Hatchback,Agra
+146,2022 Jeep Compass Model S DCT BSVI,₹ 25 Lakh,2022,1368 cc,Third Party insurance,Automatic,"20,000 Kms",First Owner,Petrol,160.77bhp,5,14.1 kmpl,SUV,Agra
+147,2019 Maruti Swift Dzire VXI 1.2,₹ 6.50 Lakh,2019,1197 cc,Third Party insurance,Manual,"40,000 Kms",First Owner,Petrol,81.80bhp,5,21.21 kmpl,Sedan,Agra
+148,2020 Toyota Glanza G,₹ 6.30 Lakh,2020,1197 cc,Third Party insurance,Manual,"30,000 Kms",First Owner,Petrol,81.80bhp,5,21.01 kmpl,Hatchback,Agra
+149,2012 Toyota Etios GD,₹ 2 Lakh,2012,1364 cc,Third Party insurance,Manual,"1,50,000 Kms",Fourth Owner,Diesel,,5,23.59 kmpl,Sedan,Agra
+150,2018 Maruti Eeco 7 Seater Standard BSIV,₹ 3.50 Lakh,2018,1196 cc,Third Party insurance,Manual,"1,00,000 Kms",Second Owner,Petrol,73bhp,7,15.37 kmpl,Minivans,Agra
+151,2016 Honda Amaze S Diesel BSIV,₹ 4 Lakh,2016,1498 cc,Third Party insurance,Manual,"1,50,000 Kms",First Owner,Diesel,98.63bhp,5,27.4 kmpl,Sedan,Agra
+152,2011 Chevrolet Beat LT,₹ 1.50 Lakh,2011,1199 cc,Third Party insurance,Manual,"90,000 Kms",First Owner,Petrol,79.4bhp,5,18.6 kmpl,Hatchback,Agra
+153,2016 Honda Amaze E Diesel BSIV,₹ 4.25 Lakh,2016,1498 cc,Third Party insurance,Manual,"1,50,000 Kms",First Owner,Diesel,98.63bhp,5,27.4 kmpl,Sedan,Agra
+154,2016 Maruti Swift Dzire VDI,₹ 4.25 Lakh,2016,1248 cc,Third Party insurance,Manual,"80,000 Kms",Second Owner,Diesel,74bhp,5,26.59 kmpl,Sedan,Agra
+155,2017 Maruti Swift Dzire VXI,₹ 4 Lakh,2017,1197 cc,Third Party insurance,Manual,"70,000 Kms",Second Owner,Petrol,83.14bhp,5,20.85 kmpl,Sedan,Agra
+156,2016 Maruti Swift VXI,₹ 4.60 Lakh,2016,1197 cc,Third Party insurance,Manual,"30,000 Kms",Second Owner,Petrol,81.80bhp,5,21.21 kmpl,Hatchback,Agra
+157,2017 Mahindra KUV 100 mFALCON D75 K8,₹ 3.30 Lakh,2017,1198 cc,Third Party insurance,Manual,"70,000 Kms",First Owner,Diesel,77bhp,6,25.32 kmpl,SUV,Agra
+158,2021 Nissan Magnite XE BSVI,₹ 4.70 Lakh,2021,999 cc,Third Party insurance,Manual,"30,000 Kms",First Owner,Petrol,71.02bhp,5,18.75 kmpl,SUV,Agra
+159,2018 Hyundai Creta 1.6 SX Automatic Diesel,₹ 11.50 Lakh,2018,1582 cc,Third Party insurance,Automatic,"70,000 Kms",Second Owner,Diesel,126.2bhp,5,17.6 kmpl,SUV,Agra
+160,2020 Maruti Ciaz Delta BSVI,₹ 7.25 Lakh,2020,1462 cc,Third Party insurance,Manual,"60,000 Kms",Second Owner,Petrol,103.25bhp,5,20.65 kmpl,Sedan,Agra
+161,2015 Hyundai i20 Active 1.4 SX,₹ 4 Lakh,2015,1396 cc,Third Party insurance,Manual,"80,000 Kms",Third Owner,Diesel,88.73bhp,5,21.19 kmpl,Hatchback,Agra
+162,2013 Hyundai Grand i10 CRDi Asta,₹ 2.50 Lakh,2013,1120 cc,Third Party insurance,Manual,"1,50,000 Kms",First Owner,Diesel,70bhp,5,24 kmpl,Hatchback,Agra
+163,2022 MG Astor Sharp BSVI,₹ 14.50 Lakh,2022,1498 cc,Third Party insurance,Manual,"40,000 Kms",First Owner,Petrol,108.49bhp,5,15.43 kmpl,SUV,Agra
+164,2020 Hyundai i20 Sportz 1.2,₹ 6.90 Lakh,2020,1197 cc,Third Party insurance,Manual,"40,000 Kms",First Owner,Petrol,81.83bhp,5,18.6 kmpl,Hatchback,Agra
+165,2015 Hyundai i20 Asta 1.2,₹ 3.50 Lakh,2015,1197 cc,Third Party insurance,Manual,"1,20,000 Kms",Fourth Owner,Petrol,81.83bhp,5,18.6 kmpl,Hatchback,Agra
+166,2020 Maruti Celerio Tour 2018-2021 H2 CNG,₹ 3.42 Lakh,2020,998 cc,Third Party insurance,Manual,"1,50,000 Kms",First Owner,CNG,,5,,Hatchback,Agra
+167,2015 Hyundai i20 Asta 1.2,₹ 3.50 Lakh,2015,1197 cc,Third Party insurance,Manual,"1,20,000 Kms",Fourth Owner,Petrol,81.83bhp,5,18.6 kmpl,Hatchback,Agra
+168,2015 Hyundai i20 Active 1.4 SX,₹ 4 Lakh,2015,1396 cc,Third Party insurance,Manual,"80,000 Kms",Third Owner,Diesel,88.73bhp,5,21.19 kmpl,Hatchback,Agra
+169,2013 Maruti Ertiga ZDI,₹ 4.25 Lakh,2013,1248 cc,Third Party insurance,Manual,"80,000 Kms",Third Owner,Diesel,88.8bhp,7,20.77 kmpl,MUV,Agra
+170,2014 Audi Q3 2.0 TDI Quattro Premium Plus,₹ 11 Lakh,2014,1968 cc,Third Party insurance,Automatic,"80,000 Kms",Second Owner,Diesel,174.33bhp,5,15.73 kmpl,SUV,Agra
+171,2022 Tata Punch Pure Rhythm BSVI,₹ 6 Lakh,2022,1199 cc,Third Party insurance,Manual,"10,000 Kms",First Owner,Petrol,86.63bhp,5,20.09 kmpl,SUV,Agra
+172,2009 Hyundai i20 Magna,₹ 1.50 Lakh,2009,1197 cc,Third Party insurance,Manual,"1,50,000 Kms",Third Owner,Petrol,80 PS at 5200 rpm,5,18.5 kmpl,Hatchback,Agra
+173,2004 Honda CR-V 2.4 4WD AT,₹ 1.70 Lakh,2004,2354 cc,Third Party insurance,Automatic,"1,50,000 Kms",Second Owner,Petrol,152 PS,5,10.1 kmpl,SUV,Agra
+174,2011 Maruti Wagon R LXI CNG,₹ 1.60 Lakh,2011,998 cc,Third Party insurance,Manual,"70,000 Kms",Fourth Owner,CNG,58.2bhp,5,26.2 kmpl,Hatchback,Agra
+175,2009 Hyundai i20 Magna,₹ 1.40 Lakh,2009,1197 cc,Third Party insurance,Manual,"1,50,000 Kms",Second Owner,Petrol,80 PS at 5200 rpm,5,18.5 kmpl,Hatchback,Agra
+176,2011 Skoda Fabia 1.2 TDI Active Plus,₹ 1.40 Lakh,2011,1199 cc,Third Party insurance,Manual,"90,000 Kms",Third Owner,Diesel,75bhp,5,20.86 kmpl,Hatchback,Agra
+177,2021 Mahindra Thar LX 4-Str Hard Top Diesel BSVI,₹ 15 Lakh,2021,2184 cc,Third Party insurance,Manual,"50,000 Kms",Second Owner,Diesel,130bhp,4,15.2 kmpl,SUV,Agra
+178,2011 Maruti Wagon R VXI BS IV,₹ 2.25 Lakh,2011,998 cc,Third Party insurance,Manual,"60,000 Kms",First Owner,Petrol,67.1bhp,5,18.9 kmpl,Hatchback,Agra
+179,2019 Hyundai i20 Petrol Magna,₹ 5.50 Lakh,2019,1197 cc,Third Party insurance,Manual,"40,000 Kms",Second Owner,Petrol,81.86bhp,5,18.6 kmpl,Hatchback,Agra
+180,2009 Maruti A-Star Vxi,₹ 1.40 Lakh,2009,998 cc,Third Party insurance,Manual,"60,000 Kms",First Owner,Petrol,66.1bhp,5,19 kmpl,Hatchback,Agra
+181,2017 Maruti Wagon R LXI CNG,₹ 4 Lakh,2017,998 cc,Third Party insurance,Manual,"20,000 Kms",First Owner,CNG,58.16bhp,5,26.6 kmpl,Hatchback,Agra
+182,2018 Hyundai Verna CRDi 1.6 SX Option,₹ 9 Lakh,2018,1582 cc,Third Party insurance,Manual,"90,000 Kms",First Owner,Diesel,126.2bhp,5,22 kmpl,Sedan,Agra
+183,2010 Honda City 1.5 E MT,₹ 3.15 Lakh,2010,1497 cc,Third Party insurance,Manual,"80,000 Kms",First Owner,Petrol,"118PS at 6,600 rpm",5,17 kmpl,Sedan,Agra
+184,2013 Ford Ecosport 1.5 DV5 MT Trend,₹ 3.50 Lakh,2013,1498 cc,Third Party insurance,Manual,"1,20,000 Kms",First Owner,Diesel,89.84bhp,5,22.7 kmpl,SUV,Agra
+185,2013 Hyundai EON D Lite Plus,₹ 1.40 Lakh,2013,814 cc,Third Party insurance,Manual,"1,00,000 Kms",Second Owner,Petrol,55.2bhp,5,21.1 kmpl,Hatchback,Agra
+186,2021 Maruti Baleno Delta,₹ 7 Lakh,2021,1197 cc,Third Party insurance,Manual,"30,000 Kms",First Owner,Petrol,81.80bhp,5,21.01 kmpl,Hatchback,Agra
+187,2020 Toyota Urban cruiser Premium AT,₹ 8.80 Lakh,2020,1462 cc,Third Party insurance,Automatic,"50,000 Kms",First Owner,Petrol,103.26bhp,5,18.76 kmpl,SUV,Agra
+188,2010 BMW 3 Series 320d,₹ 10 Lakh,2010,1995 cc,Third Party insurance,Automatic,"1,00,000 Kms",Second Owner,Diesel,170,5,13.2 kmpl,Sedan,Agra
+189,2010 Maruti Swift VXI with ABS,₹ 2.15 Lakh,2010,1197 cc,Third Party insurance,Manual,"1,20,000 Kms",First Owner,Petrol,85ps,5,16.6 kmpl,Hatchback,Agra
+190,2013 Renault Duster 110PS Diesel RxZ,₹ 5 Lakh,2013,1461 cc,Third Party insurance,Manual,"1,50,000 Kms",First Owner,Diesel,108.45bhp,5,19.01 kmpl,SUV,Agra
+191,2012 Chevrolet Tavera 2 LS B4 7 Str BSIII,₹ 2.40 Lakh,2012,2499 cc,Third Party insurance,Manual,"1,50,000 Kms",Second Owner,Diesel,80,7,14.8 kmpl,MUV,Agra
+192,2016 Tata Zest Quadrajet 1.3 XM,₹ 3.20 Lakh,2016,1248 cc,Third Party insurance,Manual,"90,000 Kms",Third Owner,Diesel,88.7bhp,5,23 kmpl,Sedan,Agra
+193,2012 Maruti Wagon R LXI BS IV,₹ 2 Lakh,2012,998 cc,Third Party insurance,Manual,"1,50,000 Kms",Third Owner,Petrol,67.1bhp,5,18.9 kmpl,Hatchback,Agra
+194,2017 Maruti Wagon R LXI Optional,₹ 4 Lakh,2017,998 cc,Third Party insurance,Manual,"30,000 Kms",First Owner,Petrol,67.04bhp,5,20.51 kmpl,Hatchback,Agra
+195,2010 Maruti Ritz VDi,₹ 1.25 Lakh,2010,1248 cc,Third Party insurance,Manual,"1,00,000 Kms",Second Owner,Diesel,73.9bhp,5,21.1 kmpl,Hatchback,Agra
+196,2018 Hyundai i20 1.2 Asta,₹ 5 Lakh,2018,1197 cc,Third Party insurance,Manual,"50,000 Kms",First Owner,Petrol,81.83bhp,5,18.6 kmpl,Hatchback,Agra
+197,2017 Tata Tiago 1.05 Revotorq XT,₹ 3.80 Lakh,2017,1047 cc,Third Party insurance,Manual,"70,000 Kms",First Owner,Diesel,69bhp,5,27.28 kmpl,Hatchback,Agra
+198,2011 Chevrolet Beat Diesel,₹ 1.50 Lakh,2011,936 cc,Third Party insurance,Manual,"80,000 Kms",First Owner,Diesel,57.6bhp,5,25.44 kmpl,Hatchback,Agra
+199,2017 Hyundai Grand i10 1.2 CRDi Magna,₹ 5.10 Lakh,2017,1186 cc,Third Party insurance,Manual,"60,000 Kms",First Owner,Diesel,73.97bhp,5,24 kmpl,Hatchback,Agra
+200,2011 Mahindra Scorpio VLX SE BSIV,₹ 3 Lakh,2011,2179 cc,Third Party insurance,Manual,"1,50,000 Kms",Second Owner,Diesel,120bhp (86.7kw),8,15.4 kmpl,SUV,Agra
+201,2011 Mahindra Scorpio VLX SE BSIV,₹ 3 Lakh,2011,2179 cc,Third Party insurance,Manual,"1,50,000 Kms",Second Owner,Diesel,120bhp (86.7kw),8,15.4 kmpl,SUV,Agra
+202,2015 Maruti Wagon R VXI BS IV,₹ 2.50 Lakh,2015,998 cc,Third Party insurance,Manual,"50,000 Kms",Third Owner,Petrol,67.04bhp,5,20.51 kmpl,Hatchback,Agra
+203,2015 Maruti Swift Dzire VDI,₹ 4 Lakh,2015,1248 cc,Third Party insurance,Manual,"1,20,000 Kms",Third Owner,Diesel,74bhp,5,26.59 kmpl,Sedan,Agra
+204,2012 Hyundai Verna 1.6 SX,₹ 3.70 Lakh,2012,1582 cc,Third Party insurance,Manual,"90,000 Kms",Second Owner,Diesel,126.32bhp,5,22.32 kmpl,Sedan,Agra
+205,2021 Audi e-tron 55 Sportback,₹ 96.80 Lakh,Jul-21,0 cc,Third Party insurance,Automatic,"10,500 Kms",First Owner,Electric,300kWbhp,5,,SUV,Gurgaon
+206,2018 Audi Q3 30 TFSI Premium FWD,₹ 24.80 Lakh,Dec-18,1395 cc,Comprehensive,Automatic,"45,000 Kms",Second Owner,Petrol,147.51bhp,5,16.9 kmpl,SUV,Gurgaon
+207,2018 BMW 6 Series GT 630i Luxury Line 2018-2021,₹ 46.90 Lakh,Jun-18,1998 cc,Third Party insurance,Automatic,"38,000 Kms",First Owner,Petrol,254.7bhp,4,14.28 kmpl,Sedan,Gurgaon
+208,2015 Audi A6 35 TFSI Matrix,₹ 21.90 Lakh,Mar-16,1798 cc,Comprehensive,Automatic,"49,000 Kms",Second Owner,Petrol,187.74bhp,5,15.26 kmpl,Sedan,Gurgaon
+209,2017 Audi A4 35 TDI Premium Plus,₹ 22.90 Lakh,Feb-18,1968 cc,Zero Dep,Automatic,"46,000 Kms",Second Owner,Diesel,187.74bhp,5,18.25 kmpl,Sedan,Gurgaon
+210,2014 Audi Q3 35 TDI Quattro Premium Plus,₹ 13.90 Lakh,Oct-14,1968 cc,Comprehensive,Automatic,"29,000 Kms",First Owner,Diesel,174.33bhp,5,15.73 kmpl,SUV,Gurgaon
+211,2016 Audi A4 30 TFSI Technology,₹ 27.90 Lakh,Jun-18,1395 cc,Comprehensive,Automatic,"27,000 Kms",First Owner,Petrol,147.51bhp,5,17.84 kmpl,Sedan,Gurgaon
+212,2014 Mercedes-Benz E-Class E250 CDI,₹ 11.90 Lakh,Mar-14,2143 cc,Comprehensive,Automatic,"1,20,000 Kms",Second Owner,Diesel,204bhp,5,13 kmpl,Sedan,Gurgaon
+213,2015 Audi Q7 35 TDI Quattro Technology,₹ 36.90 Lakh,Mar-16,2967 cc,Comprehensive,Automatic,"70,000 Kms",First Owner,Diesel,241.4bhp,7,12.07 kmpl,SUV,Gurgaon
+214,2012 Mercedes-Benz C-Class C 200 CGI Elegance,₹ 11.90 Lakh,Feb-13,1796 cc,Comprehensive,Automatic,"72,100 Kms",First Owner,Petrol,186bhp,5,11.74 kmpl,Sedan,Gurgaon
+215,2022 Audi e-tron 55 Sportback,₹ 1.04 Crore,,0 cc,Third Party insurance,Automatic,"9,900 Kms",,Electric,300kWbhp,5,,SUV,Gurgaon
+216,2018 Audi A3 35 TFSI Premium Plus,₹ 24.90 Lakh,Jun-18,1395 cc,Comprehensive,Automatic,"46,300 Kms",First Owner,Petrol,150bhp,5,19.2 kmpl,Sedan,Gurgaon
+217,2020 Audi Q8 55 TFSI Quattro BSVI,₹ 89 Lakh,,2995 cc,Third Party insurance,Automatic,"18,000 Kms",,Petrol,340bhp,5,9.8 kmpl,SUV,Gurgaon
+218,2018 Audi Q3 35 TDI Quattro Premium Plus,₹ 20.90 Lakh,Aug-18,1968 cc,Comprehensive,Automatic,"38,000 Kms",Second Owner,Diesel,181bhp,5,15.17 kmpl,SUV,Gurgaon
+219,2019 Audi A3 35 TFSI Premium Plus,₹ 26.80 Lakh,Jun-19,1395 cc,Comprehensive,Automatic,"26,300 Kms",First Owner,Petrol,150bhp,5,19.2 kmpl,Sedan,Gurgaon
+220,2021 Audi RS5 Sportback BSVI,₹ 94.90 Lakh,Dec-21,2894 cc,Third Party insurance,Automatic,"5,600 Kms",First Owner,Petrol,443.87bhp,4,8.8 kmpl,Coupe,Gurgaon
+221,2021 Audi RS5 Sportback BSVI,₹ 94.90 Lakh,Dec-21,2894 cc,Comprehensive,Automatic,"7,000 Kms",First Owner,Petrol,443.87bhp,4,8.8 kmpl,Coupe,Gurgaon
+222,2019 Audi Q5 40 TDI Premium Plus,₹ 37.80 Lakh,Apr-19,1968 cc,Third Party insurance,Automatic,"48,500 Kms",First Owner,Diesel,188bhp,5,17.01 kmpl,SUV,Gurgaon
+223,2018 Audi A6 35 TDI,₹ 29.80 Lakh,May-18,1968 cc,Zero Dep,Automatic,"38,000 Kms",First Owner,Diesel,187.74bhp,5,18.53 kmpl,Sedan,Gurgaon
+224,2013 Audi A4 1.8 TFSI Premium Plus,₹ 14.90 Lakh,Nov-13,1798 cc,Comprehensive,Automatic,"43,800 Kms",First Owner,Petrol,167.62bhp,5,15.64 kmpl,Sedan,Gurgaon
+225,2022 Audi A6 45 TFSI Technology WO Matrix BSVI,₹ 64.90 Lakh,Sep-22,1984 cc,Zero Dep,Automatic,"2,300 Kms",First Owner,Petrol,241.3bhp,5,14.11 kmpl,Sedan,Gurgaon
+226,2021 Audi A6 45 TFSI Technology WO Matrix BSVI,₹ 51.90 Lakh,Jan-21,1984 cc,Zero Dep,Automatic,"24,800 Kms",First Owner,Petrol,241.3bhp,5,14.11 kmpl,Sedan,Gurgaon
+227,2020 Audi A6 45 TFSI Technology WO Matrix BSVI,₹ 47.90 Lakh,Sep-20,1984 cc,Zero Dep,Automatic,"36,700 Kms",First Owner,Petrol,241.3bhp,5,14.11 kmpl,Sedan,Gurgaon
+228,2015 Audi A6 35 TFSI,₹ 20.90 Lakh,Jan-15,1798 cc,Comprehensive,Automatic,"79,000 Kms",Second Owner,Petrol,187.74bhp,5,15.26 kmpl,Sedan,Gurgaon
+229,2017 Audi A3 35 TDI Premium Plus,₹ 19.90 Lakh,Oct-17,1968 cc,Zero Dep,Automatic,"55,400 Kms",First Owner,Diesel,143bhp,5,20.38 kmpl,Sedan,Gurgaon
+230,2019 Audi A3 35 TFSI Premium Plus,₹ 27.80 Lakh,Sep-19,1395 cc,Zero Dep,Automatic,"23,700 Kms",First Owner,Petrol,150bhp,5,19.2 kmpl,Sedan,Gurgaon
+231,2019 Audi A3 35 TFSI Premium Plus,₹ 26.90 Lakh,Jul-19,1395 cc,Zero Dep,Automatic,"15,600 Kms",First Owner,Petrol,150bhp,5,19.2 kmpl,Sedan,Gurgaon
+232,2020 Audi A4 35 QL TFSI Premium Plus,₹ 32.90 Lakh,Mar-20,1395 cc,Zero Dep,Automatic,"29,900 Kms",First Owner,Petrol,147.51bhp,5,17.84 kmpl,Sedan,Gurgaon
+233,2018 Audi A3 35 TDI Technology,₹ 22.90 Lakh,Jan-18,1968 cc,Zero Dep,Automatic,"43,500 Kms",First Owner,Diesel,143bhp,5,20.38 kmpl,Sedan,Gurgaon
+234,2019 Audi A3 35 TFSI Technology,₹ 26.90 Lakh,Jul-19,1395 cc,Zero Dep,Automatic,"44,000 Kms",First Owner,Petrol,150bhp,5,19.2 kmpl,Sedan,Gurgaon
+235,2015 Audi A6 35 TDI,₹ 18.90 Lakh,Nov-15,1968 cc,Comprehensive,Automatic,"85,000 Kms",First Owner,Diesel,187.74bhp,5,18.53 kmpl,Sedan,Gurgaon
+236,2017 Hyundai i20 1.4 Sportz,₹ 5.50 Lakh,2017,1396 cc,Third Party insurance,Manual,"1,00,000 Kms",First Owner,Diesel,88.73bhp,5,22.54 kmpl,Hatchback,Agra
+237,2020 Maruti Swift AMT ZXI Plus,₹ 7.85 Lakh,2020,1197 cc,Third Party insurance,Automatic,"30,000 Kms",First Owner,Petrol,81.80bhp,5,21.21 kmpl,Hatchback,Lucknow
+238,2015 Maruti Swift Dzire VXI,₹ 4.08 Lakh,May-15,1197 cc,Comprehensive,Manual,"76,469 Kms",First Owner,Petrol,88.50bhp,5,22.41 kmpl,Sedan,Lucknow
+239,2014 Honda Amaze SX i-VTEC,₹ 3.30 Lakh,Dec-14,1198 cc,Third Party,Manual,"1,18,976 Kms",First Owner,Petrol,86.7bhp,5,18 kmpl,Sedan,Lucknow
+240,2018 Mahindra XUV500 W9,₹ 9.52 Lakh,May-18,2179 cc,Comprehensive,Manual,"57,689 Kms",Second Owner,Diesel,152.87bhp,7,15.1 kmpl,SUV,Lucknow
+241,2019 Maruti Alto K10 VXI,₹ 3.57 Lakh,Feb-19,998 cc,Third Party,Manual,"27,817 Kms",Second Owner,Petrol,65.71bhp,5,24.39 kmpl,Hatchback,Lucknow
+242,2016 Maruti Celerio ZXI AT,₹ 3.66 Lakh,May-16,998 cc,Third Party,Automatic,"62,001 Kms",Third Owner,Petrol,67.04bhp,5,23.1 kmpl,Hatchback,Lucknow
+243,2018 Maruti Vitara Brezza VDi Option,₹ 6.28 Lakh,Apr-18,1248 cc,Third Party,Manual,"73,081 Kms",First Owner,Diesel,88.5bhp,5,24.3 kmpl,SUV,Lucknow
+244,2021 Nissan Magnite Turbo XL BSVI,₹ 7.13 Lakh,May-21,999 cc,Zero Dep,Manual,"26,387 Kms",First Owner,Petrol,98.63bhp,5,20 kmpl,SUV,Lucknow
+245,2013 Chevrolet Beat Diesel LT,₹ 1.55 Lakh,2013,936 cc,Third Party insurance,Manual,"80,000 Kms",Second Owner,Diesel,57.6bhp,5,25.44 kmpl,Hatchback,Lucknow
+246,2008 Maruti Swift Dzire VXi,₹ 1.90 Lakh,2008,1298 cc,Third Party insurance,Manual,"70,000 Kms",First Owner,Petrol,85.8bhp,5,17.5 kmpl,Sedan,Lucknow
+247,2011 Chevrolet Beat LT,"₹ 60,000",2011,1199 cc,Third Party insurance,Manual,"50,000 Kms",Second Owner,Petrol,79.4bhp,5,18.6 kmpl,Hatchback,Lucknow
+248,2016 Maruti Ertiga SHVS VDI,₹ 6.40 Lakh,2016,1248 cc,Third Party insurance,Manual,"1,00,000 Kms",Second Owner,Diesel,88.5bhp,7,24.52 kmpl,MUV,Lucknow
+249,2012 Hyundai i10 Magna,₹ 2.50 Lakh,2012,1197 cc,Third Party insurance,Manual,"70,000 Kms",Second Owner,Petrol,78.9bhp,5,20.36 kmpl,Hatchback,Lucknow
+250,2015 Maruti Swift Dzire VXI,₹ 3.90 Lakh,2015,1197 cc,Third Party insurance,Manual,"1,20,000 Kms",Third Owner,Petrol,83.14bhp,5,20.85 kmpl,Sedan,Lucknow
+251,2015 Hyundai i20 Sportz 1.4 CRDi,₹ 5.50 Lakh,2015,1396 cc,Third Party insurance,Manual,"90,000 Kms",Second Owner,Diesel,88.73bhp,5,22.54 kmpl,Hatchback,Lucknow
+252,2022 Tata Tigor XZ Plus CNG BSVI,₹ 7.28 Lakh,Mar-22,1199 cc,Zero Dep,Manual,"49,551 Kms",First Owner,CNG,72.40bhp,5,26.49 kmpl,Sedan,Lucknow
+253,2016 Maruti Baleno 1.2 Sigma,₹ 4.32 Lakh,Jun-16,1197 cc,Third Party,Manual,"91,117 Kms",First Owner,Petrol,83.1bhp,5,21.4 kmpl,Hatchback,Lucknow
+254,2020 Mercedes-Benz GLE 450 BSVI,₹ 91.75 Lakh,Jul-20,2999 cc,Third Party insurance,Automatic,"50,852 Kms",First Owner,Petrol,362.07bhp,5,,SUV,Delhi
+255,2017 Maruti Baleno 1.2 Delta,₹ 5.06 Lakh,Jun-17,1197 cc,Third Party,Manual,"69,056 Kms",First Owner,Petrol,83.1bhp,5,21.4 kmpl,Hatchback,Lucknow
+256,2019 Maruti Baleno Delta,₹ 6.34 Lakh,Jun-19,1197 cc,Third Party,Manual,"37,503 Kms",First Owner,Petrol,81.80bhp,5,21.01 kmpl,Hatchback,Lucknow
+257,2016 Maruti Wagon R VXI BS IV,₹ 3.36 Lakh,Jul-16,998 cc,Comprehensive,Manual,"47,202 Kms",First Owner,Petrol,67.04bhp,5,20.51 kmpl,Hatchback,Lucknow
+258,2017 Honda WR-V i-VTEC S,₹ 5.42 Lakh,Jun-17,1199 cc,Third Party,Manual,"37,746 Kms",First Owner,Petrol,88.7bhp,5,17.5 kmpl,SUV,Lucknow
+259,2018 Ford Ecosport 1.5 Diesel Trend Plus BSIV,₹ 6.54 Lakh,Jun-18,1498 cc,Third Party,Manual,"57,535 Kms",Second Owner,Diesel,98.96bhp,5,23 kmpl,SUV,Lucknow
+260,2018 Hyundai i20 1.2 Spotz,₹ 5.56 Lakh,Jun-18,1197 cc,Third Party,Manual,"47,909 Kms",First Owner,Petrol,81.83bhp,5,18.6 kmpl,Hatchback,Lucknow
+261,2014 Maruti Alto 800 CNG LXI,₹ 2 Lakh,2014,796 cc,Third Party insurance,Manual,"50,000 Kms",First Owner,CNG,47.3bhp,5,30.46 kmpl,Hatchback,Lucknow
+262,2022 Renault Kiger RXT AMT,₹ 5.85 Lakh,2022,999 cc,Third Party insurance,Automatic,"10,000 Kms",First Owner,Petrol,71.01bhp,5,19.03 kmpl,SUV,Lucknow
+263,2014 Maruti Swift Dzire VDI,₹ 3.80 Lakh,2014,1248 cc,Third Party insurance,Manual,"90,000 Kms",Second Owner,Diesel,74bhp,5,23.4 kmpl,Sedan,Lucknow
+264,2016 Ford Ecosport 1.5 TDCi Trend BSIV,₹ 6 Lakh,2016,1498 cc,Third Party insurance,Manual,"70,000 Kms",First Owner,Diesel,98.59bhp,5,22.77 kmpl,SUV,Lucknow
+265,2015 Mercedes-Benz CLA 200 CDI Sport,₹ 16 Lakh,2015,2143 cc,Third Party insurance,Automatic,"1,20,000 Kms",First Owner,Diesel,136bhp,5,17.9 kmpl,Sedan,Lucknow
+266,2020 Maruti Wagon R VXI,₹ 4.80 Lakh,2020,998 cc,Third Party insurance,Manual,"50,000 Kms",First Owner,Petrol,67.05bhp,5,21.79 kmpl,Hatchback,Lucknow
+267,2015 Maruti Swift VDI BSIV,₹ 3.50 Lakh,Jun-15,1248 cc,Zero Dep,Manual,"69,981 Kms",First Owner,Diesel,74bhp,5,25.2 kmpl,Hatchback,Lucknow
+268,2018 Maruti Baleno 1.2 Delta,₹ 5.41 Lakh,Sep-18,1197 cc,Zero Dep,Manual,"18,185 Kms",First Owner,Petrol,83.1bhp,5,21.4 kmpl,Hatchback,Lucknow
+269,2018 Maruti Swift Dzire ZXI 1.2,₹ 6.41 Lakh,Nov-18,1197 cc,Comprehensive,Manual,"97,254 Kms",Second Owner,Petrol,81.80bhp,5,21.21 kmpl,Sedan,Lucknow
+270,2019 Maruti Wagon R VXI,₹ 5.08 Lakh,Aug-19,998 cc,Third Party insurance,Manual,"19,910 Kms",First Owner,Petrol,67.05bhp,5,21.79 kmpl,Hatchback,Lucknow
+271,2021 Honda Amaze S Diesel,₹ 7.75 Lakh,Jun-21,1498 cc,Third Party,Manual,"40,680 Kms",First Owner,Diesel,97.89bhp,5,24.7 kmpl,Sedan,Lucknow
+272,2020 Mercedes-Benz GLC 220d 4MATIC,₹ 55.75 Lakh,Jul-20,1950 cc,Third Party insurance,Automatic,"21,542 Kms",First Owner,Diesel,194bhp,5,,SUV,Delhi
+273,2018 Hyundai EON Era Plus,₹ 2.92 Lakh,Jun-18,814 cc,Third Party,Manual,"66,198 Kms",First Owner,Petrol,55.2bhp,5,21.1 kmpl,Hatchback,Lucknow
+274,2018 Maruti Celerio X AMT VXI Option BSIV,₹ 4.80 Lakh,Jun-18,998 cc,Third Party,Automatic,"97,829 Kms",First Owner,Petrol,67bhp,5,21.63 kmpl,Hatchback,Lucknow
+275,2015 Honda Amaze VX i-DTEC,₹ 4.85 Lakh,2015,1498 cc,Third Party insurance,Manual,"80,000 Kms",Second Owner,Diesel,98.6bhp,5,25.8 kmpl,Sedan,Lucknow
+276,2006 Honda City VTEC,₹ 1.10 Lakh,2006,1497 cc,Third Party insurance,Manual,"1,00,000 Kms",Second Owner,Petrol,100,5,16.9 kmpl,Sedan,Lucknow
+277,2020 Hyundai i20 Sportz Plus,₹ 6.50 Lakh,2020,1197 cc,Third Party insurance,Manual,"50,000 Kms",First Owner,Petrol,81.86bhp,5,18.6 kmpl,Hatchback,Lucknow
+278,2017 Honda City i DTec V,₹ 6.75 Lakh,2017,1498 cc,Third Party insurance,Manual,"90,000 Kms",Second Owner,Diesel,98.6bhp,5,26 kmpl,Sedan,Lucknow
+279,2022 Mahindra XUV700 AX5 7 Str Diesel BSVI,₹ 18 Lakh,2022,2198 cc,Third Party insurance,Manual,"10,000 Kms",First Owner,Diesel,182.38bhp,7,,SUV,Lucknow
+280,2010 Honda Civic 1.8 S MT,₹ 2.55 Lakh,2010,1799 cc,Third Party insurance,Manual,"1,00,000 Kms",Third Owner,Petrol,130.2bhp,5,14.8 kmpl,Sedan,Lucknow
+281,2018 Honda Amaze V Petrol BSIV,₹ 6.53 Lakh,Jun-18,1199 cc,Zero Dep,Manual,"39,240 Kms",First Owner,Petrol,88.76bhp,5,19.5 kmpl,Sedan,Lucknow
+282,2021 Maruti Vitara Brezza LXI,₹ 7.85 Lakh,May-21,1462 cc,Zero Dep,Manual,"4,055 Kms",First Owner,Petrol,103.26bhp,5,17.03 kmpl,SUV,Lucknow
+283,2018 Maruti Alto 800 LXI,₹ 2.91 Lakh,Aug-18,796 cc,Comprehensive,Manual,"62,433 Kms",First Owner,Petrol,47.3bhp,5,24.7 kmpl,Hatchback,Lucknow
+284,2016 Maruti Swift VDI BSIV,₹ 4.28 Lakh,Jan-17,1248 cc,Third Party,Manual,"46,929 Kms",First Owner,Diesel,74bhp,5,25.2 kmpl,Hatchback,Lucknow
+285,2017 Hyundai Creta 1.6 VTVT SX Plus,₹ 9.94 Lakh,Oct-17,1591 cc,Third Party insurance,Manual,"47,000 Kms",First Owner,Petrol,121.3bhp,5,13 kmpl,SUV,Lucknow
+286,2014 Hyundai EON Era Plus,₹ 2.24 Lakh,Aug-14,814 cc,Third Party,Manual,"52,703 Kms",First Owner,Petrol,55.2bhp,5,21.1 kmpl,Hatchback,Lucknow
+287,2020 Mercedes-Benz GLS 450 4MATIC BSVI,₹ 1.20 Crore,Jul-20,2999 cc,Third Party insurance,Automatic,"55,123 Kms",First Owner,Petrol,362.07bhp5500-6100bhp,7,,SUV,Delhi
+288,2013 Maruti Swift VDI,₹ 3.12 Lakh,Jul-13,1248 cc,Third Party,Manual,"1,17,206 Kms",First Owner,Diesel,74bhp,5,22.9 kmpl,Hatchback,Lucknow
+289,2017 Skoda Rapid 1.5 TDI AT Style BSIV,₹ 8.14 Lakh,Jul-17,1498 cc,Third Party insurance,Automatic,"30,296 Kms",First Owner,Diesel,108.6bhp,5,21.72 kmpl,Sedan,Lucknow
+290,2017 Hyundai EON Era Plus Option,₹ 2.97 Lakh,Jan-18,814 cc,Third Party insurance,Manual,"15,614 Kms",First Owner,Petrol,55.2bhp,5,21.1 kmpl,Hatchback,Lucknow
+291,2017 Maruti Alto 800 CNG LXI,₹ 2.70 Lakh,2017,796 cc,Third Party insurance,Manual,"1,00,000 Kms",First Owner,CNG,40.3bhp,5,33.44 kmpl,Hatchback,Lucknow
+292,2020 Hyundai Creta 1.6 EX Diesel,₹ 11.30 Lakh,2020,1582 cc,Third Party insurance,Manual,"40,000 Kms",First Owner,Diesel,126.2bhp,5,20.5 kmpl,SUV,Lucknow
+293,2013 Tata Nano LX,"₹ 70,000",2013,624 cc,Third Party insurance,Manual,"60,000 Kms",Second Owner,Petrol,37.48bhp,4,25.4 kmpl,Hatchback,Lucknow
+294,2012 Skoda Rapid 1.6 TDI Active,₹ 2.50 Lakh,2012,1598 cc,Third Party insurance,Manual,"1,10,000 Kms",Second Owner,Diesel,103.5bhp,5,20.5 kmpl,Sedan,Lucknow
+295,2006 Chevrolet Tavera B2-7 seats BSII,₹ 1.25 Lakh,2006,2499 cc,Third Party insurance,Manual,"1,20,000 Kms",Second Owner,Diesel,80,7,14.8 kmpl,Chevrolet,Lucknow
+296,2018 Maruti Alto K10 LXI,₹ 2.80 Lakh,2018,998 cc,Third Party insurance,Manual,"50,000 Kms",Second Owner,Petrol,67.05bhp,5,23.95 kmpl,Hatchback,Lucknow
+297,2013 Maruti Swift VDI,₹ 3.15 Lakh,Dec-13,1248 cc,Third Party,Manual,"74,208 Kms",First Owner,Diesel,74bhp,5,22.9 kmpl,Hatchback,Lucknow
+298,2018 Mahindra XUV500 W11 Option AT AWD,₹ 12.73 Lakh,Jun-18,2179 cc,Third Party,Automatic,"85,663 Kms",First Owner,Diesel,155bhp,7,15.1 kmpl,SUV,Lucknow
+299,2017 Maruti Ignis 1.2 AMT Zeta BSIV,₹ 5.08 Lakh,Jul-17,1197 cc,Comprehensive,Automatic,"29,406 Kms",First Owner,Petrol,81.80bhp,5,20.89 kmpl,Hatchback,Lucknow
+300,2016 Maruti Celerio ZXI AMT,₹ 3.82 Lakh,Sep-16,998 cc,Third Party,Automatic,"72,029 Kms",Second Owner,Petrol,65.71bhp,5,26 kmpl,Hatchback,Lucknow
+301,2017 Maruti Vitara Brezza ZDi,₹ 7.08 Lakh,Mar-17,1248 cc,Zero Dep,Manual,"89,341 Kms",First Owner,Diesel,88.5bhp,5,24.3 kmpl,SUV,Lucknow
+302,2020 Hyundai Aura SX Plus AMT,₹ 7.82 Lakh,Feb-20,1197 cc,Zero Dep,Automatic,"25,799 Kms",First Owner,Petrol,81.86bhp,5,20.1 kmpl,Sedan,Lucknow
+303,2018 Hyundai i20 Active 1.2 SX,₹ 5.95 Lakh,Oct-18,1197 cc,Third Party,Manual,"47,641 Kms",Third Owner,Petrol,81.86bhp,5,17.19 kmpl,Hatchback,Lucknow
+304,2019 Maruti Swift VXI,₹ 5.20 Lakh,Feb-20,1197 cc,Third Party insurance,Manual,"40,584 Kms",First Owner,Petrol,88.50bhp,5,22.38 kmpl,Hatchback,Lucknow
+305,2017 Maruti Alto K10 VXI,₹ 3.07 Lakh,Feb-18,998 cc,Third Party insurance,Manual,"39,259 Kms",First Owner,Petrol,65.71bhp,5,24.39 kmpl,Hatchback,Lucknow
+306,2012 Toyota Innova 2.5 G (Diesel) 8 Seater BS IV,₹ 4.23 Lakh,2012,2494 cc,Third Party insurance,Manual,"1,20,000 Kms",Fourth Owner,Diesel,100bhp,8,12.99 kmpl,MUV,Lucknow
+307,2012 Toyota Innova 2.5 G (Diesel) 8 Seater BS IV,₹ 4.55 Lakh,2012,2494 cc,Third Party insurance,Manual,"1,20,000 Kms",Fourth Owner,Diesel,100bhp,8,12.99 kmpl,MUV,Lucknow
+308,2018 Hyundai Creta 1.6 SX Diesel,₹ 10.50 Lakh,2018,1582 cc,Third Party insurance,Manual,"1,00,000 Kms",First Owner,Diesel,126.2bhp,5,20.5 kmpl,SUV,Lucknow
+309,2022 Mercedes-Benz AMG A 35 4MATIC BSVI,₹ 53.75 Lakh,Jul-22,1991 cc,Third Party insurance,Automatic,"20,000 Kms",First Owner,Petrol,301.73bhp,5,,Sedan,Delhi
+310,2022 MG Astor Sharp EX BSVI,₹ 14 Lakh,2022,1498 cc,Third Party insurance,Manual,"30,000 Kms",First Owner,Petrol,108.49bhp,5,15.43 kmpl,SUV,Lucknow
+311,2017 Hyundai Verna 1.4 CRDi,₹ 5.90 Lakh,2017,1396 cc,Third Party insurance,Manual,"80,000 Kms",Second Owner,Diesel,88.7bhp,5,24.8 kmpl,Sedan,Lucknow
+312,2013 Maruti Swift Dzire ZDI,₹ 3.80 Lakh,2013,1248 cc,Third Party insurance,Manual,"80,000 Kms",Second Owner,Diesel,74bhp,5,23.4 kmpl,Sedan,Lucknow
+313,2014 Maruti Swift Dzire VDI,₹ 3.89 Lakh,Mar-14,1248 cc,Comprehensive,Manual,"97,697 Kms",First Owner,Diesel,74bhp,5,23.4 kmpl,Sedan,Lucknow
+314,2014 Maruti Swift Dzire LXI,₹ 3.55 Lakh,May-14,1197 cc,Comprehensive,Manual,"60,708 Kms",First Owner,Petrol,88.50bhp,5,22.41 kmpl,Sedan,Lucknow
+315,2019 Maruti Ignis 1.2 Alpha BSIV,₹ 5.04 Lakh,Sep-19,1197 cc,Third Party insurance,Manual,"72,225 Kms",First Owner,Petrol,81.80bhp,5,20.89 kmpl,Hatchback,Lucknow
+316,2016 Renault Duster 110PS Diesel RxZ,₹ 5.32 Lakh,Jan-18,1461 cc,Third Party insurance,Manual,"94,226 Kms",Second Owner,Diesel,108.45bhp,5,19.6 kmpl,SUV,Lucknow
+317,2021 Maruti Baleno Zeta,₹ 7.05 Lakh,Aug-21,1197 cc,Third Party,Manual,"22,808 Kms",First Owner,Petrol,81.80bhp,5,21.01 kmpl,Hatchback,Lucknow
+318,2020 Maruti S-Presso VXI 2019-2022,₹ 3.41 Lakh,Aug-20,998 cc,Third Party insurance,Manual,"76,980 Kms",First Owner,Petrol,65.71bhp,5,21.7 kmpl,Hatchback,Lucknow
+319,2012 Fiat Punto 1.2 Active,₹ 1.40 Lakh,2012,1172 cc,Third Party insurance,Manual,"50,000 Kms",First Owner,Petrol,67bhp,5,15.7 kmpl,Hatchback,Lucknow
+320,2014 Mahindra XUV500 W4,₹ 4.90 Lakh,2014,2179 cc,Third Party insurance,Manual,"1,00,000 Kms",Third Owner,Diesel,140bhp,7,15.1 kmpl,SUV,Lucknow
+321,2016 Mahindra TUV 300 T4,₹ 5.25 Lakh,2016,1493 cc,Third Party insurance,Manual,"1,00,000 Kms",First Owner,Diesel,100bhp,7,18.49 kmpl,SUV,Lucknow
+322,2022 Hyundai Creta E BSVI,₹ 11 Lakh,2022,1497 cc,Third Party insurance,Manual,"20,000 Kms",First Owner,Petrol,113.18bhp,5,,SUV,Lucknow
+323,2017 BMW X1 sDrive20d Expedition,₹ 19 Lakh,2017,1995 cc,Third Party insurance,Automatic,"1,00,000 Kms",First Owner,Diesel,188bhp,5,20.68 kmpl,SUV,Lucknow
+324,2019 Maruti Swift ZXI Plus,₹ 5.73 Lakh,Mar-19,1197 cc,Third Party insurance,Manual,"65,698 Kms",First Owner,Petrol,88.50bhp,5,22.38 kmpl,Hatchback,Lucknow
+325,2014 Nissan Terrano XL,₹ 3.57 Lakh,Mar-14,1598 cc,Third Party insurance,Manual,"82,101 Kms",Second Owner,Petrol,102.5bhp,5,13.24 kmpl,SUV,Lucknow
+326,2015 Toyota Etios Liva GD,₹ 4.56 Lakh,Jan-16,1364 cc,Third Party insurance,Manual,"59,819 Kms",Second Owner,Diesel,67.04bhp,5,23.59 kmpl,Hatchback,Lucknow
+327,2016 Maruti Alto K10 VXI,₹ 2.37 Lakh,Feb-16,998 cc,Zero Dep,Manual,"1,15,250 Kms",First Owner,Petrol,65.71bhp,5,24.39 kmpl,Hatchback,Lucknow
+328,2015 Hyundai Creta 1.6 VTVT SX Plus,₹ 7.66 Lakh,Oct-15,1591 cc,Comprehensive,Manual,"29,033 Kms",First Owner,Petrol,121.3bhp,5,13 kmpl,SUV,Lucknow
+329,2015 Hyundai i20 Active 1.2 S,₹ 4.79 Lakh,May-15,1197 cc,Third Party insurance,Manual,"57,294 Kms",Second Owner,Petrol,81.86bhp,5,17.19 kmpl,Hatchback,Lucknow
+330,2018 Maruti Alto 800 VXI,₹ 2.70 Lakh,May-18,796 cc,Third Party insurance,Manual,"32,464 Kms",First Owner,Petrol,47.33bhp,5,22.05 kmpl,Hatchback,Lucknow
+331,2018 Tata Nexon 1.2 Revotron XMA,₹ 6.91 Lakh,Nov-18,1198 cc,Third Party insurance,Automatic,"12,762 Kms",First Owner,Petrol,108.5bhp,5,17 kmpl,SUV,Lucknow
+332,2017 Mahindra KUV 100 NXT D75 K6 Plus,₹ 4.73 Lakh,Jun-17,1198 cc,Third Party,Manual,"51,719 Kms",First Owner,Diesel,77bhp,6,25.32 kmpl,Hatchback,Lucknow
+333,2011 Maruti Zen Estilo VXI BSIV,₹ 1.15 Lakh,2011,998 cc,Third Party insurance,Manual,"1,10,000 Kms",First Owner,Petrol,67.1bhp,5,19 kmpl,Hatchback,Lucknow
+334,2017 Tata Safari Storme EX,₹ 7 Lakh,2017,2179 cc,Third Party insurance,Manual,"70,000 Kms",Second Owner,Diesel,147.94bhp,7,14.1 kmpl,SUV,Lucknow
+335,2018 Maruti Swift AMT ZDI,₹ 7 Lakh,2018,1248 cc,Third Party insurance,Automatic,"60,000 Kms",First Owner,Diesel,74bhp,5,28.4 kmpl,Hatchback,Lucknow
+336,2022 Skoda Slavia 1.0 TSI Style BSVI,₹ 14.73 Lakh,2022,999 cc,Third Party insurance,Manual,"10,000 Kms",First Owner,Petrol,113.98bhp,5,19.47 kmpl,Sedan,Lucknow
+337,2014 Maruti Swift VDI BSIV,₹ 4 Lakh,2014,1248 cc,Third Party insurance,Manual,"80,000 Kms",Third Owner,Diesel,74bhp,5,25.2 kmpl,Hatchback,Lucknow
+338,2016 Tata Safari Storme VX Varicor 400,₹ 7.51 Lakh,2016,2179 cc,Third Party insurance,Manual,"80,000 Kms",Second Owner,Diesel,153.86bhp,7,14.1 kmpl,SUV,Lucknow
+339,2018 Hyundai i20 1.4 Asta Option,₹ 5.70 Lakh,Apr-18,1396 cc,Zero Dep,Manual,"66,141 Kms",Second Owner,Diesel,88.73bhp,5,22.54 kmpl,Hatchback,Lucknow
+340,2018 Tata Tiago 1.2 Revotron XZA,₹ 4.39 Lakh,Dec-18,1199 cc,Third Party insurance,Automatic,"8,769 Kms",Second Owner,Petrol,83.83bhp,5,23.84 kmpl,Hatchback,Lucknow
+341,2018 Maruti Vitara Brezza VDi Option,₹ 7.39 Lakh,Apr-18,1248 cc,Comprehensive,Manual,"30,806 Kms",First Owner,Diesel,88.5bhp,5,24.3 kmpl,SUV,Lucknow
+342,2019 Maruti Alto 800 LXI,₹ 3.32 Lakh,Apr-19,796 cc,Third Party,Manual,"33,245 Kms",First Owner,Petrol,47.33bhp,5,22.05 kmpl,Hatchback,Lucknow
+343,2018 Hyundai Xcent 1.2 VTVT SX Option,₹ 5.93 Lakh,Jun-18,1197 cc,Third Party,Manual,"42,665 Kms",First Owner,Petrol,81.86bhp,5,20.14 kmpl,Sedan,Lucknow
+344,2018 Honda Amaze S i-DTEC,₹ 5.35 Lakh,Aug-18,1498 cc,Zero Dep,Manual,"1,14,431 Kms",First Owner,Diesel,98.6bhp,5,25.8 kmpl,Sedan,Lucknow
+345,2019 Maruti Baleno 1.2 Delta,₹ 5.46 Lakh,Mar-19,1197 cc,Third Party insurance,Manual,"38,658 Kms",First Owner,Petrol,83.1bhp,5,21.4 kmpl,Hatchback,Lucknow
+346,2018 Hyundai Grand i10 1.2 Kappa Sportz BSIV,₹ 5.04 Lakh,May-19,1197 cc,Third Party insurance,Manual,"23,724 Kms",First Owner,Petrol,81.86bhp,5,18.9 kmpl,Hatchback,Lucknow
+347,2021 Renault KWID RXL,₹ 3 Lakh,2021,799 cc,Third Party insurance,Manual,"60,000 Kms",Third Owner,Petrol,53.26bhp,5,22.25 kmpl,Hatchback,Lucknow
+348,2022 Maruti Wagon R VXI CNG BSVI,₹ 6.50 Lakh,2022,998 cc,Third Party insurance,Manual,"70,000 Kms",First Owner,CNG,55.92bhp,5,34.05 kmpl,Hatchback,Lucknow
+349,2012 Hyundai Verna 1.6 SX VTVT,₹ 3 Lakh,2012,1591 cc,Third Party insurance,Manual,"1,10,000 Kms",Second Owner,Petrol,121.3bhp,5,17.01 kmpl,Sedan,Lucknow
+350,2017 Tata Nexon 1.2 Revotron XM,₹ 5.45 Lakh,2017,1198 cc,Third Party insurance,Manual,"20,000 Kms",First Owner,Petrol,108.5bhp,5,17 kmpl,SUV,Lucknow
+351,2022 Hyundai Verna SX Diesel,₹ 12 Lakh,2022,1493 cc,Third Party insurance,Manual,"40,000 Kms",First Owner,Diesel,113.45bhp,5,25 kmpl,Sedan,Lucknow
+352,2016 Tata Safari Storme VX Varicor 400,₹ 7.51 Lakh,2016,2179 cc,Third Party insurance,Manual,"80,000 Kms",Second Owner,Diesel,153.86bhp,7,14.1 kmpl,SUV,Lucknow
+353,2017 Renault KWID 1.0 RXT Optional AT 2016-2019,₹ 3.15 Lakh,Jul-17,999 cc,Comprehensive,Automatic,"34,061 Kms",First Owner,Petrol,67bhp,5,23.01 kmpl,Hatchback,Lucknow
+354,2018 Hyundai Grand i10 1.2 Kappa Asta,₹ 4.70 Lakh,Apr-18,1197 cc,Third Party,Manual,"51,140 Kms",Second Owner,Petrol,81.86bhp,5,18.9 kmpl,Hatchback,Lucknow
+355,2014 Hyundai i10 Magna 1.1L,₹ 2.49 Lakh,Dec-14,1086 cc,Third Party,Manual,"55,076 Kms",First Owner,Petrol,68.05bhp,5,19.81 kmpl,Hatchback,Lucknow
+356,2015 Hyundai Grand i10 CRDi Sportz,₹ 3.15 Lakh,Oct-15,1120 cc,Third Party insurance,Manual,"1,13,593 Kms",Second Owner,Diesel,70bhp,5,24 kmpl,Hatchback,Lucknow
+357,2016 Maruti Baleno 1.2 Delta,₹ 4.69 Lakh,Jul-16,1197 cc,Zero Dep,Manual,"54,091 Kms",First Owner,Petrol,83.1bhp,5,21.4 kmpl,Hatchback,Lucknow
+358,2012 Honda City 1.5 V AT Sunroof,₹ 4.94 Lakh,Dec-12,1497 cc,Third Party insurance,Automatic,"56,446 Kms",Second Owner,Petrol,116.3bhp,5,16.8 kmpl,Sedan,Lucknow
+359,2018 Hyundai Santro Sportz CNG BSIV,₹ 4.76 Lakh,Dec-18,1086 cc,Comprehensive,Manual,"41,609 Kms",First Owner,CNG,58bhp,5,30.48 km/kg,Hatchback,Lucknow
+360,2021 Maruti Baleno Delta,₹ 6.30 Lakh,Nov-21,1197 cc,Third Party insurance,Manual,"5,806 Kms",First Owner,Petrol,81.80bhp,5,21.01 kmpl,Hatchback,Lucknow
+361,2019 Honda Amaze S Petrol BSIV,₹ 5.45 Lakh,Apr-19,1199 cc,Comprehensive,Manual,"53,873 Kms",First Owner,Petrol,88.76bhp,5,19.5 kmpl,Sedan,Lucknow
+362,2013 Ford Ecosport 1.5 DV5 MT Titanium,₹ 3 Lakh,2013,1498 cc,Third Party insurance,Manual,"90,000 Kms",First Owner,Diesel,89.84bhp,5,22.7 kmpl,SUV,Lucknow
+363,2020 Toyota Fortuner 2.8 2WD AT,₹ 31.50 Lakh,2020,2755 cc,Third Party insurance,Automatic,"60,000 Kms",First Owner,Diesel,174.5bhp,7,12.9 kmpl,SUV,Lucknow
+364,2012 Hyundai Verna 1.6 SX VTVT,₹ 4.15 Lakh,2012,1591 cc,Third Party insurance,Manual,"60,000 Kms",First Owner,Petrol,121.3bhp,5,17.01 kmpl,Sedan,Lucknow
+365,2021 Honda City V MT,₹ 8.90 Lakh,2021,1498 cc,Third Party insurance,Manual,"60,000 Kms",First Owner,Petrol,119.35bhp,5,18.6 kmpl,Sedan,Lucknow
+366,2013 Maruti Ritz ZDi,₹ 2.40 Lakh,2013,1248 cc,Third Party insurance,Manual,"1,00,000 Kms",Third Owner,Diesel,73.94bhp,5,23.2 kmpl,Hatchback,Lucknow
+367,2015 Nissan Terrano XV 110 PS,₹ 4.60 Lakh,2015,1461 cc,Third Party insurance,Manual,"1,00,000 Kms",First Owner,Diesel,108.5bhp,5,19.01 kmpl,SUV,Lucknow
+368,2018 Maruti Baleno 1.2 Alpha,₹ 5 Lakh,2018,1197 cc,Third Party insurance,Manual,"50,000 Kms",Second Owner,Petrol,83.1bhp,5,21.4 kmpl,Hatchback,Lucknow
+369,2019 Maruti Wagon R LXI CNG Optional,₹ 4.50 Lakh,2019,998 cc,Third Party insurance,Manual,"80,000 Kms",First Owner,CNG,58.16bhp,5,26.6 kmpl,Hatchback,Lucknow
+370,2019 Maruti Baleno 1.2 Alpha,₹ 6.33 Lakh,Aug-19,1197 cc,Third Party insurance,Manual,"15,415 Kms",First Owner,Petrol,83.1bhp,5,21.4 kmpl,Hatchback,Lucknow
+371,2018 Maruti Swift Dzire AMT VDI,₹ 6.04 Lakh,Mar-18,1248 cc,Comprehensive,Automatic,"55,145 Kms",First Owner,Diesel,74.02bhp,5,28.4 kmpl,Sedan,Lucknow
+372,2016 Maruti Celerio VXI AMT,₹ 3.15 Lakh,Jan-17,998 cc,Third Party insurance,Automatic,"1,09,688 Kms",First Owner,Petrol,65.71bhp,5,26.68 kmpl,Hatchback,Lucknow
+373,2019 Hyundai Grand i10 Nios Sportz,₹ 6.60 Lakh,Nov-19,1197 cc,Third Party insurance,Manual,"18,914 Kms",First Owner,Petrol,81.86bhp,5,20.7 kmpl,Hatchback,Lucknow
+374,2017 Hyundai EON Era Plus Option,₹ 2.71 Lakh,Aug-17,814 cc,Third Party,Manual,"67,328 Kms",Second Owner,Petrol,55.2bhp,5,21.1 kmpl,Hatchback,Lucknow
+375,2018 Maruti Ignis 1.2 Zeta BSIV,₹ 4.77 Lakh,Apr-18,1197 cc,Comprehensive,Manual,"81,741 Kms",First Owner,Petrol,81.80bhp,5,20.89 kmpl,Hatchback,Lucknow
+376,2021 Maruti Swift VXI,₹ 5.86 Lakh,Jun-21,1197 cc,Zero Dep,Manual,"43,788 Kms",First Owner,Petrol,88.50bhp,5,22.38 kmpl,Hatchback,Lucknow
+377,2016 Hyundai Grand i10 Asta Option AT,₹ 4.02 Lakh,May-16,1197 cc,Comprehensive,Automatic,"51,520 Kms",Second Owner,Petrol,82bhp,5,18.9 kmpl,Hatchback,Lucknow
+378,2014 Maruti Swift VXI,₹ 3.58 Lakh,Feb-14,1197 cc,Comprehensive,Manual,"60,574 Kms",First Owner,Petrol,88.50bhp,5,22.38 kmpl,Hatchback,Lucknow
+379,2016 Maruti Ciaz ZXi Plus,₹ 5.13 Lakh,May-16,1373 cc,Third Party insurance,Manual,"85,507 Kms",First Owner,Petrol,91.1bhp,5,20.73 kmpl,Sedan,Lucknow
+380,2014 Hyundai Grand i10 Sportz,₹ 3.04 Lakh,2014,1197 cc,Third Party insurance,Manual,"1,00,000 Kms",Third Owner,Petrol,82bhp,5,18.9 kmpl,Hatchback,Lucknow
+381,2012 Mercedes-Benz C-Class C 250 CDI Elegance,₹ 7 Lakh,2012,2143 cc,Third Party insurance,Automatic,"1,10,000 Kms",Second Owner,Diesel,204bhp,5,14.94 kmpl,Sedan,Lucknow
+382,2022 Mahindra Scorpio S5,₹ 15 Lakh,2022,2179 cc,Third Party insurance,Manual,"80,000 Kms",First Owner,Diesel,136.78bhp,7,,SUV,Lucknow
+383,2020 Toyota Fortuner 2.8 2WD AT,₹ 32.50 Lakh,2020,2755 cc,Third Party insurance,Automatic,"60,000 Kms",First Owner,Diesel,174.5bhp,7,12.9 kmpl,SUV,Lucknow
+384,2017 Ford Aspire Trend Diesel,₹ 5 Lakh,2017,1499 cc,Third Party insurance,Manual,"70,000 Kms",First Owner,Diesel,98.96bhp,5,24.4 kmpl,Sedan,Lucknow
+385,2018 Renault KWID RXT Optional,₹ 3.50 Lakh,2018,799 cc,Third Party insurance,Manual,"40,000 Kms",First Owner,Petrol,53.3bhp,5,25.17 kmpl,Hatchback,Lucknow
+386,2017 Honda City i VTEC SV,₹ 8 Lakh,2017,1497 cc,Third Party insurance,Manual,"70,000 Kms",First Owner,Petrol,117.3bhp,5,17.8 kmpl,Sedan,Lucknow
+387,2019 Hyundai Creta 1.4 E Plus,₹ 9 Lakh,2019,1396 cc,Third Party insurance,Manual,"60,000 Kms",First Owner,Diesel,88.7bhp,5,22.1 kmpl,SUV,Lucknow
+388,2021 Maruti Baleno Sigma,₹ 6.56 Lakh,Feb-21,1197 cc,Zero Dep,Manual,"34,348 Kms",First Owner,Petrol,81.80bhp,5,21.01 kmpl,Hatchback,Lucknow
+389,2020 Hyundai i20 Sportz BSVI,₹ 6.82 Lakh,Mar-21,1197 cc,Third Party insurance,Manual,"34,139 Kms",First Owner,Petrol,81.80bhp,5,21 kmpl,Hatchback,Lucknow
+390,2016 Maruti Baleno 1.2 Sigma,₹ 4.14 Lakh,Aug-16,1197 cc,Comprehensive,Manual,"91,960 Kms",First Owner,Petrol,83.1bhp,5,21.4 kmpl,Hatchback,Lucknow
+391,2016 Honda City i VTEC SV,₹ 5.26 Lakh,Aug-16,1497 cc,Comprehensive,Manual,"27,567 Kms",Second Owner,Petrol,117.3bhp,5,17.8 kmpl,Sedan,Lucknow
+392,2018 Hyundai EON Era Plus,₹ 3.07 Lakh,Jun-18,814 cc,Third Party,Manual,"14,669 Kms",First Owner,Petrol,55.2bhp,5,21.1 kmpl,Hatchback,Lucknow
+393,2016 Ford Ecosport 1.5 TDCi Titanium BSIV,₹ 5.27 Lakh,Dec-16,1498 cc,Third Party,Manual,"60,047 Kms",Second Owner,Diesel,98.59bhp,5,22.77 kmpl,SUV,Lucknow
+394,2021 Ford Ecosport 1.5 Diesel Titanium Plus,₹ 8.46 Lakh,Mar-21,1498 cc,Third Party,Manual,"63,152 Kms",First Owner,Diesel,98.96bhp,5,21.7 kmpl,SUV,Lucknow
+395,2019 Maruti Baleno 1.3 Zeta,₹ 6.39 Lakh,Jan-20,1248 cc,Zero Dep,Manual,"1,00,250 Kms",First Owner,Diesel,74bhp,5,27.39 kmpl,Hatchback,Lucknow
+396,2017 Honda WR-V i-DTEC VX,₹ 6.25 Lakh,Feb-18,1498 cc,Comprehensive,Manual,"92,708 Kms",Second Owner,Diesel,98.6bhp,5,25.5 kmpl,SUV,Lucknow
+397,2016 Maruti Ciaz ZXi,₹ 5.87 Lakh,Aug-16,1373 cc,Third Party insurance,Manual,"47,075 Kms",First Owner,Petrol,91.1bhp,5,20.73 kmpl,Sedan,Lucknow
+398,2015 Hyundai Elantra CRDi SX AT,₹ 5.15 Lakh,May-15,1582 cc,Third Party insurance,Automatic,"1,19,655 Kms",Second Owner,Diesel,126.2bhp,5,22.7 kmpl,Sedan,Lucknow
+399,2017 Skoda Rapid 1.5 TDI AT Style BSIV,₹ 6 Lakh,2017,1498 cc,Third Party insurance,Automatic,"1,20,000 Kms",Second Owner,Diesel,108.6bhp,5,21.72 kmpl,Sedan,Lucknow
+400,2019 Maruti S-Presso VXI 2019-2022,₹ 3.73 Lakh,2019,998 cc,Third Party insurance,Manual,"40,000 Kms",First Owner,Petrol,65.71bhp,5,21.7 kmpl,Hatchback,Lucknow
+401,2017 Renault KWID RXT AMT,₹ 3 Lakh,2017,799 cc,Third Party insurance,Automatic,"1,10,000 Kms",Second Owner,Petrol,53.3bhp,5,25.17 kmpl,Hatchback,Lucknow
+402,2008 Hyundai Santro Xing GLS,₹ 1.25 Lakh,2008,1086 cc,Third Party insurance,Manual,"60,000 Kms",Second Owner,Petrol,62.1bhp,5,17.92 kmpl,Hatchback,Lucknow
+403,2016 Volkswagen Ameo 1.5 TDI Highline,₹ 4.50 Lakh,2016,1498 cc,Third Party insurance,Manual,"70,000 Kms",Second Owner,Diesel,108.62bhp,5,21.66 kmpl,Sedan,Lucknow
+404,2011 Volkswagen Polo Diesel Highline 1.2L,₹ 1.80 Lakh,2011,1199 cc,Third Party insurance,Manual,"80,000 Kms",Fifth Owner,Diesel,73.9bhp,5,22.07 kmpl,Hatchback,Lucknow
+405,2019 Mahindra Marazzo M2 BSIV,₹ 7 Lakh,2019,1497 cc,Third Party insurance,Manual,"70,000 Kms",First Owner,Diesel,121bhp,7,17.3 kmpl,MUV,Lucknow
+406,2011 Maruti Swift VDI,₹ 2.85 Lakh,2011,1248 cc,Third Party insurance,Manual,"90,000 Kms",Fourth Owner,Diesel,74bhp,5,22.9 kmpl,Hatchback,Lucknow
+407,2019 Hyundai Grand i10 Nios Magna,₹ 5.55 Lakh,Feb-20,1197 cc,Third Party insurance,Manual,"16,772 Kms",Second Owner,Petrol,81.86bhp,5,20.7 kmpl,Hatchback,Lucknow
+408,2019 Tata Tiago NRG Diesel,₹ 5.01 Lakh,Jun-19,1047 cc,Third Party,Manual,"49,711 Kms",First Owner,Diesel,69bhp,5,27 kmpl,Hatchback,Lucknow
+409,2017 Hyundai Creta 1.4 E Plus CRDi,₹ 7.80 Lakh,Sep-17,1396 cc,Zero Dep,Manual,"87,608 Kms",First Owner,Diesel,88.7bhp,5,22.1 kmpl,SUV,Lucknow
+410,2019 Ford Ecosport 1.5 Diesel Titanium BSIV,₹ 7.10 Lakh,May-19,1498 cc,Comprehensive,Manual,"82,812 Kms",First Owner,Diesel,98.96bhp,5,23 kmpl,SUV,Lucknow
+411,2021 Honda WR-V SV,₹ 7.43 Lakh,Apr-21,1199 cc,Third Party insurance,Manual,"23,673 Kms",First Owner,Petrol,88.50bhp,5,16.5 kmpl,SUV,Lucknow
+412,2018 Tata Nexon XM Diesel,₹ 6.16 Lakh,Apr-18,1497 cc,Third Party,Manual,"34,139 Kms",Second Owner,Diesel,113.42bhp,5,23.22 kmpl,SUV,Lucknow
+413,2017 Hyundai i20 Sportz 1.2,₹ 4.90 Lakh,Apr-17,1197 cc,Third Party,Manual,"64,302 Kms",Second Owner,Petrol,81.83bhp,5,18.6 kmpl,Hatchback,Lucknow
+414,2013 Hyundai Santro Xing GLS CNG,₹ 2.30 Lakh,Jun-13,1086 cc,Comprehensive,Manual,"77,724 Kms",Second Owner,CNG,62.1bhp,5,11.88 kmpl,Hatchback,Lucknow
+415,2020 Maruti Wagon R CNG LXI,₹ 5.61 Lakh,Feb-20,998 cc,Third Party insurance,Manual,"42,649 Kms",First Owner,CNG,58.33bhp,5,32.52 kmpl,Hatchback,Lucknow
+416,2017 Hyundai Grand i10 1.2 Kappa Sportz Option AT,₹ 5.20 Lakh,Dec-17,1197 cc,Comprehensive,Automatic,"21,231 Kms",First Owner,Petrol,81.86bhp,5,18.9 kmpl,Hatchback,Lucknow
+417,2016 Maruti Wagon R VXI BS IV,₹ 3.55 Lakh,Feb-16,998 cc,Third Party,Manual,"25,619 Kms",First Owner,Petrol,67.04bhp,5,20.51 kmpl,Hatchback,Lucknow
+418,2018 Tata Nexon KRAZ,₹ 6.17 Lakh,Jun-18,1198 cc,Comprehensive,Manual,"49,355 Kms",First Owner,Petrol,108.5bhp,5,17 kmpl,SUV,Lucknow
+419,2011 Maruti Swift VDI,₹ 2.80 Lakh,2011,1248 cc,Third Party insurance,Manual,"1,00,000 Kms",Fourth Owner,Diesel,74bhp,5,22.9 kmpl,Hatchback,Lucknow
+420,2018 Maruti SX4 S Cross Zeta DDiS 200 SH,₹ 8 Lakh,2018,1248 cc,Third Party insurance,Manual,"90,000 Kms",First Owner,Diesel,88.5bhp,5,25.1 kmpl,SUV,Lucknow
+421,2010 Tata Indigo TDI,₹ 1.40 Lakh,2010,1405 cc,Third Party insurance,Manual,"90,000 Kms",First Owner,Diesel,70bhp,5,19.61 kmpl,Sedan,Lucknow
+422,2010 Tata Indigo TDI,₹ 2.25 Lakh,2010,1405 cc,Third Party insurance,Manual,"90,000 Kms",First Owner,Diesel,70bhp,5,19.61 kmpl,Sedan,Lucknow
+423,2023 Maruti Baleno Sigma BSVI,₹ 7 Lakh,2023,1197 cc,Third Party insurance,Manual,"10,000 Kms",First Owner,Petrol,88.50bhp,5,22.35 kmpl,Hatchback,Lucknow
+424,2011 Tata Indica Aqua 1.4 TDI,₹ 1.50 Lakh,2011,1405 cc,Third Party insurance,Manual,"1,10,000 Kms",Fourth Owner,Diesel,71 PS at 4500 rpm,5,17 kmpl,Hatchback,Lucknow
+425,2014 Ford Ecosport 1.5 DV5 MT Trend,₹ 4.50 Lakh,2014,1498 cc,Third Party insurance,Manual,"80,000 Kms",Second Owner,Diesel,89.84bhp,5,22.7 kmpl,SUV,Lucknow
+426,2016 Toyota Fortuner 4x2 AT,₹ 15 Lakh,2016,2982 cc,Third Party insurance,Automatic,"1,20,000 Kms",First Owner,Diesel,168.5bhp,7,12.55 kmpl,SUV,Lucknow
+427,2022 Tata Nexon XZ BSVI,₹ 8.72 Lakh,Jun-22,1199 cc,Third Party,Manual,"15,525 Kms",First Owner,Petrol,118.36bhp,5,17.57 kmpl,SUV,Lucknow
+428,2015 Maruti Celerio VXI AMT,₹ 3.86 Lakh,Apr-15,998 cc,Third Party,Automatic,"24,371 Kms",First Owner,Petrol,65.71bhp,5,26.68 kmpl,Hatchback,Lucknow
+429,2016 Maruti Vitara Brezza VDi Option,₹ 5.53 Lakh,Jun-16,1248 cc,Comprehensive,Manual,"1,06,634 Kms",Second Owner,Diesel,88.5bhp,5,24.3 kmpl,SUV,Lucknow
+430,2018 Ford Freestyle Ambiente Diesel,₹ 5.04 Lakh,Jul-18,1498 cc,Comprehensive,Manual,"90,038 Kms",Second Owner,Diesel,98.63bhp,5,24.4 kmpl,Hatchback,Lucknow
+431,2015 Maruti Swift Dzire VDI,₹ 4.76 Lakh,Apr-15,1248 cc,Comprehensive,Manual,"67,933 Kms",Second Owner,Diesel,74bhp,5,26.59 kmpl,Sedan,Lucknow
+432,2018 Toyota Fortuner 2.8 4WD AT BSIV,₹ 29.70 Lakh,Mar-18,2755 cc,Comprehensive,Automatic,"29,486 Kms",First Owner,Diesel,174.5bhp,7,15.04 kmpl,SUV,Lucknow
+433,2020 Hyundai Grand i10 1.2 Kappa Sportz BSIV,₹ 5.40 Lakh,Nov-20,1197 cc,Third Party,Manual,"16,996 Kms",First Owner,Petrol,81.86bhp,5,18.9 kmpl,Hatchback,Lucknow
+434,2018 Maruti Celerio X AMT ZXI Option BSIV,₹ 3.79 Lakh,Mar-19,998 cc,Third Party insurance,Automatic,"1,24,932 Kms",First Owner,Petrol,67bhp,5,21.63 kmpl,Hatchback,Lucknow
+435,2020 Toyota Glanza V,₹ 6.56 Lakh,Oct-20,1197 cc,Comprehensive,Manual,"25,940 Kms",First Owner,Petrol,88.50bhp,5,22.35 kmpl,Hatchback,Lucknow
+436,2019 Hyundai Grand i10 Nios Magna,₹ 5 Lakh,Jul-20,1197 cc,Third Party,Manual,"42,299 Kms",Second Owner,Petrol,81.86bhp,5,20.7 kmpl,Hatchback,Lucknow
+437,2018 Maruti Celerio X ZXI Option BSIV,₹ 4.91 Lakh,Mar-18,998 cc,Third Party,Manual,"38,933 Kms",First Owner,Petrol,67bhp,5,21.63 kmpl,Hatchback,Lucknow
+438,2020 Maruti SX4 S Cross Alpha,₹ 9.65 Lakh,Aug-20,1462 cc,Third Party insurance,Manual,"39,300 Kms",First Owner,Petrol,103.25bhp,5,18.55 kmpl,SUV,Lucknow
+439,2012 Tata Indigo LX,₹ 1.50 Lakh,2012,1405 cc,Third Party insurance,Manual,"1,20,000 Kms",Second Owner,Diesel,70,5,17 kmpl,Sedan,Lucknow
+440,2018 Maruti Wagon R VXI BS IV,₹ 3.75 Lakh,2018,998 cc,Third Party insurance,Manual,"60,000 Kms",First Owner,Petrol,67.04bhp,5,20.51 kmpl,Hatchback,Lucknow
+441,2015 Nissan Terrano XL Plus 85 PS,₹ 4 Lakh,2015,1461 cc,Third Party insurance,Manual,"70,000 Kms",Second Owner,Diesel,83.8bhp,5,20.45 kmpl,SUV,Lucknow
+442,2015 Nissan Terrano XL Plus 85 PS,₹ 4 Lakh,2015,1461 cc,Third Party insurance,Manual,"70,000 Kms",Second Owner,Diesel,83.8bhp,5,20.45 kmpl,SUV,Lucknow
+443,2015 Nissan Terrano XL Plus 85 PS,₹ 3.53 Lakh,2015,1461 cc,Third Party insurance,Manual,"70,000 Kms",Second Owner,Diesel,83.8bhp,5,20.45 kmpl,SUV,Lucknow
+444,2020 Maruti Baleno Zeta,₹ 6.50 Lakh,2020,1197 cc,Third Party insurance,Manual,"40,000 Kms",First Owner,Petrol,81.80bhp,5,21.01 kmpl,Hatchback,Lucknow
+445,2015 Nissan Terrano XL Plus 85 PS,₹ 4 Lakh,2015,1461 cc,Third Party insurance,Manual,"70,000 Kms",Second Owner,Diesel,83.8bhp,5,20.45 kmpl,SUV,Lucknow
+446,2016 Maruti Swift Dzire AMT ZDI,₹ 5.20 Lakh,2016,1248 cc,Third Party insurance,Automatic,"1,20,000 Kms",First Owner,Diesel,74bhp,5,26.59 kmpl,Sedan,Lucknow
+447,2019 Hyundai Grand i10 1.2 Kappa Sportz BSIV,₹ 4.97 Lakh,Sep-19,1197 cc,Third Party insurance,Manual,"20,329 Kms",First Owner,Petrol,81.86bhp,5,18.9 kmpl,Hatchback,Lucknow
+448,2018 Volkswagen Polo 1.5 TDI Comfortline,₹ 7.34 Lakh,Jun-18,1498 cc,Third Party,Manual,"56,598 Kms",First Owner,Diesel,88bhp,5,20.14 kmpl,Hatchback,Lucknow
+449,2021 Maruti Baleno Zeta,₹ 6.82 Lakh,Jan-21,1197 cc,Zero Dep,Manual,"22,615 Kms",Second Owner,Petrol,81.80bhp,5,21.01 kmpl,Hatchback,Lucknow
+450,2020 Hyundai Santro Sportz CNG BSIV,₹ 4.82 Lakh,May-20,1086 cc,Third Party insurance,Manual,"85,312 Kms",First Owner,CNG,58bhp,5,30.48 km/kg,Hatchback,Lucknow
+451,2022 Hyundai Santro Sportz CNG,₹ 5.59 Lakh,Apr-22,1086 cc,Third Party insurance,Manual,"25,586 Kms",First Owner,CNG,59.17bhp,5,30.48 km/kg,Hatchback,Lucknow
+452,2017 Maruti Ignis 1.3 AMT Zeta,₹ 5.62 Lakh,Jun-17,1248 cc,Third Party,Automatic,"60,579 Kms",First Owner,Diesel,74bhp,5,26.8 kmpl,Hatchback,Lucknow
+453,2020 Hyundai i20 Magna BSVI,₹ 5.84 Lakh,Dec-20,1197 cc,Third Party insurance,Manual,"95,585 Kms",First Owner,Petrol,81.80bhp,5,21 kmpl,Hatchback,Lucknow
+454,2016 Volkswagen Jetta 2.0L TDI Comfortline,₹ 6.81 Lakh,Jun-16,1968 cc,Comprehensive,Manual,"1,05,068 Kms",First Owner,Diesel,138.03bhp,5,19.33 kmpl,Sedan,Lucknow
+455,2015 Maruti Wagon R VXI BS IV,₹ 3.19 Lakh,Jan-16,998 cc,Third Party,Manual,"64,154 Kms",First Owner,Petrol,67.04bhp,5,20.51 kmpl,Hatchback,Lucknow
+456,2017 Hyundai i20 Magna 1.2,₹ 5.40 Lakh,Apr-17,1197 cc,Zero Dep,Manual,"31,163 Kms",First Owner,Petrol,81.83bhp,5,18.6 kmpl,Hatchback,Lucknow
+457,2015 Honda City i VTEC SV,₹ 4.93 Lakh,May-15,1497 cc,Third Party insurance,Manual,"92,675 Kms",Second Owner,Petrol,117.3bhp,5,17.4 kmpl,Sedan,Lucknow
+458,2016 Maruti Ciaz ZDi Plus SHVS,₹ 6.50 Lakh,2016,1248 cc,Third Party insurance,Manual,"70,000 Kms",First Owner,Diesel,88.5bhp,5,28.09 kmpl,Sedan,Lucknow
+459,2009 Chevrolet Spark 1.0 LS,₹ 1.35 Lakh,2009,995 cc,Third Party insurance,Manual,"30,000 Kms",First Owner,Petrol,62bhp,5,18 kmpl,Hatchback,Lucknow
+460,2021 Hyundai Venue SX Turbo,₹ 8 Lakh,2021,998 cc,Third Party insurance,Manual,"50,000 Kms",First Owner,Petrol,118.35bhp,5,18.27 kmpl,SUV,Lucknow
+461,2022 Maruti Eeco 7 Seater STD 2020-2022,₹ 5 Lakh,2022,1196 cc,Third Party insurance,Manual,"20,000 Kms",First Owner,Petrol,72.41bhp,7,16.11 kmpl,Minivans,Lucknow
+462,2009 Maruti Zen Estilo VXI BSIV,"₹ 80,000",2009,998 cc,Third Party insurance,Manual,"40,000 Kms",Second Owner,Petrol,67.1bhp,5,19 kmpl,Hatchback,Lucknow
+463,2016 Mahindra Scorpio 1.99 S10,₹ 10 Lakh,2016,1997 cc,Third Party insurance,Manual,"1,20,000 Kms",Second Owner,Diesel,120bhp,7,15.4 kmpl,SUV,Lucknow
+464,2022 MG Hector Shine MT,₹ 15 Lakh,2022,1451 cc,Third Party insurance,Manual,"10,000 Kms",First Owner,Petrol,141bhp,5,,SUV,Lucknow
+465,2015 Mahindra XUV500 W8 4WD,₹ 6.50 Lakh,2015,2179 cc,Third Party insurance,Manual,"90,000 Kms",First Owner,Diesel,140bhp,7,15.1 kmpl,SUV,Lucknow
+466,2015 Skoda Rapid 1.5 TDI Active,₹ 3.94 Lakh,Jun-15,1498 cc,Third Party,Manual,"99,484 Kms",First Owner,Diesel,103.52bhp,5,21.14 kmpl,Sedan,Lucknow
+467,2014 Maruti Alto K10 VXI,₹ 2.42 Lakh,Jul-14,998 cc,Third Party,Manual,"51,156 Kms",First Owner,Petrol,65.71bhp,5,24.39 kmpl,Hatchback,Lucknow
+468,2019 Honda City i-VTEC V,₹ 8.13 Lakh,Feb-19,1497 cc,Comprehensive,Manual,"38,693 Kms",Second Owner,Petrol,117.6bhp,5,17.4 kmpl,Sedan,Lucknow
+469,2017 Maruti Baleno 1.2 CVT Delta,₹ 5.91 Lakh,Oct-17,1197 cc,Zero Dep,Automatic,"27,626 Kms",First Owner,Petrol,83.1bhp,5,21.4 kmpl,Hatchback,Lucknow
+470,2017 Mahindra Thar CRDe,₹ 6.52 Lakh,Aug-17,2498 cc,Third Party insurance,Manual,"63,510 Kms",First Owner,Diesel,105bhp,6,16.55 kmpl,SUV,Lucknow
+471,2015 Maruti Wagon R VXI BS IV,₹ 2.93 Lakh,Mar-15,998 cc,Comprehensive,Manual,"96,498 Kms",First Owner,Petrol,67.04bhp,5,20.51 kmpl,Hatchback,Lucknow
+472,2018 Toyota Etios Liva 1.4 VD,₹ 5.52 Lakh,Jun-18,1364 cc,Third Party,Manual,"26,195 Kms",First Owner,Diesel,67.04bhp,5,23.59 kmpl,Hatchback,Lucknow
+473,2018 Tata Tiago 1.2 Revotron XT,₹ 4.04 Lakh,Dec-18,1199 cc,Third Party insurance,Manual,"38,017 Kms",First Owner,Petrol,84bhp,5,23.84 kmpl,Hatchback,Lucknow
+474,2018 Honda City i-VTEC V,₹ 7.37 Lakh,Jul-18,1497 cc,Third Party insurance,Manual,"48,978 Kms",First Owner,Petrol,117.6bhp,5,17.4 kmpl,Sedan,Lucknow
+475,2018 Mahindra Thar CRDe,₹ 6.82 Lakh,Nov-18,2498 cc,Zero Dep,Manual,"35,083 Kms",Second Owner,Diesel,105bhp,6,16.55 kmpl,SUV,Lucknow
+476,2019 Maruti Swift VXI,₹ 5.42 Lakh,Dec-19,1197 cc,Third Party insurance,Manual,"56,907 Kms",First Owner,Petrol,88.50bhp,5,22.38 kmpl,Hatchback,Lucknow
+477,2018 Maruti Swift Dzire AMT ZXI,₹ 6.41 Lakh,Jul-18,1197 cc,Third Party insurance,Automatic,"67,778 Kms",First Owner,Petrol,81.80bhp,5,21.21 kmpl,Sedan,Lucknow
+478,2015 Tata Safari Storme EX,₹ 5.10 Lakh,2015,2179 cc,Third Party insurance,Manual,"1,20,000 Kms",Second Owner,Diesel,147.94bhp,7,14.1 kmpl,SUV,Lucknow
+479,2021 Jeep Compass 2.0 Limited Opt Diesel BSVI,₹ 22.50 Lakh,2021,1956 cc,Third Party insurance,Manual,"50,000 Kms",First Owner,Diesel,167.67bhp,5,17.1 kmpl,SUV,Lucknow
+480,2012 Tata Indigo Classic Dicor,₹ 1.50 Lakh,2012,1396 cc,Third Party insurance,Manual,"1,10,000 Kms",Second Owner,Diesel,70bhp,5,23.57 kmpl,Sedan,Lucknow
+481,2013 Honda Amaze EX i-Vtech,₹ 2.50 Lakh,2013,1198 cc,Third Party insurance,Manual,"1,10,000 Kms",Second Owner,Petrol,86.7bhp,5,18 kmpl,Sedan,Lucknow
+482,2021 Mahindra Thar LX 4-Str Hard Top Diesel BSVI,₹ 10.20 Lakh,2021,2184 cc,Third Party insurance,Manual,"80,000 Kms",Third Owner,Diesel,130bhp,4,15.2 kmpl,SUV,Lucknow
+483,2021 Tata Tiago XZ Plus BSVI,₹ 4.99 Lakh,2021,1199 cc,Third Party insurance,Manual,"50,000 Kms",Second Owner,Petrol,84.82bhp,5,19.01 kmpl,Hatchback,Lucknow
+484,2020 Maruti Ciaz Delta BSVI,₹ 7.70 Lakh,2020,1462 cc,Third Party insurance,Manual,"70,000 Kms",First Owner,Petrol,103.25bhp,5,20.65 kmpl,Sedan,Lucknow
+485,2019 Ford Endeavour Titanium Plus 4X2,₹ 26 Lakh,2019,2198 cc,Third Party insurance,Automatic,"1,10,000 Kms",First Owner,Diesel,158.2bhp,7,14.2 kmpl,SUV,Lucknow
+486,2021 Renault KWID 1.0 RXT AMT Opt,₹ 4.72 Lakh,Mar-21,999 cc,Third Party,Automatic,"31,945 Kms",Second Owner,Petrol,67bhp,5,22 kmpl,Hatchback,Lucknow
+487,2017 Skoda Rapid 1.5 TDI Style BSIV,₹ 6.55 Lakh,Apr-18,1498 cc,Zero Dep,Manual,"1,04,774 Kms",First Owner,Diesel,108.6bhp,5,21.13 kmpl,Sedan,Lucknow
+488,2017 Maruti Swift VDI BSIV,₹ 4.39 Lakh,Oct-17,1248 cc,Zero Dep,Manual,"1,24,644 Kms",First Owner,Diesel,74bhp,5,25.2 kmpl,Hatchback,Lucknow
+489,2015 Toyota Etios STD,₹ 4.66 Lakh,Jun-15,1364 cc,Third Party,Manual,"61,959 Kms",Second Owner,Diesel,67.05bhp,5,23.59 kmpl,Sedan,Lucknow
+490,2021 Hyundai i20 Asta Opt Turbo DCT BSVI,₹ 10.47 Lakh,Nov-21,998 cc,Third Party,Automatic,"14,785 Kms",First Owner,Petrol,118.41bhp,5,20.28 kmpl,Hatchback,Lucknow
+491,2019 Maruti Vitara Brezza VDi,₹ 7.63 Lakh,Oct-19,1248 cc,Zero Dep,Manual,"54,264 Kms",First Owner,Diesel,88.5bhp,5,24.3 kmpl,SUV,Lucknow
+492,2015 Hyundai Grand i10 Sportz,₹ 3.31 Lakh,Feb-15,1197 cc,Comprehensive,Manual,"40,071 Kms",Second Owner,Petrol,82bhp,5,18.9 kmpl,Hatchback,Lucknow
+493,2018 Honda Amaze S CVT i-VTEC,₹ 5.94 Lakh,Aug-19,1199 cc,Third Party insurance,Automatic,"37,153 Kms",First Owner,Petrol,88.7bhp,5,18.1 kmpl,Sedan,Lucknow
+494,2019 Maruti Ciaz Delta BSIV,₹ 6.21 Lakh,May-19,1462 cc,Zero Dep,Manual,"91,391 Kms",First Owner,Petrol,103.25bhp,5,21.56 kmpl,Sedan,Lucknow
+495,2020 Toyota Glanza G,₹ 6.05 Lakh,Dec-20,1197 cc,Third Party,Manual,"20,580 Kms",Second Owner,Petrol,88.50bhp,5,22.35 kmpl,Hatchback,Lucknow
+496,2016 Volkswagen Ameo 1.2 MPI Highline,₹ 4.11 Lakh,Aug-16,1198 cc,Third Party insurance,Manual,"83,810 Kms",Second Owner,Petrol,73.75bhp,5,17 kmpl,Sedan,Lucknow
+497,2022 Mahindra XUV700 AX5 7 Str BSVI,₹ 18 Lakh,2022,1999 cc,Third Party insurance,Manual,"10,000 Kms",First Owner,Petrol,197.13bhp,7,,SUV,Lucknow
+498,2017 Maruti Vitara Brezza ZDi,₹ 7 Lakh,2017,1248 cc,Third Party insurance,Manual,"1,20,000 Kms",First Owner,Diesel,88.5bhp,5,24.3 kmpl,SUV,Lucknow
+499,2012 BMW 3 Series 320d Sport Line,₹ 9.30 Lakh,2012,1995 cc,Third Party insurance,Automatic,"1,20,000 Kms",Second Owner,Diesel,184bhp,5,18.88 kmpl,Sedan,Lucknow
+500,2014 BMW 3 Series 320d Luxury Line,₹ 10.50 Lakh,2014,1995 cc,Third Party insurance,Automatic,"1,00,000 Kms",First Owner,Diesel,184bhp,5,18.88 kmpl,Sedan,Lucknow
+501,2021 Maruti Vitara Brezza ZXI Plus,₹ 8.50 Lakh,2021,1462 cc,Third Party insurance,Manual,"40,000 Kms",First Owner,Petrol,103.26bhp,5,17.03 kmpl,SUV,Lucknow
+502,2012 Mahindra Scorpio VLX 2WD AIRBAG AT BSIV,₹ 4.25 Lakh,2012,2179 cc,Third Party insurance,Manual,"1,20,000 Kms",First Owner,Diesel,120bhp,8,12.05 kmpl,SUV,Lucknow
+503,2010 Maruti Alto LXi,₹ 1.20 Lakh,2010,796 cc,Third Party insurance,Manual,"90,000 Kms",Second Owner,Petrol,46.3bhp,5,19.7 kmpl,Hatchback,Lucknow
+504,2018 Honda City i-DTEC SV,₹ 7.50 Lakh,2018,1498 cc,Third Party insurance,Manual,"70,000 Kms",First Owner,Diesel,97.9bhp,5,25.6 kmpl,Sedan,Lucknow
+505,2018 Hyundai Grand i10 1.2 Kappa Sportz BSIV,₹ 4.52 Lakh,Jul-18,1197 cc,Third Party insurance,Manual,"73,914 Kms",First Owner,Petrol,81.86bhp,5,18.9 kmpl,Hatchback,Lucknow
+506,2022 Tata Tigor XZ CNG BSVI,₹ 7.34 Lakh,Mar-22,1199 cc,Third Party,Manual,"44,321 Kms",First Owner,CNG,72.40bhp,5,26.49 kmpl,Sedan,Lucknow
+507,2015 Maruti SX4 S Cross DDiS 200 Alpha,₹ 5.03 Lakh,Nov-15,1248 cc,Third Party insurance,Manual,"60,743 Kms",Second Owner,Diesel,88.5bhp,5,23.65 kmpl,SUV,Lucknow
+508,2021 Maruti Wagon R CNG LXI,₹ 5.37 Lakh,Jul-21,998 cc,Third Party,Manual,"36,430 Kms",First Owner,CNG,58.33bhp,5,32.52 kmpl,Hatchback,Lucknow
+509,2017 Honda City i VTEC CVT VX,₹ 7.24 Lakh,Mar-17,1497 cc,Comprehensive,Automatic,"63,157 Kms",Second Owner,Petrol,117.3bhp,5,18 kmpl,Sedan,Lucknow
+510,2017 Maruti Swift VDI Optional,₹ 4.69 Lakh,May-17,1248 cc,Third Party,Manual,"73,848 Kms",First Owner,Diesel,74bhp,5,25.2 kmpl,Hatchback,Lucknow
+511,2020 Maruti Swift Dzire VXI 1.2,₹ 6.50 Lakh,Mar-20,1197 cc,Third Party insurance,Manual,"22,328 Kms",Second Owner,Petrol,81.80bhp,5,21.21 kmpl,Sedan,Lucknow
+512,2022 Maruti Celerio ZXI,₹ 5.47 Lakh,Apr-22,998 cc,Comprehensive,Manual,"3,592 Kms",First Owner,Petrol,65.71bhp,5,25.24 kmpl,Hatchback,Lucknow
+513,2017 Maruti Wagon R VXI BS IV,₹ 3.24 Lakh,Jun-17,998 cc,Comprehensive,Manual,"57,138 Kms",First Owner,Petrol,67.04bhp,5,20.51 kmpl,Hatchback,Lucknow
+514,2019 Hyundai Creta 1.6 SX Option,₹ 9.34 Lakh,Sep-19,1591 cc,Third Party insurance,Manual,"52,076 Kms",First Owner,Petrol,121.3bhp,5,15.8 kmpl,SUV,Lucknow
+515,2016 Maruti Swift Dzire VXI,₹ 4.30 Lakh,Aug-16,1197 cc,Third Party insurance,Manual,"53,383 Kms",Second Owner,Petrol,88.50bhp,5,22.41 kmpl,Sedan,Lucknow
+516,2017 Mahindra KUV 100 mFALCON D75 K4 Plus 5str,₹ 4.03 Lakh,Apr-17,1198 cc,Comprehensive,Manual,"77,551 Kms",First Owner,Diesel,77bhp,5,25.32 kmpl,SUV,Lucknow
+517,2012 Maruti SX4 ZDI,₹ 3 Lakh,2012,1248 cc,Third Party insurance,Manual,"1,20,000 Kms",First Owner,Diesel,88.8bhp,5,21.5 kmpl,Sedan,Lucknow
+518,2020 Maruti SX4 S Cross Delta DDiS 200 SH,₹ 8 Lakh,2020,1248 cc,Third Party insurance,Manual,"80,000 Kms",First Owner,Diesel,88.5bhp,5,25.1 kmpl,SUV,Lucknow
+519,2018 Ford Endeavour 3.2 Titanium AT 4X4,₹ 21.80 Lakh,2018,3198 cc,Third Party insurance,Automatic,"1,50,000 Kms",First Owner,Diesel,197bhp,7,10.91 kmpl,SUV,Lucknow
+520,2016 Tata Safari Storme VX Varicor 400,₹ 7 Lakh,2016,2179 cc,Third Party insurance,Manual,"1,20,000 Kms",Second Owner,Diesel,153.86bhp,7,14.1 kmpl,SUV,Lucknow
+521,2012 Mahindra Scorpio VLX 2WD AIRBAG AT BSIV,₹ 4 Lakh,2012,2179 cc,Third Party insurance,Manual,"1,50,000 Kms",First Owner,Diesel,120bhp,8,12.05 kmpl,SUV,Lucknow
+522,2022 Hyundai Aura S CNG,₹ 7.75 Lakh,2022,1197 cc,Third Party insurance,Manual,"40,000 Kms",First Owner,CNG,68.05bhp,5,28 km/kg,Sedan,Lucknow
+523,2020 Maruti SX4 S Cross Delta DDiS 200 SH,₹ 7.80 Lakh,2020,1248 cc,Third Party insurance,Manual,"80,000 Kms",First Owner,Diesel,88.5bhp,5,25.1 kmpl,SUV,Lucknow
+524,2020 Maruti SX4 S Cross Delta DDiS 200 SH,₹ 7.80 Lakh,2020,1248 cc,Third Party insurance,Manual,"80,000 Kms",First Owner,Diesel,88.5bhp,5,25.1 kmpl,SUV,Lucknow
+525,2018 Honda WR-V Edge Edition i-DTEC S,₹ 6.20 Lakh,Jun-18,1498 cc,Third Party,Manual,"85,965 Kms",First Owner,Diesel,98.6bhp,5,25.5 kmpl,SUV,Lucknow
+526,2017 Maruti Swift VXI,₹ 4.65 Lakh,Dec-17,1197 cc,Third Party insurance,Manual,"42,955 Kms",First Owner,Petrol,88.50bhp,5,22.38 kmpl,Hatchback,Lucknow
+527,2018 Honda WR-V i-VTEC S,₹ 5.75 Lakh,Jun-18,1199 cc,Third Party,Manual,"30,143 Kms",Second Owner,Petrol,88.7bhp,5,17.5 kmpl,SUV,Lucknow
+528,2021 Maruti S-Presso VXI 2019-2022,₹ 3.88 Lakh,Jul-21,998 cc,Zero Dep,Manual,"25,844 Kms",First Owner,Petrol,65.71bhp,5,21.7 kmpl,Hatchback,Lucknow
+529,2018 Honda Jazz VX CVT,₹ 6.92 Lakh,Jun-18,1199 cc,Third Party,Automatic,"55,374 Kms",First Owner,Petrol,88.7bhp,5,18.2 kmpl,Hatchback,Lucknow
+530,2018 Honda City i-VTEC V,₹ 6.49 Lakh,Dec-18,1497 cc,Third Party,Manual,"57,243 Kms",First Owner,Petrol,117.6bhp,5,17.4 kmpl,Sedan,Lucknow
+531,2014 Maruti Celerio VXI AMT,₹ 2.92 Lakh,Dec-14,998 cc,Comprehensive,Automatic,"65,187 Kms",First Owner,Petrol,65.71bhp,5,26.68 kmpl,Hatchback,Lucknow
+532,2013 Maruti Wagon R VXI BS IV,₹ 2.25 Lakh,May-13,998 cc,Third Party insurance,Manual,"82,871 Kms",Second Owner,Petrol,67.1bhp,5,18.9 kmpl,Hatchback,Lucknow
+533,2020 Maruti Alto 800 VXI BSVI,₹ 3.53 Lakh,Feb-21,796 cc,Zero Dep,Manual,"8,695 Kms",First Owner,Petrol,47.33bhp,5,22.05 kmpl,Hatchback,Lucknow
+534,2019 Hyundai Grand i10 Nios Asta,₹ 6.28 Lakh,Nov-20,1197 cc,Zero Dep,Manual,"38,942 Kms",First Owner,Petrol,81.86bhp,5,20.7 kmpl,Hatchback,Lucknow
+535,2017 Maruti Vitara Brezza VDi,₹ 5.93 Lakh,Mar-17,1248 cc,Third Party insurance,Manual,"67,646 Kms",First Owner,Diesel,88.5bhp,5,24.3 kmpl,SUV,Lucknow
+536,2016 Hyundai Grand i10 Sportz,₹ 3.70 Lakh,Feb-16,1197 cc,Comprehensive,Manual,"47,118 Kms",First Owner,Petrol,82bhp,5,18.9 kmpl,Hatchback,Lucknow
+537,2022 Mahindra Bolero Neo N10 BSVI,₹ 11.50 Lakh,2022,1493 cc,Third Party insurance,Manual,"30,000 Kms",First Owner,Diesel,100bhp,7,17.29 kmpl,SUV,Lucknow
+538,2019 Hyundai Santro Sportz BSIV,₹ 4.50 Lakh,2019,1086 cc,Third Party insurance,Manual,"40,000 Kms",First Owner,Petrol,68bhp,5,20.3 kmpl,Hatchback,Lucknow
+539,2013 Ford Figo Petrol ZXI,₹ 2.10 Lakh,2013,1196 cc,Third Party insurance,Manual,"60,000 Kms",First Owner,Petrol,70.02bhp,5,15.6 kmpl,Hatchback,Lucknow
+540,2013 Ford Figo Petrol ZXI,₹ 2.10 Lakh,2013,1196 cc,Third Party insurance,Manual,"60,000 Kms",First Owner,Petrol,70.02bhp,5,15.6 kmpl,Hatchback,Lucknow
+541,2020 Maruti Swift Dzire VXI BSVI,₹ 7 Lakh,2020,1197 cc,Third Party insurance,Manual,"50,000 Kms",First Owner,Petrol,88.50bhp,5,22.41 kmpl,Sedan,Lucknow
+542,2012 Toyota Etios GD,₹ 2.50 Lakh,2012,1364 cc,Third Party insurance,Manual,"50,000 Kms",First Owner,Diesel,,5,23.59 kmpl,Sedan,Lucknow
+543,2010 Hyundai i10 Magna 1.1,₹ 1.80 Lakh,2010,1086 cc,Third Party insurance,Manual,"40,000 Kms",Second Owner,Petrol,68.05bhp,5,19.81 kmpl,Hatchback,Lucknow
+544,2006 Tata Indigo LX,₹ 1.05 Lakh,2006,1405 cc,Third Party insurance,Manual,"1,10,000 Kms",Second Owner,Diesel,70,5,17 kmpl,Sedan,Lucknow
+545,2015 Maruti Alto 800 LXI,₹ 2.09 Lakh,Dec-15,796 cc,Comprehensive,Manual,"72,796 Kms",First Owner,Petrol,47.33bhp,5,22.05 kmpl,Hatchback,Lucknow
+546,2022 Maruti XL6 Alpha,₹ 12.51 Lakh,Feb-22,1462 cc,Third Party,Manual,"44,809 Kms",First Owner,Petrol,103.2bhp,6,19.01 kmpl,MUV,Lucknow
+547,2016 Maruti Alto 800 LXI,₹ 2.24 Lakh,Jan-17,796 cc,Third Party insurance,Manual,"77,168 Kms",Second Owner,Petrol,47.33bhp,5,22.05 kmpl,Hatchback,Lucknow
+548,2020 Hyundai Grand i10 1.2 Kappa Sportz BSIV,₹ 5.56 Lakh,Aug-20,1197 cc,Zero Dep,Manual,"8,269 Kms",First Owner,Petrol,81.86bhp,5,18.9 kmpl,Hatchback,Lucknow
+549,2016 Hyundai i20 Sportz 1.2,₹ 4.13 Lakh,Oct-16,1197 cc,Comprehensive,Manual,"97,152 Kms",First Owner,Petrol,81.83bhp,5,18.6 kmpl,Hatchback,Lucknow
+550,2022 Maruti Wagon R LXI CNG BSVI,₹ 6.03 Lakh,Jan-22,998 cc,Third Party,Manual,"13,642 Kms",First Owner,CNG,55.92bhp,5,34.05 kmpl,Hatchback,Lucknow
+551,2021 Maruti Ciaz Sigma BSVI,₹ 7.09 Lakh,Jun-21,1462 cc,Third Party,Manual,"22,495 Kms",First Owner,Petrol,103.25bhp,5,20.65 kmpl,Sedan,Lucknow
+552,2019 Tata Tiago 1.2 Revotron XZ,₹ 4.06 Lakh,Nov-19,1199 cc,Third Party insurance,Manual,"63,190 Kms",First Owner,Petrol,84bhp,5,23.84 kmpl,Hatchback,Lucknow
+553,2014 Maruti Wagon R VXI BS IV,₹ 2.66 Lakh,Jan-15,998 cc,Comprehensive,Manual,"63,838 Kms",Second Owner,Petrol,67.04bhp,5,20.51 kmpl,Hatchback,Lucknow
+554,2017 Nissan Terrano XV D Pre AMT,₹ 5.79 Lakh,Jul-17,1461 cc,Zero Dep,Automatic,"1,19,803 Kms",First Owner,Diesel,108.6bhp,5,19.61 kmpl,SUV,Lucknow
+555,2018 Hyundai Grand i10 1.2 Kappa Magna BSIV,₹ 4.02 Lakh,Feb-19,1197 cc,Zero Dep,Manual,"44,626 Kms",First Owner,Petrol,81.86bhp,5,18.9 kmpl,Hatchback,Lucknow
+556,2018 Maruti Wagon R LXI CNG,₹ 3.80 Lakh,2018,998 cc,Third Party insurance,Manual,"1,20,000 Kms",First Owner,CNG,58.16bhp,5,26.6 kmpl,Hatchback,Lucknow
+557,2012 Mahindra Scorpio VLX 4WD AIRBAG BSIV,₹ 3.80 Lakh,2012,2179 cc,Third Party insurance,Manual,"1,20,000 Kms",First Owner,Diesel,120bhp,8,12.05 kmpl,SUV,Lucknow
+558,2019 Maruti Baleno Zeta,₹ 6 Lakh,2019,1197 cc,Third Party insurance,Manual,"70,000 Kms",First Owner,Petrol,81.80bhp,5,21.01 kmpl,Hatchback,Lucknow
+559,2015 Hyundai Grand i10 Sportz,₹ 3.50 Lakh,2015,1197 cc,Third Party insurance,Manual,"70,000 Kms",First Owner,Petrol,82bhp,5,18.9 kmpl,Hatchback,Lucknow
+560,2011 Tata Aria Pleasure 4x2,₹ 3.50 Lakh,2011,2179 cc,Third Party insurance,Manual,"70,000 Kms",First Owner,Diesel,138.1bhp,7,13.7 kmpl,MUV,Lucknow
+561,2006 Chevrolet Tavera 2 SS D1 8 Seats,₹ 2.50 Lakh,2006,2499 cc,Third Party insurance,Manual,"1,20,000 Kms",Fifth Owner,Diesel,80,8,14.8 kmpl,MUV,Lucknow
+562,2022 Tata Altroz XT BSVI,₹ 7.50 Lakh,2022,1199 cc,Third Party insurance,Manual,"20,000 Kms",First Owner,Petrol,86.83bhp,5,19.33 kmpl,Hatchback,Lucknow
+563,2019 Maruti Swift Dzire LXI 1.2,₹ 5 Lakh,2019,1197 cc,Third Party insurance,Manual,"70,000 Kms",Second Owner,Petrol,81.80bhp,5,21.21 kmpl,Sedan,Lucknow
+564,2017 Volkswagen Ameo 1.5 TDI Comfortline AT,₹ 4.44 Lakh,Jan-18,1498 cc,Third Party,Automatic,"1,17,881 Kms",First Owner,Diesel,108.495bhp,5,22 kmpl,Sedan,Lucknow
+565,2017 Hyundai Grand i10 1.2 Kappa Sportz Option,₹ 3.64 Lakh,Mar-17,1197 cc,Comprehensive,Manual,"41,866 Kms",Second Owner,Petrol,81.86bhp,5,18.9 kmpl,Hatchback,Lucknow
+566,2021 Nissan Magnite Turbo XL BSVI,₹ 6.99 Lakh,Oct-21,999 cc,Zero Dep,Manual,"52,141 Kms",First Owner,Petrol,98.63bhp,5,20 kmpl,SUV,Lucknow
+567,2018 Tata Tiago 1.2 Revotron XT,₹ 3.88 Lakh,Apr-18,1199 cc,Third Party insurance,Manual,"41,852 Kms",Second Owner,Petrol,84bhp,5,23.84 kmpl,Hatchback,Lucknow
+568,2021 Maruti Wagon R CNG LXI,₹ 6.03 Lakh,Apr-21,998 cc,Third Party insurance,Manual,"82,599 Kms",First Owner,CNG,58.33bhp,5,32.52 kmpl,Hatchback,Lucknow
+569,2018 Hyundai Verna CRDi 1.6 SX,₹ 7.29 Lakh,Apr-18,1582 cc,Zero Dep,Manual,"1,25,345 Kms",First Owner,Diesel,126.2bhp,5,22 kmpl,Sedan,Lucknow
+570,2014 Maruti Swift VXI,₹ 3.59 Lakh,Jul-14,1197 cc,Comprehensive,Manual,"70,344 Kms",First Owner,Petrol,88.50bhp,5,22.38 kmpl,Hatchback,Lucknow
+571,2018 Maruti Wagon R VXI Optional,₹ 3.55 Lakh,Dec-18,998 cc,Third Party insurance,Manual,"69,705 Kms",First Owner,Petrol,67.04bhp,5,20.51 kmpl,Hatchback,Lucknow
+572,2020 Hyundai Aura S Diesel,₹ 6.45 Lakh,Mar-20,1186 cc,Third Party insurance,Manual,"51,452 Kms",First Owner,Diesel,73.97bhp,5,25.35 kmpl,Sedan,Lucknow
+573,2019 Hyundai i20 Sportz Plus BSIV,₹ 5.86 Lakh,Aug-19,1197 cc,Third Party insurance,Manual,"32,175 Kms",First Owner,Petrol,81.86bhp,5,18.6 kmpl,Hatchback,Lucknow
+574,2019 Mahindra Thar CRDe,₹ 7.42 Lakh,Feb-19,2498 cc,Third Party insurance,Manual,"42,221 Kms",First Owner,Diesel,105bhp,6,16.55 kmpl,SUV,Lucknow
+575,2020 Hyundai Aura SX Plus Turbo,₹ 7.89 Lakh,Jun-20,998 cc,Third Party,Manual,789 Kms,First Owner,Petrol,98.63bhp,5,20.5 kmpl,Sedan,Lucknow
+576,2022 Tata Altroz XT BSVI,₹ 7.50 Lakh,2022,1199 cc,Third Party insurance,Manual,"20,000 Kms",First Owner,Petrol,86.83bhp,5,19.33 kmpl,Hatchback,Lucknow
+577,2011 Ford Figo Diesel LXI,₹ 1.70 Lakh,2011,1399 cc,Third Party insurance,Manual,"1,20,000 Kms",Second Owner,Diesel,68bhp,5,20 kmpl,Hatchback,Lucknow
+578,2014 Maruti Wagon R Stingray VXI,₹ 2.45 Lakh,2014,998 cc,Third Party insurance,Manual,"60,000 Kms",Third Owner,Petrol,67.04bhp,5,20.51 kmpl,Hatchback,Lucknow
+579,2012 Nissan Micra XV,₹ 1.60 Lakh,2012,1198 cc,Third Party insurance,Manual,"80,000 Kms",Second Owner,Petrol,75bhp,5,18.06 kmpl,Hatchback,Lucknow
+580,2018 Honda WR-V i-VTEC VX,₹ 7.25 Lakh,2018,1199 cc,Third Party insurance,Manual,"60,000 Kms",First Owner,Petrol,88.7bhp,5,17.5 kmpl,SUV,Lucknow
+581,2014 Honda City i DTEC V,₹ 5.80 Lakh,2014,1498 cc,Third Party insurance,Manual,"80,000 Kms",First Owner,Diesel,98.6bhp,5,26 kmpl,Sedan,Lucknow
+582,2017 Hyundai Creta 1.6 CRDi SX Option,₹ 11 Lakh,2017,1582 cc,Third Party insurance,Manual,"70,000 Kms",First Owner,Diesel,126.2bhp,5,19.67 kmpl,SUV,Lucknow
+583,2017 Maruti Baleno 1.2 Delta,₹ 5.20 Lakh,2017,1197 cc,Third Party insurance,Manual,"20,000 Kms",First Owner,Petrol,83.1bhp,5,21.4 kmpl,Hatchback,Lucknow
+584,2018 Hyundai Creta 1.4 E Plus CRDi,₹ 7.43 Lakh,Jun-18,1396 cc,Zero Dep,Manual,"86,930 Kms",First Owner,Diesel,88.7bhp,5,22.1 kmpl,SUV,Lucknow
+585,2018 Renault KWID 1.0 RXT,₹ 3.13 Lakh,Sep-18,999 cc,Comprehensive,Manual,"42,155 Kms",Second Owner,Petrol,67bhp,5,23.01 kmpl,Hatchback,Lucknow
+586,2017 Maruti Swift VDI BSIV,₹ 4.54 Lakh,Jul-17,1248 cc,Third Party,Manual,"56,523 Kms",First Owner,Diesel,74bhp,5,25.2 kmpl,Hatchback,Lucknow
+587,2018 Hyundai Verna VTVT 1.6 SX,₹ 7.49 Lakh,Jan-18,1591 cc,Comprehensive,Manual,"50,535 Kms",Second Owner,Petrol,121.3bhp,5,17 kmpl,Sedan,Lucknow
+588,2021 Maruti Alto 800 LXI S-CNG,₹ 4.23 Lakh,Apr-21,796 cc,Comprehensive,Manual,"52,604 Kms",First Owner,CNG,40.36bhp,4,31.59 km/kg,Hatchback,Lucknow
+589,2018 Maruti Swift Dzire VDI,₹ 6.61 Lakh,Aug-18,1248 cc,Third Party insurance,Manual,"71,728 Kms",Second Owner,Diesel,74.02bhp,5,28.4 kmpl,Sedan,Lucknow
+590,2021 Maruti Wagon R CNG LXI,₹ 5.63 Lakh,Jan-21,998 cc,Zero Dep,Manual,"44,769 Kms",First Owner,CNG,58.33bhp,5,32.52 kmpl,Hatchback,Lucknow
+591,2021 Maruti S-Presso VXI Opt CNG,₹ 5.36 Lakh,Feb-21,998 cc,Zero Dep,Manual,"24,447 Kms",First Owner,CNG,58.33bhp,4,,Hatchback,Lucknow
+592,2018 Hyundai Grand i10 1.2 Kappa Sportz BSIV,₹ 4.58 Lakh,Nov-18,1197 cc,Comprehensive,Manual,"22,466 Kms",First Owner,Petrol,81.86bhp,5,18.9 kmpl,Hatchback,Lucknow
+593,2021 Maruti Ciaz Delta BSVI,₹ 7.80 Lakh,May-21,1462 cc,Third Party insurance,Manual,"38,754 Kms",First Owner,Petrol,103.25bhp,5,20.65 kmpl,Sedan,Lucknow
+594,2016 Renault Duster 110PS Diesel RxZ AMT,₹ 5.31 Lakh,Jul-16,1461 cc,Comprehensive,Automatic,"56,156 Kms",First Owner,Diesel,108.45bhp,5,19.6 kmpl,SUV,Lucknow
+595,2020 Maruti Swift Dzire VXI 1.2,₹ 5.70 Lakh,Feb-21,1197 cc,Zero Dep,Manual,"74,490 Kms",First Owner,Petrol,81.80bhp,5,21.21 kmpl,Sedan,Lucknow
+596,2011 Toyota Etios VX,₹ 3 Lakh,2011,1496 cc,Third Party insurance,Manual,"60,000 Kms",Second Owner,Petrol,88.7bhp,5,17.6 kmpl,Sedan,Lucknow
+597,2021 Tata Nexon XM S BSVI,₹ 7.50 Lakh,2021,1199 cc,Third Party insurance,Manual,"40,000 Kms",Second Owner,Petrol,118.35bhp,5,17.33 kmpl,SUV,Lucknow
+598,2018 Mahindra Thar CRDe,₹ 8 Lakh,2018,2498 cc,Third Party insurance,Manual,"50,000 Kms",Second Owner,Diesel,105bhp,6,16.55 kmpl,SUV,Lucknow
+599,2014 Maruti Alto K10 VXI,₹ 1.95 Lakh,2014,998 cc,Third Party insurance,Manual,"90,000 Kms",First Owner,Petrol,67.05bhp,5,23.95 kmpl,Hatchback,Lucknow
+600,2013 Nissan Terrano XL 110 PS,₹ 3.30 Lakh,2013,1461 cc,Third Party insurance,Manual,"80,000 Kms",Second Owner,Diesel,108.5bhp,5,19.01 kmpl,SUV,Lucknow
+601,2016 Hyundai Creta 1.6 VTVT SX Plus,₹ 8 Lakh,2016,1591 cc,Third Party insurance,Manual,"20,000 Kms",First Owner,Petrol,121.3bhp,5,13 kmpl,SUV,Lucknow
+602,2012 Mahindra Scorpio VLX 4WD AIRBAG BSIV,₹ 4.25 Lakh,2012,2179 cc,Third Party insurance,Manual,"1,20,000 Kms",Second Owner,Diesel,120bhp,8,12.05 kmpl,SUV,Lucknow
+603,2019 Maruti S-Presso VXI 2019-2022,₹ 4.20 Lakh,2019,998 cc,Third Party insurance,Manual,"40,000 Kms",First Owner,Petrol,65.71bhp,5,21.7 kmpl,Hatchback,Lucknow
+604,2018 Toyota Etios Liva 1.4 VXD,₹ 4.87 Lakh,Jun-18,1364 cc,Third Party,Manual,"89,891 Kms",First Owner,Diesel,67.04bhp,5,23.59 kmpl,Hatchback,Lucknow
+605,2018 Maruti Swift VXI AMT,₹ 5.31 Lakh,Mar-18,1197 cc,Zero Dep,Automatic,"84,985 Kms",First Owner,Petrol,88.50bhp,5,22.56 kmpl,Hatchback,Lucknow
+606,2018 Hyundai Verna VTVT 1.6 SX,₹ 7.46 Lakh,Feb-19,1591 cc,Third Party insurance,Manual,"74,397 Kms",Second Owner,Petrol,121.3bhp,5,17 kmpl,Sedan,Lucknow
+607,2018 Maruti Wagon R VXI BS IV,₹ 3.75 Lakh,Jul-18,998 cc,Third Party,Manual,"52,286 Kms",First Owner,Petrol,67.04bhp,5,20.51 kmpl,Hatchback,Lucknow
+608,2019 Hyundai Venue SX Plus Turbo DCT BSIV,₹ 8.39 Lakh,Jul-19,998 cc,Third Party insurance,Automatic,"50,050 Kms",First Owner,Petrol,118.35bhp,5,18.15 kmpl,SUV,Lucknow
+609,2019 Maruti Swift VXI,₹ 5.42 Lakh,Nov-19,1197 cc,Third Party,Manual,"28,793 Kms",First Owner,Petrol,88.50bhp,5,22.38 kmpl,Hatchback,Lucknow
+610,2018 Nissan Micra Active XL Option,₹ 4.35 Lakh,Jul-19,1198 cc,Third Party insurance,Manual,"26,098 Kms",First Owner,Petrol,67.04bhp,5,18.97 kmpl,Hatchback,Lucknow
+611,2018 Hyundai i20 1.4 Magna Executive,₹ 6.46 Lakh,Apr-18,1396 cc,Third Party insurance,Manual,"43,857 Kms",First Owner,Diesel,88.73bhp,5,22.54 kmpl,Hatchback,Lucknow
+612,2020 Hyundai Grand i10 Nios AMT Sportz,₹ 6.03 Lakh,Jan-20,1197 cc,Third Party insurance,Automatic,"18,244 Kms",First Owner,Petrol,81.86bhp,5,20.7 kmpl,Hatchback,Lucknow
+613,2021 Maruti Swift Dzire ZXI Plus BSVI,₹ 7.58 Lakh,Aug-21,1197 cc,Third Party,Manual,"32,520 Kms",First Owner,Petrol,88.50bhp,5,22.41 kmpl,Sedan,Lucknow
+614,2020 Tata Altroz XZ Diesel BSVI,₹ 6.43 Lakh,Mar-20,1497 cc,Comprehensive,Manual,"32,510 Kms",Second Owner,Diesel,88.77bhp,5,23.64 kmpl,Hatchback,Lucknow
+615,2016 Maruti Swift VDI BSIV,₹ 3.91 Lakh,Jul-16,1248 cc,Comprehensive,Manual,"95,014 Kms",Second Owner,Diesel,74bhp,5,25.2 kmpl,Hatchback,Lucknow
+616,2022 Mahindra Bolero Neo N8 BSVI,₹ 11 Lakh,2022,1493 cc,Third Party insurance,Manual,"20,000 Kms",First Owner,Diesel,100bhp,7,17.29 kmpl,SUV,Lucknow
+617,2010 Hyundai i20 1.2 Magna,₹ 2 Lakh,2010,1197 cc,Third Party insurance,Manual,"80,000 Kms",First Owner,Petrol,80 PS at 5200 rpm,5,18.5 kmpl,Hatchback,Lucknow
+618,2018 Tata Tiago 1.05 Revotorq XM,₹ 4.30 Lakh,2018,1047 cc,Third Party insurance,Manual,"40,000 Kms",First Owner,Diesel,69bhp,5,27.28 kmpl,Hatchback,Lucknow
+619,2019 MG Hector Sharp Diesel MT BSIV,₹ 13.25 Lakh,2019,1956 cc,Third Party insurance,Manual,"70,000 Kms",Second Owner,Diesel,167.68bhp,5,17.41 kmpl,SUV,Lucknow
+620,2017 Renault Pulse Petrol RxL,₹ 2.80 Lakh,2017,1198 cc,Third Party insurance,Manual,"90,000 Kms",First Owner,Petrol,74.93bhp,5,18.06 kmpl,Hatchback,Lucknow
+621,2016 Honda Jazz 1.2 S i VTEC,₹ 3.65 Lakh,2016,1199 cc,Third Party insurance,Manual,"60,000 Kms",Third Owner,Petrol,88.7bhp,5,18.7 kmpl,Hatchback,Lucknow
+622,2011 Maruti Wagon R LXI DUO BS IV,₹ 1.40 Lakh,2011,998 cc,Third Party insurance,Manual,"60,000 Kms",First Owner,LPG,61.7bhp,5,14.4 kmpl,Hatchback,Lucknow
+623,2011 Maruti Wagon R LXI DUO BS IV,₹ 1.30 Lakh,2011,998 cc,Third Party insurance,Manual,"60,000 Kms",First Owner,LPG,61.7bhp,5,14.4 kmpl,Hatchback,Lucknow
+624,2022 Maruti S-Presso VXI Opt CNG,₹ 4.95 Lakh,Jun-22,998 cc,Zero Dep,Manual,"18,993 Kms",First Owner,CNG,58.33bhp,4,,Hatchback,Lucknow
+625,2011 Hyundai i10 Asta,₹ 2.06 Lakh,Oct-11,1197 cc,Third Party insurance,Manual,"97,351 Kms",First Owner,Petrol,78.9bhp,5,20.36 kmpl,Hatchback,Lucknow
+626,2019 Maruti Baleno 1.2 Alpha,₹ 6.39 Lakh,May-19,1197 cc,Third Party insurance,Manual,"29,679 Kms",First Owner,Petrol,83.1bhp,5,21.4 kmpl,Hatchback,Lucknow
+627,2019 Maruti Wagon R VXI,₹ 4.03 Lakh,Mar-19,998 cc,Third Party,Manual,"77,639 Kms",First Owner,Petrol,67.05bhp,5,21.79 kmpl,Hatchback,Lucknow
+628,2020 Maruti Wagon R CNG LXI,₹ 5.20 Lakh,Dec-20,998 cc,Zero Dep,Manual,"34,900 Kms",First Owner,CNG,58.33bhp,5,32.52 kmpl,Hatchback,Lucknow
+629,2017 Renault Captur 1.5 Petrol RXL,₹ 5.42 Lakh,Jun-17,1498 cc,Third Party,Manual,"85,486 Kms",First Owner,Petrol,104.55bhp,5,13.87 kmpl,SUV,Lucknow
+630,2021 Hyundai Grand i10 Nios Magna CNG,₹ 6.47 Lakh,Sep-21,1197 cc,Third Party,Manual,"17,686 Kms",First Owner,CNG,68.05bhp,5,,Hatchback,Lucknow
+631,2019 Maruti XL6 Alpha AT,₹ 9.30 Lakh,Nov-19,1462 cc,Comprehensive,Automatic,"35,941 Kms",First Owner,Petrol,101.65bhp,6,20.27 kmpl,MUV,Lucknow
+632,2021 Tata Altroz XZ Plus BSVI,₹ 7.59 Lakh,Jun-21,1199 cc,Third Party,Manual,"23,137 Kms",First Owner,Petrol,86.83bhp,5,19.33 kmpl,Hatchback,Lucknow
+633,2021 Hyundai Grand i10 Nios Sportz,₹ 5.79 Lakh,Aug-21,1197 cc,Third Party,Manual,"6,279 Kms",First Owner,Petrol,81.86bhp,5,20.7 kmpl,Hatchback,Lucknow
+634,2021 Hyundai Grand i10 Nios Sportz CNG,₹ 6.55 Lakh,Mar-21,1197 cc,Third Party insurance,Manual,"77,450 Kms",First Owner,CNG,68.05bhp,5,,Hatchback,Lucknow
+635,2020 Toyota Urban cruiser Mid,₹ 8.21 Lakh,Oct-20,1462 cc,Third Party,Manual,"22,389 Kms",First Owner,Petrol,103.26bhp,5,17.03 kmpl,SUV,Lucknow
+636,2020 Maruti Swift Dzire Tour 1.2 S STD CNG,₹ 5.90 Lakh,2020,1197 cc,Third Party insurance,Manual,"80,000 Kms",Second Owner,CNG,70.40Bhp,5,26.55 kmpl,Sedan,Lucknow
+637,2018 Maruti Wagon R VXI BS IV,₹ 3.80 Lakh,2018,998 cc,Third Party insurance,Manual,"50,000 Kms",First Owner,Petrol,67.04bhp,5,20.51 kmpl,Hatchback,Lucknow
+638,2017 Maruti Vitara Brezza LDi,₹ 6.50 Lakh,2017,1248 cc,Third Party insurance,Manual,"1,10,000 Kms",First Owner,Diesel,88.5bhp,5,24.3 kmpl,SUV,Lucknow
+639,2003 Maruti 800 Std BSII,"₹ 50,000",2003,796 cc,Third Party insurance,Manual,"20,000 Kms",First Owner,Petrol,37bhp,4,16.1 kmpl,Hatchback,Lucknow
+640,2021 Volkswagen Polo 1.0 TSI Comfortline AT,₹ 7.50 Lakh,2021,999 cc,Third Party insurance,Automatic,"20,000 Kms",First Owner,Petrol,108.62bhp,5,16.47 kmpl,Hatchback,Lucknow
+641,2022 Tata Altroz XE Plus BSVI,₹ 6.50 Lakh,2022,1199 cc,Third Party insurance,Manual,"20,000 Kms",First Owner,Petrol,86.83bhp,5,19.33 kmpl,Hatchback,Lucknow
+642,2019 Mahindra Supro VX 5 Str,₹ 3.50 Lakh,2019,909 cc,Third Party insurance,Manual,"30,000 Kms",Second Owner,Diesel,45bhp,5,23.5 kmpl,Minivans,Lucknow
+643,2009 Maruti Alto LXi BSIII,₹ 1.35 Lakh,2009,796 cc,Third Party insurance,Manual,"70,000 Kms",Second Owner,Petrol,46.3bhp,5,19.7 kmpl,Hatchback,Lucknow
+644,2019 Toyota Yaris J CVT,₹ 7 Lakh,May-19,1496 cc,Third Party,Automatic,"70,248 Kms",First Owner,Petrol,105.94bhp,5,17.8 kmpl,Sedan,Lucknow
+645,2022 Maruti Celerio ZXI Plus,₹ 5.97 Lakh,Oct-22,998 cc,Zero Dep,Manual,"3,742 Kms",First Owner,Petrol,65.71bhp,5,24.97 kmpl,Hatchback,Lucknow
+646,2021 Maruti S-Presso VXI 2019-2022,₹ 3.89 Lakh,Jul-21,998 cc,Third Party,Manual,"34,978 Kms",First Owner,Petrol,65.71bhp,5,21.7 kmpl,Hatchback,Lucknow
+647,2019 Hyundai Grand i10 Nios Sportz,₹ 5.98 Lakh,Dec-19,1197 cc,Third Party insurance,Manual,"22,179 Kms",First Owner,Petrol,81.86bhp,5,20.7 kmpl,Hatchback,Lucknow
+648,2020 Hyundai Venue SX Opt iMT,₹ 9.81 Lakh,Aug-20,998 cc,Third Party insurance,Manual,"22,101 Kms",First Owner,Petrol,118.35bhp,5,18 kmpl,SUV,Lucknow
+649,2022 Tata Tiago XZ Plus CNG BSVI,₹ 8.06 Lakh,Mar-22,1199 cc,Third Party insurance,Manual,"4,301 Kms",First Owner,CNG,72bhp,5,26.49 km/kg,Hatchback,Lucknow
+650,2018 Hyundai Creta 1.6 CRDi SX Option,₹ 11.07 Lakh,Sep-18,1582 cc,Third Party insurance,Manual,"71,764 Kms",First Owner,Diesel,126.2bhp,5,19.67 kmpl,SUV,Lucknow
+651,2016 Maruti SX4 S Cross DDiS 200 Sigma,₹ 6.75 Lakh,2016,1248 cc,Third Party insurance,Manual,"50,000 Kms",First Owner,Diesel,88.5bhp,5,23.65 kmpl,SUV,Lucknow
+652,2017 Tata Safari Storme VX Varicor 400,₹ 7 Lakh,2017,2179 cc,Third Party insurance,Manual,"1,10,000 Kms",First Owner,Diesel,153.86bhp,7,14.1 kmpl,SUV,Lucknow
+653,2021 Mahindra XUV300 W6 Sunroof BSVI,₹ 9 Lakh,2021,1197 cc,Third Party insurance,Manual,"40,000 Kms",First Owner,Petrol,108.6bhp,5,17 kmpl,SUV,Lucknow
+654,2019 MG Hector Sharp Diesel MT BSIV,₹ 15.25 Lakh,2019,1956 cc,Third Party insurance,Manual,"40,000 Kms",First Owner,Diesel,167.68bhp,5,17.41 kmpl,SUV,Lucknow
+655,2018 Tata Tiago 1.2 Revotron XZ Plus,₹ 4.50 Lakh,2018,1199 cc,Third Party insurance,Manual,"40,000 Kms",Second Owner,Petrol,84bhp,5,23.84 kmpl,Hatchback,Lucknow
+656,2022 Maruti Baleno Delta,₹ 7.50 Lakh,2022,1197 cc,Third Party insurance,Manual,"20,000 Kms",First Owner,Petrol,81.80bhp,5,21.01 kmpl,Hatchback,Lucknow
+657,2020 Tata Tigor XZ Plus,₹ 6 Lakh,2020,1199 cc,Third Party insurance,Manual,"50,000 Kms",First Owner,Petrol,83.81bhp,5,20.3 kmpl,Sedan,Lucknow
+658,2015 Maruti Alto 800 LXI,₹ 2.20 Lakh,2015,796 cc,Third Party insurance,Manual,"40,000 Kms",First Owner,Petrol,47.3bhp,5,22.74 kmpl,Hatchback,Lucknow
+659,2017 Maruti Celerio ZXI,₹ 5 Lakh,2017,998 cc,Third Party insurance,Manual,"30,000 Kms",First Owner,Petrol,67.04bhp,5,23.1 kmpl,Hatchback,Lucknow
+660,2021 Toyota Glanza G,₹ 7 Lakh,2021,1197 cc,Third Party insurance,Manual,"40,000 Kms",First Owner,Petrol,81.80bhp,5,21.01 kmpl,Hatchback,Lucknow
+661,2021 Maruti Baleno Delta,₹ 6.50 Lakh,2021,1197 cc,Third Party insurance,Manual,"30,000 Kms",First Owner,Petrol,81.80bhp,5,21.01 kmpl,Hatchback,Lucknow
+662,2012 Maruti Swift Dzire VDi,₹ 3 Lakh,2012,1248 cc,Third Party insurance,Manual,"1,00,000 Kms",Second Owner,Diesel,73.9bhp,5,19.3 kmpl,Sedan,Lucknow
+663,2009 Maruti Wagon R LXI Minor,₹ 1.43 Lakh,2009,1061 cc,Third Party insurance,Manual,"50,000 Kms",First Owner,Petrol,67bhp,5,18.9 kmpl,Hatchback,Lucknow
+664,2019 Mahindra Marazzo M2 BSIV,₹ 8.10 Lakh,2019,1497 cc,Third Party insurance,Manual,"60,000 Kms",First Owner,Diesel,121bhp,7,17.3 kmpl,MUV,Lucknow
+665,2018 Maruti Swift Dzire AMT VXI BS IV,₹ 5.50 Lakh,2018,1197 cc,Third Party insurance,Automatic,"50,000 Kms",First Owner,Petrol,81.80bhp,5,22 kmpl,Sedan,Lucknow
+666,2014 Tata Indigo GLE BSIII,₹ 2.30 Lakh,2014,1193 cc,Third Party insurance,Manual,"1,20,000 Kms",Third Owner,Petrol,65,5,15.4 kmpl,Sedan,Lucknow
+667,2018 Maruti Ertiga VDI,₹ 7.30 Lakh,2018,1248 cc,Third Party insurance,Manual,"1,20,000 Kms",First Owner,Diesel,88.50bhp,7,25.47 kmpl,MUV,Lucknow
+668,2012 Ford Fiesta Petrol Style,₹ 2.20 Lakh,2012,1499 cc,Third Party insurance,Manual,"70,000 Kms",Fifth Owner,Petrol,109PS,5,17 kmpl,Sedan,Lucknow
+669,2013 Maruti Alto 800 LXI,₹ 2.50 Lakh,2013,796 cc,Third Party insurance,Manual,"40,000 Kms",First Owner,Petrol,47.3bhp,5,22.74 kmpl,Hatchback,Lucknow
+670,2011 Hyundai i20 1.2 Sportz,₹ 2.30 Lakh,2011,1197 cc,Third Party insurance,Manual,"1,10,000 Kms",Second Owner,Petrol,80 PS at 5200 rpm,5,17 kmpl,Hatchback,Lucknow
+671,2021 Maruti Alto 800 LXI,₹ 3.30 Lakh,2021,796 cc,Third Party insurance,Manual,"20,000 Kms",First Owner,Petrol,47.33bhp,5,22.05 kmpl,Hatchback,Lucknow
+672,2015 Maruti Wagon R VXI Optional,₹ 4 Lakh,2015,998 cc,Third Party insurance,Manual,"30,000 Kms",First Owner,Petrol,67.04bhp,5,20.51 kmpl,Hatchback,Lucknow
+673,2016 Mahindra TUV 300 mHAWK100 T8,₹ 5.50 Lakh,2016,1493 cc,Third Party insurance,Manual,"80,000 Kms",First Owner,Diesel,100bhp,7,18.49 kmpl,SUV,Lucknow
+674,2017 Hyundai Grand i10 1.2 CRDi Magna,₹ 4.30 Lakh,2017,1186 cc,Third Party insurance,Manual,"60,000 Kms",First Owner,Diesel,73.97bhp,5,24 kmpl,Hatchback,Lucknow
+675,2022 Skoda Kushaq 1.0 TSI Active BSVI,₹ 11.79 Lakh,2022,999 cc,Third Party insurance,Manual,"20,000 Kms",First Owner,Petrol,113.98bhp,5,19.2 kmpl,SUV,Lucknow
+676,2019 Hyundai i20 Sportz Plus BSIV,₹ 6.50 Lakh,2019,1197 cc,Third Party insurance,Manual,"30,000 Kms",Second Owner,Petrol,81.86bhp,5,18.6 kmpl,Hatchback,Lucknow
+677,2017 Renault Lodgy Stepway 85PS RXL 8S,₹ 4.90 Lakh,2017,1461 cc,Third Party insurance,Manual,"60,000 Kms",Second Owner,Diesel,83.8bhp,8,21.04 kmpl,MUV,Lucknow
+678,2012 Renault Scala Diesel RxZ,₹ 2.60 Lakh,2012,1461 cc,Third Party insurance,Manual,"50,000 Kms",Second Owner,Diesel,84.8bhp,5,21.64 kmpl,Sedan,Lucknow
+679,2019 Maruti Baleno 1.2 Delta,₹ 6.50 Lakh,2019,1197 cc,Third Party insurance,Manual,"20,000 Kms",First Owner,Petrol,83.1bhp,5,21.4 kmpl,Hatchback,Lucknow
+680,2011 Mahindra Xylo E8 ABS 8S BSIV,₹ 2.30 Lakh,2011,2498 cc,Third Party insurance,Manual,"1,20,000 Kms",Second Owner,Diesel,112bhp at 3800 rpm,8,14 kmpl,MUV,Lucknow
+681,2015 Maruti Swift Dzire VDI,₹ 5 Lakh,2015,1248 cc,Third Party insurance,Manual,"1,20,000 Kms",First Owner,Diesel,74bhp,5,26.59 kmpl,Sedan,Lucknow
+682,2017 Hyundai Grand i10 1.2 CRDi Magna,₹ 4.10 Lakh,2017,1186 cc,Third Party insurance,Manual,"60,000 Kms",First Owner,Diesel,73.97bhp,5,24 kmpl,Hatchback,Lucknow
+683,2010 Toyota Innova 2.5 V Diesel 7-seater,₹ 5.30 Lakh,2010,2494 cc,Third Party insurance,Manual,"1,20,000 Kms",Second Owner,Diesel,102,7,12.8 kmpl,MUV,Lucknow
+684,2014 Tata Indigo eLX BS IV,₹ 2 Lakh,2014,1396 cc,Third Party insurance,Manual,"1,00,000 Kms",Third Owner,Diesel,69.01bhp,5,25 kmpl,Sedan,Lucknow
+685,2015 Mahindra XUV500 W8 4WD,₹ 6.50 Lakh,2015,2179 cc,Third Party insurance,Manual,"1,20,000 Kms",Second Owner,Diesel,140bhp,7,16 kmpl,SUV,Lucknow
+686,2022 Maruti Baleno Zeta,₹ 7.50 Lakh,2022,1197 cc,Third Party insurance,Manual,"10,000 Kms",First Owner,Petrol,81.80bhp,5,21.01 kmpl,Hatchback,Lucknow
+687,2017 Mahindra TUV 300 mHAWK100 T8,₹ 5.80 Lakh,2017,1493 cc,Third Party insurance,Manual,"60,000 Kms",First Owner,Diesel,100bhp,7,18.49 kmpl,SUV,Lucknow
+688,2021 Maruti Vitara Brezza VXI,₹ 10 Lakh,2021,1462 cc,Third Party insurance,Manual,"10,000 Kms",First Owner,Petrol,103.26bhp,5,17.03 kmpl,SUV,Lucknow
+689,2013 Toyota Fortuner 4x2 Manual,₹ 12 Lakh,2013,2982 cc,Third Party insurance,Manual,"1,20,000 Kms",Second Owner,Diesel,168.5bhp,7,13 kmpl,SUV,Lucknow
+690,2008 Mahindra Scorpio DX 2.6 Turbo 9Str,₹ 1.40 Lakh,2008,2609 cc,Third Party insurance,Manual,"1,20,000 Kms",Fifth Owner,Diesel,116.6,9,12.7 kmpl,SUV,Lucknow
+691,2012 Toyota Etios VD,₹ 3 Lakh,2012,1364 cc,Third Party insurance,Manual,"90,000 Kms",Third Owner,Diesel,,5,23.59 kmpl,Sedan,Lucknow
+692,2022 Tata Tiago XZ Plus CNG BSVI,₹ 7 Lakh,2022,1199 cc,Third Party insurance,Manual,"30,000 Kms",First Owner,CNG,72bhp,5,26.49 km/kg,Hatchback,Lucknow
+693,2013 Maruti Swift LDI,₹ 2.72 Lakh,Aug-13,1248 cc,Not Available,Manual,"85,452 Kms",First Owner,Diesel,74bhp,5,22.9 kmpl,Hatchback,Lucknow
+694,2015 Honda City i DTEC V,₹ 4.75 Lakh,Jan-15,1498 cc,Third Party,Manual,"51,059 Kms",Second Owner,Diesel,98.6bhp,5,26 kmpl,Sedan,Lucknow
+695,2022 Kia Carens Prestige Plus Turbo 2022-2023,₹ 14 Lakh,Jun-22,1353 cc,Not Available,Manual,"25,365 Kms",First Owner,Petrol,138.05bhp,7,16.2 kmpl,MUV,Lucknow
+696,2015 Mahindra TUV 300 T8,₹ 4.60 Lakh,Jan-16,1493 cc,Third Party,Manual,"1,14,217 Kms",First Owner,Diesel,100bhp,7,18.49 kmpl,SUV,Lucknow
+697,2016 Maruti Ciaz VDi Plus SHVS,₹ 5 Lakh,Aug-16,1248 cc,Comprehensive,Manual,"1,35,655 Kms",First Owner,Diesel,88.5bhp,5,28.09 kmpl,Sedan,Lucknow
+698,2018 Datsun GO Plus T BSIV,₹ 3 Lakh,Apr-18,1198 cc,Not Available,Manual,"30,896 Kms",First Owner,Petrol,67bhp,7,19.44 kmpl,MUV,Lucknow
+699,2015 Tata Zest Quadrajet 1.3 XMS,₹ 2.34 Lakh,Oct-15,1248 cc,Not Available,Manual,"2,21,760 Kms",First Owner,Diesel,88.7bhp,5,23 kmpl,Sedan,Lucknow
+700,2017 Hyundai Grand i10 1.2 Kappa Sportz Option,₹ 4.20 Lakh,Oct-17,1197 cc,Comprehensive,Manual,"40,146 Kms",First Owner,Petrol,81.86bhp,5,18.9 kmpl,Hatchback,Lucknow
+701,2012 Mahindra Scorpio VLX 2WD 7S BSIV,₹ 3.66 Lakh,Dec-12,2179 cc,Not Available,Manual,"1,59,353 Kms",Second Owner,Diesel,120bhp,7,12.05 kmpl,SUV,Lucknow
+702,2020 Ford Ecosport Sports Diesel,₹ 9 Lakh,Nov-20,1498 cc,Not Available,Manual,"23,690 Kms",First Owner,Diesel,98.96bhp,5,21.7 kmpl,SUV,Lucknow
+703,2011 Tata New Safari DICOR 2.2 LX 4x2 BS IV,₹ 2.18 Lakh,May-11,2179 cc,Not Available,Manual,"51,288 Kms",First Owner,Diesel,138.03bhp,7,13.93 kmpl,SUV,Lucknow
+704,2013 Volkswagen Polo Petrol Highline 1.2L,₹ 2.45 Lakh,Jan-14,1198 cc,Not Available,Manual,"96,966 Kms",First Owner,Petrol,73.9bhp,5,16.47 kmpl,Hatchback,Lucknow
+705,2018 Mahindra KUV 100 NXT D75 K2,₹ 3.46 Lakh,May-18,1198 cc,Not Available,Manual,"15,740 Kms",Second Owner,Diesel,77bhp,6,25.32 kmpl,Hatchback,Lucknow
+706,2014 Hyundai Verna 1.4 CRDi,₹ 3.20 Lakh,Jun-14,1396 cc,Not Available,Manual,"1,33,673 Kms",Second Owner,Diesel,88.7bhp,5,24.8 kmpl,Sedan,Lucknow
+707,2007 Maruti Alto LX BSIII,"₹ 64,000",May-07,796 cc,Not Available,Manual,"91,640 Kms",First Owner,Petrol,46.3bhp,5,19.7 kmpl,Hatchback,Lucknow
+708,2013 Tata Indica V2 LS,₹ 1.28 Lakh,Sep-13,1396 cc,Not Available,Manual,"1,07,174 Kms",First Owner,Diesel,69bhp,5,25 kmpl,Hatchback,Lucknow
+709,2016 Hyundai Creta 1.4 CRDi Base,₹ 6.50 Lakh,Jan-17,1396 cc,Not Available,Manual,"88,031 Kms",First Owner,Diesel,88.7bhp,5,21.38 kmpl,SUV,Lucknow
+710,2017 Renault KWID RXL,₹ 2.50 Lakh,Jul-17,799 cc,Not Available,Manual,"40,506 Kms",First Owner,Petrol,53.3bhp,5,25.17 kmpl,Hatchback,Lucknow
+711,2017 Ford Figo 1.5D Trend MT,₹ 4 Lakh,Feb-17,1498 cc,Third Party,Manual,"82,029 Kms",First Owner,Diesel,99bhp,5,25.83 kmpl,Hatchback,Lucknow
+712,2012 Honda Brio S MT,₹ 2.50 Lakh,May-12,1198 cc,Comprehensive,Manual,"49,293 Kms",Second Owner,Petrol,86.8bhp,5,19.4 kmpl,Hatchback,Lucknow
+713,2015 Toyota Etios Cross 1.4L VD,₹ 4.51 Lakh,Jul-15,1364 cc,Not Available,Manual,"1,09,423 Kms",First Owner,Diesel,67.06bhp,5,23.59 kmpl,Hatchback,Lucknow
+714,2019 Tata Nexon 1.5 Revotorq XM,₹ 5.80 Lakh,Nov-19,1497 cc,Not Available,Manual,"1,80,121 Kms",First Owner,Diesel,108.5bhp,5,21.5 kmpl,SUV,Lucknow
+715,2015 Hyundai Verna 1.6 CRDI,₹ 4.08 Lakh,Dec-15,1582 cc,Not Available,Manual,"1,02,268 Kms",First Owner,Diesel,126.3bhp,5,22.32 kmpl,Sedan,Lucknow
+716,2008 Maruti Wagon R LXI Minor,"₹ 67,576",Jun-08,1061 cc,Not Available,Manual,"1,84,482 Kms",First Owner,Petrol,67bhp,5,18.9 kmpl,Hatchback,Lucknow
+717,2012 Toyota Camry 2.5 G,₹ 4.75 Lakh,2012,2494 cc,Third Party insurance,Automatic,"1,10,098 Kms",Second Owner,Petrol,178.3bhp,5,12.98 kmpl,Sedan,Lucknow
+718,2018 Honda Amaze VX i-VTEC,₹ 5.70 Lakh,Oct-18,1198 cc,Not Available,Manual,"49,681 Kms",First Owner,Petrol,86.7bhp,5,17.8 kmpl,Sedan,Lucknow
+719,2021 Renault Kiger RXT,₹ 6.25 Lakh,Sep-21,999 cc,Third Party,Manual,"10,641 Kms",First Owner,Petrol,71.01bhp,5,19.17 kmpl,SUV,Lucknow
+720,2015 Tata Bolt Quadrajet XM,₹ 5.88 Lakh,Dec-16,1248 cc,Not Available,Manual,"58,427 Kms",First Owner,Diesel,74bhp,5,22.95 kmpl,Hatchback,Lucknow
+721,2014 Volkswagen Polo 1.2 MPI Highline,₹ 2.50 Lakh,May-14,1198 cc,Not Available,Manual,"63,488 Kms",Fifth Owner,Petrol,74bhp,5,16.47 kmpl,Hatchback,Lucknow
+722,2009 Hyundai Santro Xing GLS,"₹ 90,135",Mar-09,1086 cc,Not Available,Manual,"89,822 Kms",Second Owner,Petrol,62.1bhp,5,17.92 kmpl,Hatchback,Lucknow
+723,2006 Honda Civic 1.8 S MT,₹ 2.35 Lakh,Dec-06,1799 cc,Not Available,Manual,"1,15,292 Kms",First Owner,Petrol,130bhp,5,13.5 kmpl,Sedan,Lucknow
+724,2010 Hyundai Santro Xing GLS LPG,₹ 1.50 Lakh,Dec-10,1086 cc,Not Available,Manual,"63,076 Kms",Second Owner,LPG,62.1bhp,5,13.45 kmpl,Hatchback,Lucknow
+725,2015 Maruti Wagon R VXI BS IV,₹ 2.55 Lakh,Mar-15,998 cc,Not Available,Manual,"96,335 Kms",First Owner,Petrol,67.04bhp,5,20.51 kmpl,Hatchback,Lucknow
+726,2015 Tata Safari Storme VX,₹ 6.20 Lakh,Jun-15,2179 cc,Not Available,Manual,"72,828 Kms",First Owner,Diesel,148bhp,7,14.1 kmpl,SUV,Lucknow
+727,2018 Maruti Ciaz 1.4 Sigma,₹ 6.50 Lakh,Mar-18,1373 cc,Not Available,Manual,"16,425 Kms",First Owner,Petrol,91.1bhp,5,20.73 kmpl,Sedan,Lucknow
+728,2019 Maruti Ciaz Alpha 1.5,₹ 8.30 Lakh,Jan-20,1498 cc,Not Available,Manual,"70,504 Kms",First Owner,Diesel,93.87bhp,5,26.82 kmpl,Sedan,Lucknow
+729,2016 Mahindra KUV 100 mFALCON D75 K6 Plus,₹ 2.36 Lakh,Mar-16,1198 cc,Third Party,Manual,"91,258 Kms",Third Owner,Diesel,77bhp,6,25.32 kmpl,SUV,Lucknow
+730,2021 Hyundai Aura S CNG,₹ 6.65 Lakh,Jul-21,1197 cc,Not Available,Manual,"55,911 Kms",First Owner,CNG,68.05bhp,5,28 km/kg,Sedan,Lucknow
+731,2009 Hyundai i10 Magna 1.2,₹ 1.50 Lakh,Jan-10,1197 cc,Third Party,Manual,"85,384 Kms",Second Owner,Petrol,78.9bhp,5,20.36 kmpl,Hatchback,Lucknow
+732,2018 Maruti Swift Dzire VDI,₹ 5.50 Lakh,Oct-18,1248 cc,Not Available,Manual,"74,225 Kms",First Owner,Diesel,74.02bhp,5,28.4 kmpl,Sedan,Lucknow
+733,2008 Maruti Wagon R LXI Minor,"₹ 81,853",Jun-08,1061 cc,Not Available,Manual,,First Owner,Petrol,67bhp,5,18.9 kmpl,Hatchback,Lucknow
+734,2008 Maruti Zen Estilo LXI BSIII,"₹ 63,457",Apr-08,998 cc,Not Available,Manual,"76,344 Kms",First Owner,Petrol,67.1bhp,5,18.2 kmpl,Hatchback,Lucknow
+735,2017 Maruti Vitara Brezza ZDi Plus,₹ 6 Lakh,Sep-17,1248 cc,Third Party,Manual,"1,26,420 Kms",First Owner,Diesel,88.5bhp,5,24.3 kmpl,SUV,Lucknow
+736,2020 Honda Amaze S Petrol,₹ 7 Lakh,Mar-20,1199 cc,Not Available,Manual,"88,840 Kms",First Owner,Petrol,88.76bhp,5,18.6 kmpl,Sedan,Lucknow
+737,2016 Toyota Etios Cross 1.2L G,₹ 4.29 Lakh,Sep-16,1197 cc,Not Available,Manual,"70,991 Kms",First Owner,Petrol,78.8bhp,5,18.16 kmpl,Hatchback,Lucknow
+738,2017 Honda Jazz 1.2 VX i VTEC,₹ 4.55 Lakh,Sep-17,1199 cc,Zero Dep,Manual,"38,362 Kms",First Owner,Petrol,88.7bhp,5,18.7 kmpl,Hatchback,Lucknow
+739,2015 Chevrolet Sail LS ABS,₹ 2.60 Lakh,Apr-15,1248 cc,Not Available,Manual,"86,887 Kms",First Owner,Diesel,74bhp,5,22.1 kmpl,Sedan,Lucknow
+740,2021 Mercedes-Benz GLE 300d BSVI,₹ 78 Lakh,Sep-21,1950 cc,Not Available,Automatic,"44,832 Kms",First Owner,Diesel,241.38bhp,5,,SUV,Lucknow
+741,2011 Toyota Innova 2.5 G (Diesel) 7 Seater BS III,₹ 4.50 Lakh,Jul-11,2494 cc,Comprehensive,Manual,"1,54,947 Kms",First Owner,Diesel,102,8,12.8 kmpl,MUV,Lucknow
+742,2015 Renault Lodgy 110PS RxZ 7 Seater,₹ 4.53 Lakh,Jul-15,1461 cc,Not Available,Manual,"1,32,169 Kms",Second Owner,Diesel,108.5bhp,7,19.98 kmpl,MUV,Lucknow
+743,2017 Skoda Rapid 1.5 TDI Style BSIV,₹ 6.50 Lakh,Apr-18,1498 cc,Not Available,Manual,"1,04,642 Kms",First Owner,Diesel,108.6bhp,5,21.13 kmpl,Sedan,Lucknow
+744,2014 Maruti Alto K10 2010-2014 VXI,₹ 1.90 Lakh,Aug-14,998 cc,Comprehensive,Manual,"91,059 Kms",First Owner,Petrol,67.1bhp,5,20.92 kmpl,Hatchback,Lucknow
+745,2010 Maruti Alto LXi BSIII,₹ 1.06 Lakh,Mar-11,796 cc,Not Available,Manual,"23,070 Kms",First Owner,Petrol,46.3bhp,5,19.7 kmpl,Hatchback,Lucknow
+746,2012 Toyota Fortuner 4x2 4 Speed AT,₹ 10.55 Lakh,Jun-12,2982 cc,Not Available,Automatic,"2,08,009 Kms",Second Owner,Diesel,169bhp,7,11.5 kmpl,SUV,Lucknow
+747,2012 Mahindra Scorpio SLE 7S BSIV,₹ 4 Lakh,Nov-12,2179 cc,Not Available,Manual,"70,825 Kms",Second Owner,Diesel,120bhp,7,12.05 kmpl,SUV,Lucknow
+748,2012 Tata Indigo GLX,₹ 1.10 Lakh,2012,1193 cc,Third Party insurance,Manual,"75,238 Kms",Third Owner,Petrol,64.1bhp,5,15.64 kmpl,Sedan,Lucknow
+749,2009 Hyundai i20 Asta,₹ 1.85 Lakh,Dec-09,1197 cc,Not Available,Manual,"84,517 Kms",Second Owner,Petrol,80 PS at 5200 rpm,5,17 kmpl,Hatchback,Lucknow
+750,2012 Hyundai Santa Fe 4X2,₹ 4.79 Lakh,May-12,2199 cc,Not Available,Manual,"89,771 Kms",First Owner,Diesel,194.3bhp,7,14.66 kmpl,SUV,Lucknow
+751,2022 Honda City V MT,₹ 11.50 Lakh,Jan-23,1498 cc,Not Available,Manual,"6,622 Kms",First Owner,Petrol,119.35bhp,5,18.6 kmpl,Sedan,Lucknow
+752,2014 Hyundai EON Era Plus,₹ 2 Lakh,May-14,814 cc,Third Party,Manual,"74,318 Kms",First Owner,Petrol,55.2bhp,5,21.1 kmpl,Hatchback,Lucknow
+753,2010 Fiat Grande Punto 1.3 Emotion (Diesel),₹ 1 Lakh,Feb-11,1248 cc,Not Available,Manual,"1,59,045 Kms",Second Owner,Diesel,75bhp,5,20.3 kmpl,Hatchback,Lucknow
+754,2021 Hyundai Venue S,₹ 7 Lakh,Oct-21,1197 cc,Not Available,Manual,"22,882 Kms",First Owner,Petrol,81.86bhp,5,17.52 kmpl,SUV,Lucknow
+755,2014 Mercedes-Benz E-Class E250 CDI Avantgrade,₹ 20 Lakh,Jan-15,2143 cc,Not Available,Automatic,"72,905 Kms",First Owner,Diesel,201.1bhp,5,13 kmpl,Sedan,Lucknow
+756,2011 Hyundai i10 Era,₹ 1.50 Lakh,Oct-11,1086 cc,Third Party,Manual,"1,30,817 Kms",Second Owner,Petrol,68.05bhp,5,19.81 kmpl,Hatchback,Lucknow
+757,2018 Hyundai Grand i10 1.2 CRDi Sportz Option,₹ 4.20 Lakh,Jun-19,1186 cc,Not Available,Manual,"34,863 Kms",First Owner,Diesel,73.97bhp,5,24 kmpl,Hatchback,Lucknow
+758,2017 Maruti Ignis 1.2 Alpha BSIV,₹ 5.02 Lakh,Oct-17,1197 cc,Third Party,Manual,"16,679 Kms",First Owner,Petrol,81.80bhp,5,20.89 kmpl,Hatchback,Lucknow
+759,2014 Honda City i DTEC VX,₹ 5 Lakh,Nov-14,1498 cc,Not Available,Manual,"1,20,913 Kms",First Owner,Diesel,98.6bhp,5,25.1 kmpl,Sedan,Lucknow
+760,2015 Hyundai Xcent 1.2 Kappa S,₹ 3.17 Lakh,Dec-15,1197 cc,Comprehensive,Manual,"91,982 Kms",Second Owner,Petrol,82bhp,5,19.1 kmpl,Sedan,Lucknow
+761,2020 Maruti Swift VXI,₹ 6.50 Lakh,Jun-20,1197 cc,Not Available,Manual,"42,847 Kms",First Owner,Petrol,81.80bhp,5,21.21 kmpl,Hatchback,Lucknow
+762,2021 Hyundai i20 Sportz Diesel,₹ 8.50 Lakh,Jul-21,1493 cc,Not Available,Manual,"33,423 Kms",First Owner,Diesel,98.63bhp,5,25 kmpl,Hatchback,Lucknow
+763,2019 Tata Tigor XZ Plus,₹ 4.50 Lakh,Jun-19,1199 cc,Not Available,Manual,"60,155 Kms",First Owner,Petrol,83.81bhp,5,20.3 kmpl,Sedan,Lucknow
+764,2022 Tata Tigor EV XZ Plus,₹ 10 Lakh,Apr-22,0 cc,Not Available,Automatic,"31,670 Kms",First Owner,Electric,73.75bhp,5,,Sedan,Lucknow
+765,2011 Hyundai i10 Era 1.1 iTech SE,₹ 2.10 Lakh,Jan-12,1086 cc,Not Available,Manual,"28,447 Kms",Second Owner,Petrol,68.05bhp,5,19.81 kmpl,Hatchback,Lucknow
+766,2015 Hyundai EON Era Plus,₹ 2.50 Lakh,Jan-16,814 cc,Not Available,Manual,"17,435 Kms",First Owner,Petrol,55.2bhp,5,21.1 kmpl,Hatchback,Lucknow
+767,2019 Kia Seltos GTX,₹ 12.50 Lakh,Dec-19,1353 cc,Not Available,Manual,"23,556 Kms",First Owner,Petrol,113.43bhp,5,16.8 kmpl,SUV,Lucknow
+768,2022 Tata Nexon EV Prime XZ Plus,₹ 14.50 Lakh,Aug-22,0 cc,Not Available,Automatic,"12,751 Kms",First Owner,Electric,127bhp,5,,SUV,Lucknow
+769,2019 Tata Nexon 1.5 Revotorq XZ Plus,₹ 7.11 Lakh,Nov-19,1497 cc,Not Available,Manual,"98,199 Kms",First Owner,Diesel,108.5bhp,5,21.5 kmpl,SUV,Lucknow
+770,2021 Tata Tiago XZ Plus BSVI,₹ 5.50 Lakh,Mar-21,1199 cc,Third Party,Manual,"49,092 Kms",First Owner,Petrol,84.82bhp,5,19.01 kmpl,Hatchback,Lucknow
+771,2015 Toyota Etios JD,₹ 3.85 Lakh,Feb-15,1364 cc,Third Party insurance,Manual,"1,26,884 Kms",Second Owner,Diesel,67.05bhp,5,23.59 kmpl,Sedan,Lucknow
+772,2015 Maruti Wagon R AMT VXI,₹ 3.85 Lakh,Aug-15,998 cc,,Automatic,"1,00,296 Kms",First Owner,Petrol,67bhp,5,20.51 kmpl,Hatchback,Lucknow
+773,2021 BMW 3 Series 330i Sport,₹ 44.75 Lakh,Jul-21,1998 cc,Third Party insurance,Automatic,"17,000 Kms",First Owner,Petrol,254.79bhp,5,16.13 kmpl,Sedan,Delhi
+774,2012 Mercedes-Benz SLK-Class SLK 350,₹ 28.75 Lakh,Jul-12,3498 cc,Third Party insurance,Automatic,"24,002 Kms",Third Owner,Petrol,306bhp,2,18.1 kmpl,Mercedes-Benz,Delhi
+775,2017 BMW 5 Series 530d M Sport,₹ 33.75 Lakh,Jul-17,2993 cc,Third Party insurance,Automatic,"42,001 Kms",First Owner,Diesel,261.49bhp,5,17.42 kmpl,Sedan,Delhi
+776,2014 Audi A4 2.0 TDI,₹ 11.75 Lakh,Aug-14,1968 cc,Third Party insurance,Automatic,"61,000 Kms",First Owner,Diesel,147.51bhp,5,16.55 kmpl,Sedan,Delhi
+777,2011 Mercedes-Benz CLS-Class 350,₹ 22.75 Lakh,Nov-11,3498 cc,Third Party insurance,Automatic,"17,523 Kms",First Owner,Petrol,306bhp,4,9.26 kmpl,Sedan,Delhi
+778,2016 Mercedes-Benz CLA 45 AMG,₹ 33.75 Lakh,Jul-16,1991 cc,Third Party insurance,Automatic,"65,023 Kms",Third Owner,Petrol,360bhp,5,15.04 kmpl,Sedan,Delhi
+779,2020 Land Rover Discovery Sport TD4 SE 7S,₹ 57.75 Lakh,Jul-20,2179 cc,Third Party insurance,Automatic,"26,542 Kms",Second Owner,Diesel,147.5bhp,7,12.83 kmpl,SUV,Delhi
+780,2017 BMW 5 Series 530i Sport Line,₹ 43.75 Lakh,Jul-17,1998 cc,Third Party insurance,Automatic,"34,123 Kms",First Owner,Petrol,252bhp,5,15.56 kmpl,Sedan,Delhi
+781,2021 BMW 5 Series 520d Luxury Line,₹ 54.75 Lakh,Jul-21,1995 cc,Third Party insurance,Automatic,"43,000 Kms",First Owner,Diesel,187.74bhp,5,20.37 kmpl,Sedan,Delhi
+782,2019 BMW X1 sDrive 20d M Sport,₹ 27.75 Lakh,Jul-19,1995 cc,Third Party insurance,Automatic,"54,000 Kms",First Owner,Diesel,184bhp,5,17.05 kmpl,SUV,Delhi
+783,2020 Mercedes-Benz C-Class Progressive C 220d,₹ 40.75 Lakh,Jul-20,1950 cc,Third Party insurance,Automatic,"44,000 Kms",First Owner,Diesel,194bhp,5,12.6 kmpl,Sedan,Delhi
+784,2016 Audi A3 cabriolet 40 TFSI Premium Plus,₹ 37.75 Lakh,Jul-16,1798 cc,Third Party insurance,Automatic,"65,003 Kms",Second Owner,Petrol,177bhp,4,16.6 kmpl,Audi,Delhi
+785,2015 Audi A6 35 TDI,₹ 17.75 Lakh,Nov-15,1968 cc,Third Party insurance,Automatic,"60,234 Kms",Second Owner,Diesel,187.74bhp,5,18.53 kmpl,Sedan,Delhi
+786,2017 Mercedes-Benz GLE 250d,₹ 39.75 Lakh,Jul-17,2143 cc,Third Party insurance,Automatic,"53,580 Kms",First Owner,Diesel,201.15bhp,5,17.9 kmpl,SUV,Delhi
+787,2018 BMW 3 Series 330i M Sport,₹ 38.75 Lakh,Jul-18,1998 cc,Third Party insurance,Automatic,"34,000 Kms",Second Owner,Petrol,252bhp,5,15.34 kmpl,Sedan,Delhi
+788,2018 Mercedes-Benz E-Class Expression E 220d,₹ 37.75 Lakh,Jul-18,1950 cc,Third Party insurance,Automatic,"54,000 Kms",Second Owner,Diesel,191.76bhp,5,16.1 kmpl,Sedan,Delhi
+789,2019 Jeep Wrangler 3.6 4X4,₹ 44.75 Lakh,Apr-19,3604 cc,Third Party insurance,Automatic,"27,000 Kms",Second Owner,Petrol,280bhp,5,9.5 kmpl,SUV,Delhi
+790,2019 Land Rover Discovery SE 3.0 Si6,₹ 71.75 Lakh,Jul-19,2995 cc,Third Party insurance,Automatic,"8,500 Kms",Second Owner,Petrol,335.25bhp,7,9.17 kmpl,SUV,Delhi
+791,2017 Ford Ecosport 1.5 Diesel Titanium Plus BSIV,₹ 6.55 Lakh,Jun-17,1498 cc,Comprehensive,Manual,"41,709 Kms",First Owner,Diesel,98.96bhp,5,23 kmpl,SUV,Lucknow
+792,2017 Honda WR-V i-DTEC VX,₹ 4.90 Lakh,Jun-17,1498 cc,Comprehensive,Manual,"41,781 Kms",First Owner,Diesel,98.6bhp,5,25.5 kmpl,SUV,Lucknow
+793,2020 Tata Nexon XZA Plus AMT Diesel BSVI,₹ 7.25 Lakh,Dec-20,1497 cc,Comprehensive,Automatic,"20,123 Kms",First Owner,Diesel,113.42bhp,5,24.07 kmpl,SUV,Lucknow
+794,2015 Honda Jazz 1.2 SV i VTEC,₹ 3.85 Lakh,Jul-15,1199 cc,Comprehensive,Manual,"19,929 Kms",First Owner,Petrol,88.7bhp,5,18.7 kmpl,Hatchback,Lucknow
+795,2014 Volkswagen Polo Diesel Comfortline 1.2L,₹ 2.50 Lakh,Oct-14,1199 cc,Third Party,Manual,"1,03,546 Kms",First Owner,Diesel,73.9bhp,5,22.07 kmpl,Hatchback,Lucknow
+796,2009 Hyundai i10 Asta 1.2,₹ 1.30 Lakh,Sep-09,1197 cc,Third Party,Manual,"1,13,131 Kms",Second Owner,Petrol,78.9bhp,5,20.36 kmpl,Hatchback,Lucknow
+797,2020 Honda City ZX MT,₹ 14.25 Lakh,Jul-20,1497 cc,Third Party insurance,Manual,"10,989 Kms",First Owner,Petrol,117.6bhp,5,17.4 kmpl,Sedan,Lucknow
+798,2010 Maruti Wagon R LXI,₹ 1.85 Lakh,Jan-11,998 cc,Third Party insurance,Manual,"80,000 Kms",Second Owner,Petrol,67.05bhp,5,21.79 kmpl,Hatchback,Lucknow
+799,2018 Maruti Ignis Sigma BSVI,₹ 3.85 Lakh,Jan-18,1197 cc,Third Party,Manual,"78,000 Kms",First Owner,Petrol,81.80bhp,5,20.89 kmpl,Hatchback,Lucknow
+800,2021 Maruti Celerio ZXI Plus AMT BSVI,₹ 6.46 Lakh,Jun-21,998 cc,Comprehensive,Automatic,"3,688 Kms",First Owner,Petrol,65.71bhp,5,26 kmpl,Hatchback,Lucknow
+801,2012 Toyota Etios VD,₹ 3 Lakh,Feb-12,1364 cc,Third Party insurance,Manual,"1,17,000 Kms",First Owner,Diesel,67.05bhp,5,23.59 kmpl,Sedan,Lucknow
+802,2020 Maruti Wagon R VXI 1.2,₹ 6 Lakh,2020,1197 cc,Third Party insurance,Manual,"30,000 Kms",First Owner,Petrol,81.80bhp,5,20.52 kmpl,Hatchback,Lucknow
+803,2021 Maruti Baleno Zeta,₹ 6.50 Lakh,Jul-21,1197 cc,Third Party insurance,Manual,"73,114 Kms",First Owner,Petrol,81.80bhp,5,21.01 kmpl,Hatchback,Lucknow
+804,2009 Hyundai i10 Magna,₹ 1 Lakh,Apr-09,1197 cc,Third Party,Manual,"75,000 Kms",First Owner,Petrol,78.9bhp,5,20.36 kmpl,Hatchback,Lucknow
+805,2016 Maruti Ciaz VDi,₹ 5.70 Lakh,Apr-16,1248 cc,Third Party,Manual,"1,10,654 Kms",First Owner,Diesel,88.5bhp,5,26.21 kmpl,Sedan,Lucknow
+806,2013 Hyundai i20 1.2 Spotz,₹ 3 Lakh,Jan-13,1197 cc,Comprehensive,Manual,"85,458 Kms",First Owner,Petrol,81.83bhp,5,18.6 kmpl,Hatchback,Lucknow
+807,2012 Tata Indigo CR4,₹ 1.50 Lakh,Nov-12,1396 cc,Comprehensive,Manual,"65,421 Kms",First Owner,Diesel,70bhp,5,23.57 kmpl,Sedan,Lucknow
+808,2020 BMW X1 sDrive 20d xLine,₹ 28.25 Lakh,Jul-20,1995 cc,Comprehensive,Automatic,"42,000 Kms",Second Owner,Diesel,188bhp,5,20.68 kmpl,SUV,Delhi
+809,2016 Maruti Alto K10 VXI,₹ 3.18 Lakh,Feb-16,998 cc,Comprehensive,Manual,"1,16,231 Kms",Second Owner,Petrol,65.71bhp,5,24.39 kmpl,Hatchback,Chandigarh
+810,2018 Hyundai Santro Sportz BSIV,₹ 4.57 Lakh,Dec-18,1086 cc,Third Party,Manual,"25,369 Kms",First Owner,Petrol,68bhp,5,20.3 kmpl,Hatchback,Chandigarh
+811,2023 Lexus ES 300h Luxury,₹ 72 Lakh,Mar-23,2487 cc,Comprehensive,Automatic,"5,000 Kms",First Owner,Petrol,175.67bhp,5,,Sedan,Delhi
+812,2018 Maruti Alto K10 VXI,₹ 3.90 Lakh,Dec-18,998 cc,Third Party insurance,Manual,"17,908 Kms",First Owner,Petrol,65.71bhp,5,24.39 kmpl,Hatchback,Chandigarh
+813,2021 Maruti Alto 800 VXI BSVI,₹ 4.03 Lakh,Jun-21,796 cc,Zero Dep,Manual,"1,220 Kms",First Owner,Petrol,47.33bhp,5,22.05 kmpl,Hatchback,Chandigarh
+814,2017 Maruti Alto K10 VXI,₹ 3.29 Lakh,Oct-17,998 cc,Zero Dep,Manual,"12,884 Kms",Second Owner,Petrol,65.71bhp,5,24.39 kmpl,Hatchback,Chandigarh
+815,2014 Maruti Swift VDI BSIV,₹ 3.74 Lakh,Feb-15,1248 cc,Third Party insurance,Manual,"43,370 Kms",Second Owner,Diesel,74bhp,5,25.2 kmpl,Hatchback,Chandigarh
+816,2017 Maruti Swift Dzire VXI 1.2,₹ 5.13 Lakh,Mar-18,1197 cc,Comprehensive,Manual,"81,369 Kms",First Owner,Petrol,81.80bhp,5,21.21 kmpl,Sedan,Chandigarh
+817,2014 Maruti Swift Dzire VDI,₹ 4.15 Lakh,Apr-14,1248 cc,Comprehensive,Manual,"56,357 Kms",First Owner,Diesel,74bhp,5,23.4 kmpl,Sedan,Chandigarh
+818,2018 BMW 5 Series 520d Sport Line,₹ 38.75 Lakh,Jul-18,1995 cc,Third Party insurance,Automatic,"36,000 Kms",First Owner,Diesel,187.74bhp,5,22.48 kmpl,Sedan,Delhi
+819,2013 Hyundai Grand i10 Sportz,₹ 3.50 Lakh,2013,1197 cc,Third Party insurance,Manual,"60,000 Kms",Second Owner,Petrol,82bhp,5,18.9 kmpl,Hatchback,Chandigarh
+820,2018 Maruti Eeco CNG 5 Seater AC BSIV,₹ 3.80 Lakh,2018,1196 cc,Third Party insurance,Manual,"70,000 Kms",First Owner,CNG,61.7bhp,5,21.94 km/kg,Minivans,Chandigarh
+821,2011 Maruti SX4 ZDI,₹ 3 Lakh,2011,1248 cc,Third Party insurance,Manual,"1,20,000 Kms",Third Owner,Diesel,88.8bhp,5,21.5 kmpl,Sedan,Chandigarh
+822,2022 BMW X5 xDrive 30d SportX Plus,₹ 85.75 Lakh,Jul-22,2998 cc,Comprehensive,Automatic,"18,000 Kms",Second Owner,Diesel,261.49bhp,5,13.38 kmpl,SUV,Delhi
+823,2010 Hyundai i10 Sportz 1.2,₹ 2.50 Lakh,2010,1197 cc,Third Party insurance,Manual,"1,20,000 Kms",First Owner,Petrol,78.9bhp,5,20.36 kmpl,Hatchback,Chandigarh
+824,2022 Tata Punch Accomplished Dazzle BSVI,₹ 7.84 Lakh,2022,1199 cc,Third Party insurance,Manual,"10,000 Kms",First Owner,Petrol,86.63bhp,5,20.09 kmpl,SUV,Chandigarh
+825,2018 Maruti Eeco CNG 5 Seater AC BSIV,₹ 3.60 Lakh,2018,1196 cc,Third Party insurance,Manual,"70,000 Kms",First Owner,CNG,61.7bhp,5,21.94 km/kg,Minivans,Chandigarh
+826,2019 Maruti Alto 800 LXI,₹ 3.12 Lakh,Aug-19,796 cc,Third Party,Manual,"47,714 Kms",First Owner,Petrol,47.33bhp,5,22.05 kmpl,Hatchback,Chandigarh
+827,2022 Tata Tiago NRG XZA AMT BSVI,₹ 6.89 Lakh,Nov-22,1199 cc,Zero Dep,Automatic,"13,218 Kms",First Owner,Petrol,84.48bhp,5,20.09 kmpl,Hatchback,Chandigarh
+828,2019 Honda City i-VTEC CVT VX,₹ 9.25 Lakh,Apr-19,1497 cc,Comprehensive,Automatic,"46,518 Kms",Second Owner,Petrol,117.6bhp,5,18 kmpl,Sedan,Chandigarh
+829,2020 Maruti Alto 800 LXI,₹ 3.13 Lakh,Aug-20,796 cc,Third Party,Manual,"61,703 Kms",First Owner,Petrol,47.33bhp,5,22.05 kmpl,Hatchback,Chandigarh
+830,2021 Maruti S-Presso VXI Plus 2019-2022,₹ 4.34 Lakh,Mar-21,998 cc,Third Party,Manual,"33,960 Kms",First Owner,Petrol,65.71bhp,5,21.7 kmpl,Hatchback,Chandigarh
+831,2019 Mahindra XUV300 W8 Option Dual Tone BSIV,₹ 9.30 Lakh,Mar-20,1197 cc,Third Party insurance,Manual,"40,291 Kms",Second Owner,Petrol,110bhp,5,17 kmpl,SUV,Chandigarh
+832,2016 Hyundai Creta 1.6 CRDi AT SX Plus,₹ 8.29 Lakh,Nov-16,1582 cc,Comprehensive,Automatic,"93,714 Kms",First Owner,Diesel,126.2bhp,5,17.01 kmpl,SUV,Chandigarh
+833,2016 Renault Duster 85PS Diesel RxL Explore,₹ 4.97 Lakh,Mar-16,1461 cc,Third Party insurance,Manual,"53,872 Kms",First Owner,Diesel,83.8bhp,5,19.87 kmpl,SUV,Chandigarh
+834,2022 Mahindra Thar LX 4-Str Hard Top AT BSVI,₹ 19 Lakh,2022,1997 cc,Third Party insurance,Automatic,"10,000 Kms",First Owner,Petrol,150bhp,4,,SUV,Chandigarh
+835,2013 Toyota Etios Liva GD,₹ 2.70 Lakh,2013,1364 cc,Third Party insurance,Manual,"1,50,000 Kms",First Owner,Diesel,67.06bhp,5,23.59 kmpl,Hatchback,Chandigarh
+836,2016 Audi Q7 45 TDI Quattro Premium Plus,₹ 42.50 Lakh,Jul-16,2967 cc,Third Party insurance,Automatic,"75,000 Kms",Second Owner,Diesel,245bhp,7,14.75 kmpl,SUV,Delhi
+837,2012 Mahindra XUV500 W8 2WD,₹ 5.21 Lakh,2012,2179 cc,Third Party insurance,Manual,"90,000 Kms",Third Owner,Diesel,140bhp,7,15.1 kmpl,SUV,Chandigarh
+838,2013 Maruti Alto 800 Base,₹ 1.50 Lakh,2013,796 cc,Third Party insurance,Manual,"80,000 Kms",Second Owner,Petrol,47.3bhp,5,22.74 kmpl,Hatchback,Chandigarh
+839,1986 Maruti 800 Std,₹ 1.40 Lakh,,796 cc,Third Party insurance,Manual,"90,000 Kms",First Owner,Petrol,37bhp,4,16.1 kmpl,Hatchback,Chandigarh
+840,2018 BMW 5 Series 530d M Sport,₹ 43.75 Lakh,Jul-18,2993 cc,Third Party insurance,Automatic,"48,000 Kms",First Owner,Diesel,261.49bhp,5,17.42 kmpl,Sedan,Delhi
+841,2021 Maruti Swift ZXI Plus,₹ 6.86 Lakh,Mar-21,1197 cc,Third Party,Manual,"15,324 Kms",First Owner,Petrol,88.50bhp,5,22.38 kmpl,Hatchback,Chandigarh
+842,2018 Hyundai i20 1.4 Asta Option,₹ 6.08 Lakh,Oct-18,1396 cc,Comprehensive,Manual,"67,076 Kms",First Owner,Diesel,88.73bhp,5,22.54 kmpl,Hatchback,Chandigarh
+843,2019 Hyundai Grand i10 Nios AMT Sportz,₹ 6.94 Lakh,Jan-20,1197 cc,Zero Dep,Automatic,"28,778 Kms",First Owner,Petrol,81.86bhp,5,20.7 kmpl,Hatchback,Chandigarh
+844,2021 Tata Nexon XZ Plus S 2020-2022,₹ 9.09 Lakh,Sep-21,1199 cc,Zero Dep,Manual,"30,146 Kms",First Owner,Petrol,118.36bhp,5,17.57 kmpl,SUV,Chandigarh
+845,2022 Maruti Ciaz Alpha BSVI,₹ 9.37 Lakh,May-22,1462 cc,Zero Dep,Manual,"31,793 Kms",First Owner,Petrol,103.25bhp,5,20.65 kmpl,Sedan,Chandigarh
+846,2019 Maruti Swift Dzire VXI 1.2,₹ 5.36 Lakh,Mar-19,1197 cc,Third Party insurance,Manual,"65,131 Kms",Second Owner,Petrol,81.80bhp,5,21.21 kmpl,Sedan,Chandigarh
+847,2018 Maruti Swift VXI,₹ 5.33 Lakh,May-18,1197 cc,Third Party insurance,Manual,"43,312 Kms",First Owner,Petrol,88.50bhp,5,22.38 kmpl,Hatchback,Chandigarh
+848,2018 Ford Ecosport 1.5 Diesel Titanium Plus BSIV,₹ 6.52 Lakh,Feb-18,1498 cc,Third Party insurance,Manual,"94,521 Kms",First Owner,Diesel,98.96bhp,5,23 kmpl,SUV,Chandigarh
+849,2019 Toyota Glanza V CVT,₹ 7.22 Lakh,Dec-19,1197 cc,Zero Dep,Automatic,"93,670 Kms",Third Owner,Petrol,81.80bhp,5,19.56 kmpl,Hatchback,Chandigarh
+850,2020 Mercedes-Benz C-Class Progressive C 220d,₹ 39.65 Lakh,Jul-20,1950 cc,Comprehensive,Automatic,"15,000 Kms",First Owner,Diesel,194bhp,5,12.6 kmpl,Sedan,Delhi
+851,2015 Renault Duster 85PS Diesel RxL,₹ 5.25 Lakh,2015,1461 cc,Third Party insurance,Manual,"1,50,000 Kms",First Owner,Diesel,83.8bhp,5,20.45 kmpl,SUV,Chandigarh
+852,2022 Skoda Octavia Laurin and Klement,₹ 29 Lakh,2022,1984 cc,Third Party insurance,Automatic,"40,000 Kms",First Owner,Petrol,187.74bhp,5,15.81 kmpl,Sedan,Chandigarh
+853,2013 Honda City V MT Exclusive,₹ 3.10 Lakh,2013,1497 cc,Third Party insurance,Manual,"1,20,000 Kms",Third Owner,Petrol,116.3bhp,5,16.8 kmpl,Sedan,Chandigarh
+854,2012 Ford Figo Diesel ZXI,₹ 1.80 Lakh,2012,1399 cc,Third Party insurance,Manual,"1,20,000 Kms",First Owner,Diesel,68bhp,5,20 kmpl,Hatchback,Chandigarh
+855,2020 Hyundai i20 Magna Plus,₹ 6.90 Lakh,2020,1197 cc,Third Party insurance,Manual,"20,000 Kms",First Owner,Petrol,81.86bhp,5,18.6 kmpl,Hatchback,Chandigarh
+856,2012 Maruti Alto K10 2010-2014 VXI,₹ 2.35 Lakh,2012,998 cc,Third Party insurance,Manual,"80,000 Kms",First Owner,Petrol,67.1bhp,5,20.92 kmpl,Hatchback,Chandigarh
+857,2015 Audi Q3 2.0 TDI Quattro Premium Plus,₹ 13.75 Lakh,Jul-15,1968 cc,Comprehensive,Automatic,"60,000 Kms",First Owner,Diesel,174.33bhp,5,15.73 kmpl,SUV,Delhi
+858,2021 Maruti S-Presso VXI Plus 2019-2022,₹ 4.20 Lakh,Jan-22,998 cc,Third Party,Manual,"16,178 Kms",First Owner,Petrol,65.71bhp,5,21.7 kmpl,Hatchback,Chandigarh
+859,2019 Maruti Wagon R VXI 1.2,₹ 4.68 Lakh,May-19,1197 cc,Third Party insurance,Manual,"37,842 Kms",First Owner,Petrol,81.80bhp,5,20.52 kmpl,Hatchback,Chandigarh
+860,2018 Maruti Alto 800 LXI,₹ 2.84 Lakh,May-18,796 cc,Third Party insurance,Manual,"41,226 Kms",Second Owner,Petrol,47.33bhp,5,22.05 kmpl,Hatchback,Chandigarh
+861,2018 Jaguar F-Pace Prestige 2.0 AWD,₹ 38.75 Lakh,Jul-18,1999 cc,Comprehensive,Automatic,"56,000 Kms",Second Owner,Diesel,177bhp,5,16.38 kmpl,SUV,Delhi
+862,2020 Ford Ecosport 1.5 Diesel Titanium BSIV,₹ 7.63 Lakh,Apr-20,1498 cc,Zero Dep,Manual,"62,397 Kms",First Owner,Diesel,98.96bhp,5,23 kmpl,SUV,Chandigarh
+863,2020 Skoda Rapid 1.0 TSI Ambition,₹ 7.19 Lakh,Jul-20,999 cc,Third Party,Manual,"44,867 Kms",Second Owner,Petrol,108.62bhp,5,18.97 kmpl,Sedan,Chandigarh
+864,2018 Maruti Alto K10 VXI,₹ 3.42 Lakh,Aug-18,998 cc,Zero Dep,Manual,"65,143 Kms",First Owner,Petrol,65.71bhp,5,24.39 kmpl,Hatchback,Chandigarh
+865,2015 Maruti Ciaz ZDi Plus,₹ 4.68 Lakh,Jun-15,1248 cc,Comprehensive,Manual,"1,09,968 Kms",Second Owner,Diesel,88.5bhp,5,26.21 kmpl,Sedan,Chandigarh
+866,2018 Maruti Alto K10 VXI,₹ 3.33 Lakh,Jun-18,998 cc,Third Party insurance,Manual,"29,010 Kms",Second Owner,Petrol,65.71bhp,5,24.39 kmpl,Hatchback,Chandigarh
+867,2009 Maruti Alto LXi,₹ 1.05 Lakh,2009,796 cc,Third Party insurance,Manual,"1,20,000 Kms",First Owner,Petrol,46.3bhp,5,19.7 kmpl,Hatchback,Chandigarh
+868,2017 Mercedes-Benz GLS 350d 4MATIC,₹ 53.50 Lakh,2017,2987 cc,Third Party insurance,Automatic,"1,10,000 Kms",Second Owner,Diesel,258bhp,7,11 kmpl,SUV,Chandigarh
+869,2023 MG Gloster Savvy 7 Str 4x4,₹ 45.50 Lakh,Jul-23,1996 cc,Comprehensive,Automatic,"20,000 Kms",First Owner,Diesel,212.55bhp,7,12.04 kmpl,SUV,Delhi
+870,2017 Hyundai EON Magna Plus Option,₹ 2 Lakh,2017,814 cc,Third Party insurance,Manual,"60,000 Kms",Third Owner,Petrol,55.2bhp,5,21.1 kmpl,Hatchback,Chandigarh
+871,2009 Volkswagen Jetta 1.9 TDI Comfortline DSG,₹ 2.50 Lakh,2009,1896 cc,Third Party insurance,Automatic,"1,00,000 Kms",First Owner,Diesel,105,5,15.5 kmpl,Sedan,Chandigarh
+872,2012 Mercedes-Benz GL-Class Grand Edition Luxury,₹ 18 Lakh,2012,2987 cc,Third Party insurance,Automatic,"1,20,000 Kms",Second Owner,Diesel,221.3bhp,7,12 kmpl,SUV,Chandigarh
+873,2019 BMW X4 M Sport X xDrive20d,₹ 53.75 Lakh,Jul-19,1995 cc,Comprehensive,Automatic,"18,000 Kms",Second Owner,Diesel,187.74bhp,5,16.55 kmpl,SUV,Delhi
+874,2021 Nissan Magnite XV BSVI,₹ 6.40 Lakh,Mar-21,999 cc,Third Party,Manual,"47,289 Kms",Second Owner,Petrol,71.02bhp,5,18.75 kmpl,SUV,Chandigarh
+875,2020 Toyota Yaris J,₹ 7.73 Lakh,Jan-21,1496 cc,Zero Dep,Manual,"38,874 Kms",First Owner,Petrol,105.94bhp,5,17.1 kmpl,Sedan,Chandigarh
+876,2022 Hyundai i20 Sportz BSVI,₹ 7.04 Lakh,Apr-22,1197 cc,Zero Dep,Manual,"33,567 Kms",First Owner,Petrol,81.80bhp,5,21 kmpl,Hatchback,Chandigarh
+877,2021 Maruti Vitara Brezza VXI,₹ 8.38 Lakh,Jun-21,1462 cc,Zero Dep,Manual,"34,541 Kms",First Owner,Petrol,103.26bhp,5,17.03 kmpl,SUV,Chandigarh
+878,2021 Maruti Baleno Delta,₹ 6.42 Lakh,Jun-21,1197 cc,Third Party,Manual,"37,288 Kms",First Owner,Petrol,81.80bhp,5,21.01 kmpl,Hatchback,Chandigarh
+879,2018 Maruti Baleno 1.3 Delta,₹ 5.24 Lakh,Mar-18,1248 cc,Zero Dep,Manual,"52,948 Kms",First Owner,Diesel,74bhp,5,27.39 kmpl,Hatchback,Chandigarh
+880,2018 Hyundai i20 1.2 Spotz,₹ 5.51 Lakh,Dec-18,1197 cc,Third Party insurance,Manual,"46,184 Kms",Second Owner,Petrol,81.83bhp,5,18.6 kmpl,Hatchback,Chandigarh
+881,2021 Tata Nexon XZ Plus DualTone Roof,₹ 10.09 Lakh,Feb-21,1199 cc,Zero Dep,Manual,"12,315 Kms",First Owner,Petrol,118.36bhp,5,17.57 kmpl,SUV,Chandigarh
+882,2023 BMW X1 sDrive18d M Sport,₹ 55.75 Lakh,Mar-23,1995 cc,Comprehensive,Automatic,"6,000 Kms",First Owner,Diesel,147.51bhp,5,20.37 kmpl,SUV,Delhi
+883,2008 Maruti Swift Dzire 1.2 Vxi BSIV,"₹ 90,000",2008,1197 cc,Third Party insurance,Manual,"1,20,000 Kms",Third Owner,Petrol,85.8bhp,5,17.5 kmpl,Sedan,Chandigarh
+884,2015 Hyundai EON 1.0 Kappa Magna Plus,₹ 2 Lakh,2015,998 cc,Third Party insurance,Manual,"60,000 Kms",Second Owner,Petrol,68.05bhp,5,20.3 kmpl,Hatchback,Chandigarh
+885,2013 Mahindra XUV500 W6 2WD,₹ 4.20 Lakh,2013,2179 cc,Third Party insurance,Manual,"1,00,000 Kms",Second Owner,Diesel,140bhp,7,15.1 kmpl,SUV,Chandigarh
+886,2008 Maruti Zen Estilo LX BSIII,"₹ 99,000",2008,998 cc,Third Party insurance,Manual,"1,20,000 Kms",Second Owner,Petrol,67.1bhp,5,18.2 kmpl,Hatchback,Chandigarh
+887,2011 Toyota Fortuner 3.0 Diesel,₹ 6.50 Lakh,2011,2982 cc,Third Party insurance,Manual,"1,20,000 Kms",First Owner,Diesel,171 PS,7,11.5 kmpl,SUV,Chandigarh
+888,2012 Skoda Yeti Elegance,₹ 4 Lakh,2012,1968 cc,Third Party insurance,Manual,"1,50,000 Kms",Third Owner,Diesel,138.08bhp,5,17.67 kmpl,SUV,Chandigarh
+889,2017 Mahindra KUV 100 mFALCON G80 K8 Dual Tone,₹ 3.97 Lakh,Nov-17,1198 cc,Third Party,Manual,"51,201 Kms",Second Owner,Petrol,82bhp,6,18.15 kmpl,SUV,Chandigarh
+890,2022 Maruti S-Presso VXI Plus 2019-2022,₹ 4.41 Lakh,Apr-22,998 cc,Third Party insurance,Manual,"10,592 Kms",First Owner,Petrol,65.71bhp,5,21.7 kmpl,Hatchback,Chandigarh
+891,2018 Maruti Swift Dzire VXI 1.2,₹ 5.04 Lakh,Jul-18,1197 cc,Zero Dep,Manual,"1,16,881 Kms",First Owner,Petrol,81.80bhp,5,21.21 kmpl,Sedan,Chandigarh
+892,2015 Mercedes-Benz S-Class S 500 L,₹ 51.50 Lakh,Jul-15,4663 cc,Comprehensive,Automatic,"55,000 Kms",First Owner,Petrol,453.26bhp,5,7.81 kmpl,Sedan,Delhi
+893,2016 Hyundai i20 Asta 1.4 CRDi,₹ 5.19 Lakh,Oct-16,1396 cc,Comprehensive,Manual,"1,03,369 Kms",Third Owner,Diesel,88.73bhp,5,22.54 kmpl,Hatchback,Chandigarh
+894,2018 Maruti Alto K10 VXI,₹ 3.32 Lakh,Aug-18,998 cc,Third Party,Manual,"53,237 Kms",First Owner,Petrol,65.71bhp,5,24.39 kmpl,Hatchback,Chandigarh
+895,2018 Maruti Swift Dzire ZDI,₹ 6.53 Lakh,Nov-18,1248 cc,Third Party,Manual,"49,627 Kms",First Owner,Diesel,74.02bhp,5,28.4 kmpl,Sedan,Chandigarh
+896,2021 MG Gloster Savvy 6-Str,₹ 35.75 Lakh,Jul-21,1996 cc,Comprehensive,Automatic,"55,000 Kms",First Owner,Diesel,215.01bhp,6,12.4 kmpl,SUV,Delhi
+897,2021 Maruti Wagon R VXI,₹ 4.90 Lakh,Nov-21,998 cc,Third Party,Manual,"6,090 Kms",First Owner,Petrol,67.05bhp,5,21.79 kmpl,Hatchback,Chandigarh
+898,2020 Maruti Vitara Brezza ZXI Plus,₹ 8.56 Lakh,Jul-20,1462 cc,Third Party insurance,Manual,"14,654 Kms",Second Owner,Petrol,103.26bhp,5,17.03 kmpl,SUV,Chandigarh
+899,2020 Kia Seltos HTK Plus G,₹ 10.76 Lakh,Jun-20,1497 cc,Zero Dep,Manual,"19,715 Kms",First Owner,Petrol,113.43bhp,5,16.8 kmpl,SUV,Chandigarh
+900,2018 BMW 5 Series 520d Sport Line,₹ 36.85 Lakh,Jul-18,1995 cc,Comprehensive,Automatic,"55,000 Kms",Second Owner,Diesel,187.74bhp,5,22.48 kmpl,Sedan,Delhi
+901,2019 Hyundai i20 Sportz Plus BSIV,₹ 6 Lakh,2019,1197 cc,Third Party insurance,Manual,"40,000 Kms",First Owner,Petrol,81.86bhp,5,18.6 kmpl,Hatchback,Chandigarh
+902,2014 Maruti Swift VDI BSIV,₹ 4.60 Lakh,2014,1248 cc,Third Party insurance,Manual,"90,000 Kms",First Owner,Diesel,74bhp,5,25.2 kmpl,Hatchback,Chandigarh
+903,2020 Maruti Vitara Brezza ZXI Plus Dual Tone,₹ 8 Lakh,2020,1462 cc,Third Party insurance,Manual,"40,000 Kms",First Owner,Petrol,103.26bhp,5,17.03 kmpl,SUV,Chandigarh
+904,2019 Hyundai i20 Diesel Magna,₹ 6.50 Lakh,2019,1396 cc,Third Party insurance,Manual,"70,000 Kms",Second Owner,Diesel,88.76bhp,5,22.54 kmpl,Hatchback,Chandigarh
+905,2021 Maruti Alto 800 VXI BSVI,₹ 4.22 Lakh,2021,796 cc,Third Party insurance,Manual,"30,000 Kms",First Owner,Petrol,47.33bhp,5,22.05 kmpl,Hatchback,Chandigarh
+906,2006 Honda City GXi,₹ 1.99 Lakh,2006,1497 cc,Third Party insurance,Manual,"1,00,000 Kms",First Owner,Petrol,78,5,17.7 kmpl,Sedan,Chandigarh
+907,2015 Maruti Alto K10 VXI,₹ 2.50 Lakh,Mar-16,998 cc,Third Party,Manual,"46,499 Kms",Second Owner,Petrol,65.71bhp,5,24.39 kmpl,Hatchback,Chandigarh
+908,2019 Renault Triber RXZ,₹ 4.52 Lakh,Jan-20,999 cc,Third Party insurance,Manual,"62,391 Kms",First Owner,Petrol,71.01bhp,7,20 kmpl,MUV,Chandigarh
+909,2019 Maruti Wagon R VXI 1.2,₹ 4.78 Lakh,Apr-19,1197 cc,Third Party,Manual,"67,492 Kms",First Owner,Petrol,81.80bhp,5,20.52 kmpl,Hatchback,Chandigarh
+910,2021 Hyundai i20 Sportz IVT DT,₹ 7.80 Lakh,May-21,1197 cc,Zero Dep,Automatic,"16,659 Kms",First Owner,Petrol,86.80bhp,5,19.65 kmpl,Hatchback,Chandigarh
+911,2022 Maruti Vitara Brezza VXI,₹ 8.41 Lakh,Jan-22,1462 cc,Zero Dep,Manual,"22,783 Kms",Second Owner,Petrol,103.26bhp,5,17.03 kmpl,SUV,Chandigarh
+912,2018 Maruti Alto K10 VXI,₹ 3.43 Lakh,Jun-18,998 cc,Zero Dep,Manual,"56,156 Kms",First Owner,Petrol,65.71bhp,5,24.39 kmpl,Hatchback,Chandigarh
+913,2017 Tata Tigor 1.2 Revotron XM,₹ 3.99 Lakh,Dec-17,1199 cc,Third Party,Manual,"73,344 Kms",Second Owner,Petrol,84bhp,5,20.3 kmpl,Sedan,Chandigarh
+914,2018 Maruti Celerio ZXI,₹ 3.83 Lakh,Dec-18,998 cc,Zero Dep,Manual,"65,979 Kms",First Owner,Petrol,65.71bhp,5,25.24 kmpl,Hatchback,Chandigarh
+915,2021 Skoda Rapid 1.0 TSI Style AT,₹ 10.83 Lakh,May-21,999 cc,Third Party insurance,Automatic,"14,091 Kms",First Owner,Petrol,108.62bhp,5,16.24 kmpl,Sedan,Chandigarh
+916,2016 Maruti Vitara Brezza VDi,₹ 5.50 Lakh,2016,1248 cc,Third Party insurance,Manual,"90,000 Kms",Second Owner,Diesel,88.5bhp,5,24.3 kmpl,SUV,Chandigarh
+917,2019 Kia Seltos HTK Plus AT D,₹ 16.50 Lakh,2019,1493 cc,Third Party insurance,Automatic,"80,000 Kms",First Owner,Diesel,113.42bhp,5,17.8 kmpl,SUV,Chandigarh
+918,2013 Honda Amaze S i-Dtech,₹ 3.50 Lakh,2013,1498 cc,Third Party insurance,Manual,"1,20,000 Kms",First Owner,Diesel,98.6bhp,5,25.8 kmpl,Sedan,Chandigarh
+919,2018 Nissan Sunny XE D,₹ 6 Lakh,2018,1461 cc,Third Party insurance,Manual,"70,000 Kms",First Owner,Diesel,84.8bhp,5,22.71 kmpl,Sedan,Chandigarh
+920,2012 Audi A4 2.0 TDI,₹ 7 Lakh,2012,1968 cc,Third Party insurance,Automatic,"90,000 Kms",Second Owner,Diesel,147.51bhp,5,16.55 kmpl,Sedan,Chandigarh
+921,2013 Audi A6 2.0 TDI,₹ 9.80 Lakh,2013,1968 cc,Third Party insurance,Automatic,"60,000 Kms",Second Owner,Diesel,174.33bhp,5,17.68 kmpl,Sedan,Chandigarh
+922,2021 Renault Triber RXZ Dual Tone,₹ 6.75 Lakh,Jun-22,999 cc,Zero Dep,Manual,"12,549 Kms",First Owner,Petrol,71.01bhp,7,20 kmpl,MUV,Chandigarh
+923,2013 Mahindra Bolero SLX,₹ 3.99 Lakh,Apr-13,2523 cc,Third Party,Manual,"83,078 Kms",Second Owner,Diesel,62.1bhp,7,15.96 kmpl,SUV,Chandigarh
+924,2021 Maruti Celerio ZXI Plus,₹ 5.83 Lakh,Dec-21,998 cc,Comprehensive,Manual,"17,759 Kms",First Owner,Petrol,65.71bhp,5,24.97 kmpl,Hatchback,Chandigarh
+925,2019 Maruti Vitara Brezza VDi AMT,₹ 7.79 Lakh,Sep-19,1248 cc,Zero Dep,Automatic,"45,739 Kms",First Owner,Diesel,88.5bhp,5,24.3 kmpl,SUV,Chandigarh
+926,2021 Toyota Yaris G CVT,₹ 10.08 Lakh,Mar-21,1496 cc,Third Party,Automatic,"36,453 Kms",First Owner,Petrol,105.94bhp,5,17.8 kmpl,Sedan,Chandigarh
+927,2017 Maruti Swift VDI BSIV,₹ 4.49 Lakh,Jul-17,1248 cc,Third Party insurance,Manual,"83,340 Kms",First Owner,Diesel,74bhp,5,25.2 kmpl,Hatchback,Chandigarh
+928,2013 Toyota Fortuner 4x2 AT,₹ 10.25 Lakh,Jul-13,2982 cc,Comprehensive,Automatic,"1,05,000 Kms",Third Owner,Diesel,168.5bhp,7,12.55 kmpl,SUV,Delhi
+929,2018 Maruti Baleno 1.2 CVT Delta,₹ 5.84 Lakh,Feb-18,1197 cc,Third Party insurance,Automatic,"44,491 Kms",Second Owner,Petrol,83.1bhp,5,21.4 kmpl,Hatchback,Chandigarh
+930,2019 Maruti Swift VXI,₹ 5.38 Lakh,Apr-19,1197 cc,Third Party insurance,Manual,"51,193 Kms",First Owner,Petrol,81.80bhp,5,21.21 kmpl,Hatchback,Chandigarh
+931,2016 Maruti Swift Dzire VDI,₹ 5.23 Lakh,Apr-16,1248 cc,Comprehensive,Manual,"68,917 Kms",First Owner,Diesel,74bhp,5,26.59 kmpl,Sedan,Chandigarh
+932,2015 Honda City i DTEC SV,₹ 5 Lakh,2015,1498 cc,Third Party insurance,Manual,"50,000 Kms",First Owner,Diesel,98.6bhp,5,26 kmpl,Sedan,Chandigarh
+933,2021 Maruti Wagon R ZXI 1.2,₹ 5.88 Lakh,2021,1197 cc,Third Party insurance,Manual,"50,000 Kms",First Owner,Petrol,81.80bhp,5,20.52 kmpl,Hatchback,Chandigarh
+934,2013 Hyundai i20 Magna Optional 1.2,₹ 3.10 Lakh,2013,1197 cc,Third Party insurance,Manual,"80,000 Kms",Second Owner,Petrol,82.9bhp,5,18.5 kmpl,Hatchback,Chandigarh
+935,2012 Volkswagen Polo Diesel Highline 1.2L,₹ 2.35 Lakh,2012,1199 cc,Third Party insurance,Manual,"80,000 Kms",Fifth Owner,Diesel,73.9bhp,5,22.07 kmpl,Hatchback,Chandigarh
+936,2016 Hyundai Creta 1.6 CRDi SX,₹ 8.50 Lakh,2016,1582 cc,Third Party insurance,Manual,"1,20,000 Kms",First Owner,Diesel,126.2bhp,5,19.67 kmpl,SUV,Chandigarh
+937,2017 Hyundai Creta 1.6 VTVT SX Plus,₹ 8.15 Lakh,Jun-17,1591 cc,Third Party,Manual,"63,817 Kms",First Owner,Petrol,121.3bhp,5,13 kmpl,SUV,Chandigarh
+938,2014 Maruti Alto 800 LXI,₹ 2.32 Lakh,Jun-14,796 cc,Comprehensive,Manual,"90,336 Kms",Second Owner,Petrol,47.3bhp,5,22.74 kmpl,Hatchback,Chandigarh
+939,2014 Maruti Swift Dzire VDI,₹ 4.43 Lakh,Jun-14,1248 cc,Comprehensive,Manual,"62,554 Kms",First Owner,Diesel,74bhp,5,23.4 kmpl,Sedan,Chandigarh
+940,2022 Kia Seltos X-Line Diesel AT,₹ 19.80 Lakh,Jul-22,1493 cc,Comprehensive,Automatic,"32,000 Kms",First Owner,Diesel,113.43bhp,5,18 kmpl,SUV,Delhi
+941,2020 Kia Seltos HTX IVT G,₹ 11.33 Lakh,Jun-20,1497 cc,Third Party,Automatic,"24,293 Kms",Second Owner,Petrol,113.42bhp,5,16.8 kmpl,SUV,Chandigarh
+942,2018 Maruti Swift VXI,₹ 5.96 Lakh,Sep-18,1197 cc,Third Party,Manual,"69,553 Kms",First Owner,Petrol,88.50bhp,5,22.38 kmpl,Hatchback,Chandigarh
+943,2017 Mercedes-Benz GLS 350d 4MATIC,₹ 55.50 Lakh,Jul-17,2987 cc,Third Party insurance,Automatic,"44,000 Kms",Second Owner,Diesel,258bhp,7,11 kmpl,SUV,Delhi
+944,2016 Toyota Etios 1.4 VD,₹ 4.18 Lakh,Jun-16,1364 cc,Third Party,Manual,"73,671 Kms",Second Owner,Diesel,67.05bhp,5,23.59 kmpl,Sedan,Chandigarh
+945,2017 Maruti Ciaz VXi Plus,₹ 5.97 Lakh,Jun-17,1373 cc,Comprehensive,Manual,"63,705 Kms",Second Owner,Petrol,91.1bhp,5,20.73 kmpl,Sedan,Chandigarh
+946,2019 Maruti Alto 800 LXI,₹ 3.24 Lakh,Jun-19,796 cc,Third Party,Manual,"20,320 Kms",First Owner,Petrol,47.33bhp,5,22.05 kmpl,Hatchback,Chandigarh
+947,2021 Hyundai Aura S,₹ 7.50 Lakh,2021,1197 cc,Third Party insurance,Manual,"80,000 Kms",First Owner,Petrol,81.86bhp,5,20.5 kmpl,Sedan,Chandigarh
+948,2019 Ford Figo 1.2P Titanium MT,₹ 4.50 Lakh,2019,1196 cc,Third Party insurance,Manual,"70,000 Kms",First Owner,Petrol,86.8bhp,5,18.16 kmpl,Hatchback,Chandigarh
+949,2011 Audi A4 2.0 TDI,₹ 8 Lakh,2011,1968 cc,Third Party insurance,Automatic,"90,000 Kms",Second Owner,Diesel,147.51bhp,5,16.55 kmpl,Sedan,Chandigarh
+950,2010 Hyundai i10 Magna 1.2,₹ 2.20 Lakh,2010,1197 cc,Third Party insurance,Manual,"80,000 Kms",First Owner,Petrol,78.9bhp,5,20.36 kmpl,Hatchback,Chandigarh
+951,2016 Maruti Baleno 1.2 Delta,₹ 5 Lakh,2016,1197 cc,Third Party insurance,Manual,"70,000 Kms",First Owner,Petrol,83.1bhp,5,21.4 kmpl,Hatchback,Chandigarh
+952,2011 Toyota Etios V,₹ 3.50 Lakh,2011,1496 cc,Third Party insurance,Manual,"70,000 Kms",First Owner,Petrol,,5,17.6 kmpl,Sedan,Chandigarh
+953,2021 Toyota Innova Crysta 2.4 GX 7 STR AT,₹ 23.25 Lakh,Jul-21,2393 cc,Third Party insurance,Automatic,"29,000 Kms",First Owner,Diesel,148bhp,7,12 kmpl,MUV,Delhi
+954,2019 Hyundai i20 Sportz Plus Dual Tone Diesel,₹ 8.51 Lakh,Jun-19,1396 cc,Comprehensive,Manual,"76,769 Kms",First Owner,Diesel,88.76bhp,5,22.54 kmpl,Hatchback,Chandigarh
+955,2012 Maruti Swift Dzire VXI,₹ 3.11 Lakh,Sep-12,1197 cc,Third Party,Manual,"1,11,505 Kms",Third Owner,Petrol,88.50bhp,5,22.41 kmpl,Sedan,Chandigarh
+956,2018 Maruti Baleno 1.2 Delta,₹ 5.49 Lakh,Dec-18,1197 cc,Comprehensive,Manual,"81,439 Kms",First Owner,Petrol,83.1bhp,5,21.4 kmpl,Hatchback,Chandigarh
+957,2019 Ford Mustang V8,₹ 88 Lakh,Jan-19,4951 cc,Third Party insurance,Automatic,"40,000 Kms",Third Owner,Petrol,395bhp,4,13 kmpl,Coupe,Gurgaon
+958,2017 Honda City i VTEC CVT VX,₹ 7.43 Lakh,Apr-17,1497 cc,Comprehensive,Automatic,"36,964 Kms",First Owner,Petrol,117.3bhp,5,18 kmpl,Sedan,Chandigarh
+959,2019 Hyundai Grand i10 1.2 Kappa Magna BSIV,₹ 5.59 Lakh,Apr-19,1197 cc,Third Party insurance,Manual,"42,474 Kms",First Owner,Petrol,81.86bhp,5,18.9 kmpl,Hatchback,Chandigarh
+960,2016 Hyundai Grand i10 Magna,₹ 4.14 Lakh,Dec-16,1197 cc,Comprehensive,Manual,"27,998 Kms",First Owner,Petrol,82bhp,5,18.9 kmpl,Hatchback,Chandigarh
+961,2019 Hyundai Santro Sportz CNG BSIV,₹ 5 Lakh,Oct-19,1086 cc,Third Party,Manual,"67,409 Kms",First Owner,CNG,58bhp,5,30.48 km/kg,Hatchback,Chandigarh
+962,2021 Nissan Magnite XV Premium BSVI,₹ 8.21 Lakh,Jul-21,999 cc,Zero Dep,Manual,"23,726 Kms",First Owner,Petrol,71.02bhp,5,18.75 kmpl,SUV,Chandigarh
+963,2016 Ford Ecosport 1.5 TDCi Ambiente BSIV,₹ 4.61 Lakh,Jun-16,1498 cc,Comprehensive,Manual,"40,251 Kms",First Owner,Diesel,98.59bhp,5,22.77 kmpl,SUV,Chandigarh
+964,2022 Mercedes-Benz AMG A 35 4MATIC BSVI,₹ 59.80 Lakh,Dec-22,1991 cc,Third Party insurance,Automatic,"3,200 Kms",First Owner,Petrol,301.73bhp,5,,Sedan,Gurgaon
+965,2014 Maruti Swift VDI BSIV,₹ 4.75 Lakh,2014,1248 cc,Third Party insurance,Manual,"80,000 Kms",First Owner,Diesel,74bhp,5,25.2 kmpl,Hatchback,Chandigarh
+966,2018 Hyundai Grand i10 1.2 Kappa Sportz Option,₹ 3.20 Lakh,2018,1197 cc,Third Party insurance,Manual,"1,00,000 Kms",Second Owner,Petrol,81.86bhp,5,18.9 kmpl,Hatchback,Chandigarh
+967,2014 Hyundai Verna 1.6 SX VTVT,₹ 3.60 Lakh,2014,1591 cc,Third Party insurance,Manual,"1,20,000 Kms",First Owner,Petrol,121.3bhp,5,17.01 kmpl,Sedan,Chandigarh
+968,2018 Hyundai i20 1.4 Asta Option,₹ 6.75 Lakh,2018,1396 cc,Third Party insurance,Manual,"50,000 Kms",First Owner,Diesel,88.73bhp,5,22.54 kmpl,Hatchback,Chandigarh
+969,2022 Mahindra Thar LX 4-Str Hard Top AT BSVI,₹ 16 Lakh,2022,1997 cc,Third Party insurance,Automatic,"20,000 Kms",Second Owner,Petrol,150bhp,4,,SUV,Chandigarh
+970,2018 Hyundai Elite i20 2018 Diesel Asta Option,₹ 6.75 Lakh,2018,1396 cc,Third Party insurance,Manual,"50,000 Kms",First Owner,Diesel,88.73bhp,5,22.54 kmpl,Hatchback,Chandigarh
+971,2019 Audi Q7 45 TDI Quattro Premium Plus,₹ 66.75 Lakh,Jul-19,2967 cc,Third Party insurance,Automatic,"25,000 Kms",First Owner,Diesel,245bhp,7,14.75 kmpl,SUV,Delhi
+972,2020 Maruti Wagon R CNG LXI,₹ 5.30 Lakh,Jun-20,998 cc,Third Party,Manual,"47,473 Kms",First Owner,CNG,58.33bhp,5,32.52 kmpl,Hatchback,Chandigarh
+973,2022 Hyundai Venue SX BSVI,₹ 10.25 Lakh,Jun-22,1197 cc,Third Party,Manual,"23,471 Kms",First Owner,Petrol,81.80bhp,5,,SUV,Chandigarh
+974,2022 Maruti Wagon R LXI CNG BSVI,₹ 5.58 Lakh,Jun-22,998 cc,Comprehensive,Manual,"1,962 Kms",First Owner,CNG,55.92bhp,5,34.05 kmpl,Hatchback,Chandigarh
+975,2022 Maruti Ignis Delta BSVI,₹ 5.73 Lakh,Jun-22,1197 cc,Third Party,Manual,"4,440 Kms",First Owner,Petrol,81.80bhp,5,20.89 kmpl,Hatchback,Chandigarh
+976,2016 Maruti Vitara Brezza VDi Option,₹ 5.61 Lakh,Jun-16,1248 cc,Third Party,Manual,"79,772 Kms",Second Owner,Diesel,88.5bhp,5,24.3 kmpl,SUV,Chandigarh
+977,2021 Honda Amaze VX BSVI,₹ 7.44 Lakh,Jun-21,1199 cc,Comprehensive,Manual,"27,781 Kms",First Owner,Petrol,88.50bhp,5,18.6 kmpl,Sedan,Chandigarh
+978,2019 Maruti Baleno 1.2 Zeta,₹ 7.23 Lakh,Oct-19,1197 cc,Third Party,Manual,"53,642 Kms",Second Owner,Petrol,83.1bhp,5,21.4 kmpl,Hatchback,Chandigarh
+979,2019 Hyundai Grand i10 1.2 Kappa Sportz BSIV,₹ 5.72 Lakh,Aug-19,1197 cc,Zero Dep,Manual,"15,100 Kms",First Owner,Petrol,81.86bhp,5,18.9 kmpl,Hatchback,Chandigarh
+980,2019 Maruti Ciaz Alpha 1.5,₹ 8.49 Lakh,Apr-19,1498 cc,Zero Dep,Manual,"89,992 Kms",First Owner,Diesel,93.87bhp,5,26.82 kmpl,Sedan,Chandigarh
+981,2016 Maruti SX4 S Cross DDiS 200 Delta,₹ 5 Lakh,2016,1248 cc,Third Party insurance,Manual,"1,10,000 Kms",First Owner,Diesel,88.5bhp,5,23.65 kmpl,SUV,Chandigarh
+982,2017 Fiat Punto EVO 1.3 Active,₹ 3.80 Lakh,2017,1248 cc,Third Party insurance,Manual,"80,000 Kms",First Owner,Diesel,91.7bhp,5,20.5 kmpl,Hatchback,Chandigarh
+983,2018 Maruti Wagon R LXI CNG,₹ 3.17 Lakh,2018,998 cc,Third Party insurance,Manual,"1,20,000 Kms",Second Owner,CNG,58.16bhp,5,26.6 kmpl,Hatchback,Chandigarh
+984,2022 Mahindra XUV300 W8 BSVI,₹ 11.50 Lakh,2022,1197 cc,Third Party insurance,Manual,"20,000 Kms",First Owner,Petrol,108.62bhp,5,16.82 kmpl,SUV,Chandigarh
+985,2013 Toyota Fortuner 4x2 Manual,₹ 11.50 Lakh,2013,2982 cc,Third Party insurance,Manual,"1,20,000 Kms",Second Owner,Diesel,168.5bhp,7,13 kmpl,SUV,Chandigarh
+986,2020 Hyundai Aura SX,₹ 6.50 Lakh,2020,1197 cc,Third Party insurance,Manual,"30,000 Kms",First Owner,Petrol,81.86bhp,5,20.5 kmpl,Sedan,Chandigarh
+987,2017 BMW X1 sDrive 20d xLine,₹ 22.50 Lakh,Jul-17,1995 cc,Third Party insurance,Automatic,"38,000 Kms",First Owner,Diesel,188bhp,5,20.68 kmpl,SUV,Delhi
+988,2018 Hyundai Xcent 1.2 VTVT SX,₹ 6.56 Lakh,Oct-18,1197 cc,Comprehensive,Manual,"63,970 Kms",First Owner,Petrol,81.86bhp,5,20.14 kmpl,Sedan,Chandigarh
+989,2017 Hyundai i20 Sportz 1.2,₹ 5.56 Lakh,Aug-17,1197 cc,Comprehensive,Manual,"63,899 Kms",First Owner,Petrol,81.83bhp,5,18.6 kmpl,Hatchback,Chandigarh
+990,2017 Maruti Alto K10 VXI,₹ 3.16 Lakh,Sep-17,998 cc,Comprehensive,Manual,"43,922 Kms",First Owner,Petrol,65.71bhp,5,24.39 kmpl,Hatchback,Chandigarh
+991,2016 Maruti Alto K10 VXI AMT,₹ 3.42 Lakh,Apr-16,998 cc,Third Party,Automatic,"36,998 Kms",First Owner,Petrol,67.05bhp,5,23.95 kmpl,Hatchback,Chandigarh
+992,2018 Maruti Alto K10 VXI,₹ 3.73 Lakh,Sep-18,998 cc,Third Party,Manual,"36,361 Kms",First Owner,Petrol,65.71bhp,5,24.39 kmpl,Hatchback,Chandigarh
+993,2017 Mercedes-Benz GLS 350d 4MATIC,₹ 49.50 Lakh,Jul-17,2987 cc,Comprehensive,Automatic,"80,000 Kms",Second Owner,Diesel,258bhp,7,11 kmpl,SUV,Delhi
+994,2015 Maruti Alto K10 VXI,₹ 2.90 Lakh,Nov-15,998 cc,Zero Dep,Manual,"36,627 Kms",First Owner,Petrol,65.71bhp,5,24.39 kmpl,Hatchback,Chandigarh
+995,2022 Maruti Alto 800 VXI Plus BSVI,₹ 4.22 Lakh,May-22,796 cc,Third Party,Manual,"2,045 Kms",Second Owner,Petrol,47.33bhp,5,22.05 kmpl,Hatchback,Chandigarh
+996,2018 Maruti Vitara Brezza ZDi Plus AMT,₹ 7.62 Lakh,Jul-18,1248 cc,Third Party,Automatic,"57,238 Kms",First Owner,Diesel,88.5bhp,5,24.3 kmpl,SUV,Chandigarh
+997,2010 Volkswagen Polo Diesel Highline 1.2L,₹ 1.80 Lakh,2010,1199 cc,Third Party insurance,Manual,"1,00,000 Kms",Second Owner,Diesel,73.9bhp,5,22.07 kmpl,Hatchback,Chandigarh
+998,2012 Skoda Superb 2.0 TDI PD,₹ 5.45 Lakh,2012,1968 cc,Third Party insurance,Automatic,"1,10,000 Kms",First Owner,Diesel,138.1bhp,5,13.7 kmpl,Sedan,Chandigarh
